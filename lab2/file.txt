@@ -1,0 +1,6 @@
+#дон ли волга ли течет
+DEFINE a 100
+PUSH a
+PUSH 13
+/
+PRINT

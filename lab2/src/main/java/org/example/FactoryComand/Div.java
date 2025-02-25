@@ -8,8 +8,8 @@ public class Div implements iComand {
         if (stack.size() < 2) {
             throw new EmptyStackException();
         }
-        Double dividend = stack.pop(); // делимое
         Double divider = stack.pop(); // делитель
+        Double dividend = stack.pop(); // делимое
         if (divider == 0.0) {
             throw new ArithmeticException();
         }

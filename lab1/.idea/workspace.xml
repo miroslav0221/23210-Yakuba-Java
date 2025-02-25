@@ -36,32 +36,31 @@
 }</component>
   <component name="ProjectId" id="2sd5QSfn04yKqW64mlyNjcyyYF2" />
   <component name="ProjectViewState">
-    <option name="autoscrollToSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Gradle.Build lab1.executor": "Run",
-    "Gradle.lab1 [:org.example.Main.main()].executor": "Run",
-    "Gradle.lab1 [:org.example.Parser.main()].executor": "Run",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "lab2",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/miroslav/labs_java/23210-Yakuba/23210-Yakuba-Java/lab1",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "/Users/miroslav/labs_java/23210-Yakuba/23210-Yakuba-Java/lab1/src/main/java/org/example/Main.java",
-    "project.structure.last.edited": "Artifacts",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.keymap",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Gradle.Build lab1.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.lab1 [:org.example.Main.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.lab1 [:org.example.Parser.main()].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;lab2&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/miroslav/labs_java/23210-Yakuba/23210-Yakuba-Java/lab1&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/miroslav/labs_java/23210-Yakuba/23210-Yakuba-Java/lab1/src/main/java/org/example/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Artifacts&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="Parser" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.Parser" />
@@ -101,6 +100,7 @@
       <updated>1738772597302</updated>
       <workItem from="1738772598380" duration="32988000" />
       <workItem from="1739114755979" duration="2273000" />
+      <workItem from="1740152842551" duration="19000" />
     </task>
     <servers />
   </component>
