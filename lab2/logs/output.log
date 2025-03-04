@@ -1,0 +1,66 @@
+17:31:50.236 [main] DEBUG org.example.Main - Был создан парсер
+17:31:50.237 [main] DEBUG org.example.Calculator.Calculator - Была создана фабрика
+17:31:50.237 [main] DEBUG org.example.Parser.StreamParser - Получен путь к файлу
+17:31:50.237 [main] DEBUG org.example.Parser.StreamParser - Файл считан
+17:31:50.237 [main] DEBUG org.example.Calculator.Calculator - Установлен режим file
+17:31:50.237 [main] DEBUG org.example.Parser.StreamParser - Считана строка
+17:31:50.237 [main] DEBUG org.example.Parser.StreamParser - Получена строка с комментарием
+17:31:50.238 [main] DEBUG org.example.Calculator.Calculator - Получена операция файла
+17:31:50.238 [main] DEBUG org.example.Calculator.Calculator - Обработана операция файла
+17:31:50.238 [main] DEBUG org.example.Parser.StreamParser - Считана строка
+17:31:50.238 [main] DEBUG org.example.Parser.StreamParser - Создан макрос
+17:31:50.238 [main] DEBUG org.example.Calculator.Calculator - Получена операция файла
+17:31:50.238 [main] DEBUG org.example.Calculator.Calculator - Обработана операция файла
+17:31:50.238 [main] DEBUG org.example.Parser.StreamParser - Считана строка
+17:31:50.238 [main] DEBUG org.example.Parser.StreamParser - Запушено значение
+17:31:50.238 [main] DEBUG org.example.Calculator.Calculator - Получена операция файла
+17:31:50.238 [main] DEBUG org.example.Calculator.Calculator - Обработана операция файла
+17:31:50.238 [main] DEBUG org.example.Parser.StreamParser - Считана строка
+17:31:50.238 [main] DEBUG org.example.Parser.StreamParser - Запушено значение
+17:31:50.238 [main] DEBUG org.example.Calculator.Calculator - Получена операция файла
+17:31:50.238 [main] DEBUG org.example.Calculator.Calculator - Обработана операция файла
+17:31:50.238 [main] DEBUG org.example.Parser.StreamParser - Считана строка
+17:31:50.238 [main] DEBUG org.example.Calculator.Calculator - Получена операция файла
+17:31:50.238 [main] DEBUG org.example.FactoryComand.Factory - Произведено вычисление
+17:31:50.238 [main] DEBUG org.example.Calculator.Calculator - Обработана операция файла
+17:31:50.239 [main] DEBUG org.example.Parser.StreamParser - Считана строка
+17:31:50.239 [main] DEBUG org.example.Parser.StreamParser - print выполнен
+17:31:50.239 [main] DEBUG org.example.Calculator.Calculator - Получена операция файла
+17:31:50.239 [main] DEBUG org.example.Calculator.Calculator - Обработана операция файла
+17:31:50.239 [main] DEBUG org.example.Parser.StreamParser - Считана строка
+17:31:50.239 [main] ERROR org.example.Parser.StreamParser - Файл закончен или произошла ошибка в чтении
+17:31:50.239 [main] DEBUG org.example.Calculator.Calculator - Получена операция файла
+17:31:50.239 [main] INFO  org.example.Main - Калькулятор завершил работу
+17:33:40.196 DEBUG org.example.Main - Был создан парсер
+17:33:40.197 DEBUG org.example.Calculator.Calculator - Была создана фабрика
+17:33:40.197 DEBUG org.example.Parser.StreamParser - Получен путь к файлу
+17:33:40.198 DEBUG org.example.Parser.StreamParser - Файл считан
+17:33:40.198 DEBUG org.example.Calculator.Calculator - Установлен режим file
+17:33:40.198 DEBUG org.example.Parser.StreamParser - Считана строка
+17:33:40.198 DEBUG org.example.Parser.StreamParser - Получена строка с комментарием
+17:33:40.198 DEBUG org.example.Calculator.Calculator - Получена операция файла
+17:33:40.198 DEBUG org.example.Calculator.Calculator - Обработана операция файла
+17:33:40.198 DEBUG org.example.Parser.StreamParser - Считана строка
+17:33:40.198 DEBUG org.example.Parser.StreamParser - Создан макрос
+17:33:40.198 DEBUG org.example.Calculator.Calculator - Получена операция файла
+17:33:40.198 DEBUG org.example.Calculator.Calculator - Обработана операция файла
+17:33:40.198 DEBUG org.example.Parser.StreamParser - Считана строка
+17:33:40.198 DEBUG org.example.Parser.StreamParser - Запушено значение
+17:33:40.198 DEBUG org.example.Calculator.Calculator - Получена операция файла
+17:33:40.198 DEBUG org.example.Calculator.Calculator - Обработана операция файла
+17:33:40.198 DEBUG org.example.Parser.StreamParser - Считана строка
+17:33:40.199 DEBUG org.example.Parser.StreamParser - Запушено значение
+17:33:40.199 DEBUG org.example.Calculator.Calculator - Получена операция файла
+17:33:40.199 DEBUG org.example.Calculator.Calculator - Обработана операция файла
+17:33:40.199 DEBUG org.example.Parser.StreamParser - Считана строка
+17:33:40.199 DEBUG org.example.Calculator.Calculator - Получена операция файла
+17:33:40.199 DEBUG org.example.FactoryComand.Factory - Произведено вычисление
+17:33:40.199 DEBUG org.example.Calculator.Calculator - Обработана операция файла
+17:33:40.199 DEBUG org.example.Parser.StreamParser - Считана строка
+17:33:40.199 DEBUG org.example.Parser.StreamParser - print выполнен
+17:33:40.199 DEBUG org.example.Calculator.Calculator - Получена операция файла
+17:33:40.199 DEBUG org.example.Calculator.Calculator - Обработана операция файла
+17:33:40.199 DEBUG org.example.Parser.StreamParser - Считана строка
+17:33:40.199 ERROR org.example.Parser.StreamParser - Файл закончен или произошла ошибка в чтении
+17:33:40.199 DEBUG org.example.Calculator.Calculator - Получена операция файла
+17:33:40.199 INFO  org.example.Main - Калькулятор завершил работу

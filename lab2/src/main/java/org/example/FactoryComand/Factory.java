@@ -1,24 +1,42 @@
 package org.example.FactoryComand;
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
+
 import java.util.HashMap;
 
-public class Factory <T> {
-    final private HashMap<String, Creator<T>> map_creator_;
+
+public class Factory  {
+    static final Logger factoryLogger = LogManager.getLogger(Factory.class.getName());
+
+    final private HashMap<String, iComand> map_command_;
 
     public Factory() {
-        map_creator_ = new HashMap<>();
+        map_command_ = new HashMap<>();
     }
 
-    public T create(String name_creator) {
-        var it = map_creator_.get(name_creator);
+    public void create_and_calc(String name_creator) {
+        var it = map_command_.get(name_creator);
         if (it != null) {
-            return it.create();
+            try {
+                it.calc();
+                factoryLogger.debug("Произведено вычисление");
+            }
+            catch (Exception e) {
+                factoryLogger.error("Ошибка при вычислениях{}", e.getLocalizedMessage());
+                System.out.println( "Обработка не корректна " + e.getLocalizedMessage());
+            }
+
+        }
+        else {
+            factoryLogger.debug("Подана не корректная команда");
+            System.out.println("Нет такой команды");
         }
 
-        return null;
     }
 
-    public void register_creator(String name, Creator<T> creator) {
-        map_creator_.put(name, creator);
+    public void register_creator(String name, iComand command) {
+        map_command_.put(name, command);
     }
 }
+
 

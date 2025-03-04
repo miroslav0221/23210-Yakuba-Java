@@ -36,6 +36,7 @@
 }</component>
   <component name="ProjectId" id="2sd5QSfn04yKqW64mlyNjcyyYF2" />
   <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>

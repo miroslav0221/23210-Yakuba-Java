@@ -1,16 +1,22 @@
 package org.example.FactoryComand;
 
-import java.util.EmptyStackException;
-import java.util.Stack;
+import org.example.Calculator.Context;
 
-public class Plus implements iComand{
-    public void calc(Stack<Double> stack) {
-        if (stack.size() < 2) {
-            throw new EmptyStackException();
+public class Plus extends iComand {
+    private final Context context;
+    public Plus(Context context_) {
+        super(context_);
+        context = context_;
+    }
+
+    @Override
+    public void calc() {
+        if (context.get_stack().size() < 2) {
+            comandLogger.debug("Не достаточно элементов в стеке при сумме");
+            throw new ArithmeticException("Не хватает элементов в стеке");
         }
-        Double first = stack.pop();
-        Double second = stack.pop();
-        //проверить на переполнение
-        stack.push(first+second);
+        Double first = context.get_stack().pop();
+        Double second = context.get_stack().pop();
+        context.get_stack().push(first+second);
     }
 }

@@ -1,17 +1,28 @@
 package org.example.FactoryComand;
 
-import java.util.EmptyStackException;
-import java.util.Stack;
+import org.example.Calculator.Context;
 
-public class Sqrt implements iComand{
-    public void calc(Stack<Double> stack) {
-        if (stack.isEmpty()) {
+import java.util.EmptyStackException;
+
+public class Sqrt extends iComand {
+    private final Context context;
+    public Sqrt(Context context_) {
+        super(context_);
+        context = context_;
+    }
+    @Override
+    public void calc() {
+        if (context.get_stack().isEmpty()) {
+            comandLogger.debug("Не достаточно элементов в стеке при извлечении " +
+                    "квадратного корня");
             throw new EmptyStackException();
         }
-        Double val = stack.pop();
+        Double val = context.get_stack().pop();
         if (val < 0.0) {
-            throw new ArithmeticException();
+            comandLogger.debug("Извлечение квадратного корня из отрицательного числа");
+
+            throw new ArithmeticException("отрицательное число");
         }
-        stack.push(Math.sqrt(val));
+        context.get_stack().push(Math.sqrt(val));
     }
 }
