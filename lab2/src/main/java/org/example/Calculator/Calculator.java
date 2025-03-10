@@ -22,7 +22,6 @@ public class Calculator {
     public Calculator() {
         context = new Context(new Stack<Double>(), new HashMap<>());
         factory = new Factory();
-
     }
 
     void create_factory() {

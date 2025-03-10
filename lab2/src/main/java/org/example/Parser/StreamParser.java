@@ -22,7 +22,7 @@ public class StreamParser {
         context = context_;
     }
     
-    void create_reader(String name_file) {
+    void create_reader(String name_file) throws Exception {
         try {
             reader = new BufferedReader(new FileReader(name_file));
             parserLogger.debug("Файл считан");
@@ -30,6 +30,7 @@ public class StreamParser {
         catch (Exception e) {
             parserLogger.error("Не удалось считать файл");
             System.out.println(e.getLocalizedMessage());
+            throw new Exception();
         }
     }
 
@@ -38,12 +39,12 @@ public class StreamParser {
         try {
             name_file = args[0];
             parserLogger.debug("Получен путь к файлу");
+            create_reader(name_file);
         }
         catch (Exception e) {
             parserLogger.error("Поданы не корректные аргументы");
             return 1;
         }
-        create_reader(name_file);
         return 0;
     }
 

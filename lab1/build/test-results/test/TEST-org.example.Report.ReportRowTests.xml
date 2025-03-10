@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="org.example.Report.ReportRowTests" tests="3" skipped="0" failures="0" errors="0" timestamp="2025-02-17T16:09:12" hostname="MacBook-Air-Miroslav.local" time="0.002">
-  <properties/>
-  <testcase name="get_freq_test()" classname="org.example.Report.ReportRowTests" time="0.001"/>
-  <testcase name="get_word_test()" classname="org.example.Report.ReportRowTests" time="0.0"/>
-  <testcase name="get_count_test()" classname="org.example.Report.ReportRowTests" time="0.0"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>

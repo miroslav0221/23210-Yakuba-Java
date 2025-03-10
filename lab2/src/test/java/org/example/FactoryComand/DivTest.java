@@ -8,11 +8,12 @@ import org.junit.jupiter.api.Test;
 import java.util.HashMap;
 import java.util.Stack;
 
-public class FactoryTest {
+public class DivTest {
     private Factory factory;
     private Context context;
     @BeforeEach
     void set_object() {
+        factory = new Factory();
         factory = new Factory();
         context = new Context(new Stack<Double>(), new HashMap<>());
         factory.register_creator("+",  new Plus(context));
@@ -22,16 +23,22 @@ public class FactoryTest {
         factory.register_creator("SQRT",  new Sqrt(context));
     }
     @Test
-    void calc_test_exception() {
-        context.get_stack().push(-1.0);
-        factory.create_and_calc("sqrt");
-        Assertions.assertEquals(-1, context.get_stack().pop());
+    void div_test() {
+        context.get_stack().push(9.0);
+        context.get_stack().push(3.0);
+        factory.create_and_calc("/");
+        Assertions.assertEquals(3.0, context.get_stack().peek());
     }
     @Test
-    void calc_test_right() {
-        context.get_stack().push(-1.0);
-        context.get_stack().push(-1.0);
-        factory.create_and_calc("+");
-        Assertions.assertEquals(-2, context.get_stack().pop());
+    void div_exception_test() {
+        context.get_stack().push(9.0);
+        context.get_stack().push(0.0);
+        factory.create_and_calc("/");
+        Assertions.assertEquals(0.0, context.get_stack().peek());
+    }
+    @Test
+    void div_empty_stack_test() {
+        factory.create_and_calc("/");
+        Assertions.assertTrue(context.get_stack().isEmpty());
     }
 }
