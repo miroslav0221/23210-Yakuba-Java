@@ -23,7 +23,7 @@ public class Factory  {
             }
             catch (Exception e) {
                 factoryLogger.error("Ошибка при вычислениях{}", e.getLocalizedMessage());
-                System.out.println( "Обработка не корректна " + e.getLocalizedMessage());
+                System.err.println( "Обработка не корректна " + e.getLocalizedMessage());
             }
 
         }

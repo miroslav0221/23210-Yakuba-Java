@@ -13,7 +13,7 @@ public class Div extends iComand {
     }
 
     @Override
-    public void calc() {
+    public void calc() throws Exception {
         Stack<Double> stack = context_.get_stack();
         if (stack.size() < 2) {
             comandLogger.debug("Не достаточно элементов в стеке при делении");
@@ -25,7 +25,7 @@ public class Div extends iComand {
             stack.push(dividend);
             stack.push(divider);
             comandLogger.error("Деление на ноль");
-            throw new ArithmeticException("деление на ноль");
+            throw new Exception("деление на ноль");
         }
         stack.push(dividend/divider);
     }

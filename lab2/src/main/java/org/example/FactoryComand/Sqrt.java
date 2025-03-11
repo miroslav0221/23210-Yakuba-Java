@@ -11,7 +11,7 @@ public class Sqrt extends iComand {
         context = context_;
     }
     @Override
-    public void calc() {
+    public void calc() throws Exception {
         if (context.get_stack().isEmpty()) {
             comandLogger.debug("Не достаточно элементов в стеке при извлечении " +
                     "квадратного корня");
@@ -21,7 +21,7 @@ public class Sqrt extends iComand {
         if (val < 0.0) {
             comandLogger.debug("Извлечение квадратного корня из отрицательного числа");
 
-            throw new ArithmeticException("отрицательное число");
+            throw new Exception("отрицательное число");
         }
         context.get_stack().push(Math.sqrt(val));
     }

@@ -15,6 +15,6 @@ public class MainTest {
         System.setOut(new PrintStream(outputStream));
         Main.main(args);
         System.setOut(originalOut);
-        Assertions.assertEquals("200.0\nФайл закончен или произошла ошибка в чтении", outputStream.toString().trim());
+        Assertions.assertEquals("200.0", outputStream.toString().trim());
     }
 }

@@ -12,5 +12,5 @@ public abstract class iComand {
     iComand(Context context) {
         context_ = context;
     }
-    abstract void calc();
+    abstract void calc() throws Exception;
 }

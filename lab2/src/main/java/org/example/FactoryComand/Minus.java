@@ -10,10 +10,10 @@ public class Minus extends iComand {
     }
 
     @Override
-    public void calc() {
+    public void calc() throws Exception {
         if (context.get_stack().size() < 2) {
             comandLogger.debug("Не достаточно элементов в стеке при счете разницы");
-            throw new ArithmeticException("Не хватает элементов в стеке");
+            throw new Exception("Не хватает элементов в стеке"); // Exception
         }
         Double first = context.get_stack().pop();
         Double second = context.get_stack().pop();

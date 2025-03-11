@@ -16,6 +16,7 @@ public class StreamParser {
     private BufferedReader reader = null;
     private final Context context;
     private String mode = "console";
+    private Scanner in;
 
     public StreamParser(String[] args_, Context context_) {
         args = args_;
@@ -50,6 +51,9 @@ public class StreamParser {
 
     public void set_mode(String mode_) {
         mode = mode_;
+        if (mode.equals("console")) {
+            in = new Scanner(System.in);
+        }
     }
 
     String get_string() throws IOException {
@@ -58,7 +62,6 @@ public class StreamParser {
             str = reader.readLine();
         }
         else {
-            Scanner in = new Scanner(System.in);
             str = in.nextLine();
         }
         return str;
@@ -146,7 +149,7 @@ public class StreamParser {
         }
         catch (Exception e) {
             parserLogger.error("Файл закончен или произошла ошибка в чтении");
-            System.out.println("Файл закончен или произошла ошибка в чтении");
+            System.err.println("Файл закончен или произошла ошибка в чтении");
         }
         return null;
     }
