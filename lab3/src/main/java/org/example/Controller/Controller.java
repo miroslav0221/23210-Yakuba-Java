@@ -161,8 +161,7 @@ import org.example.Model.*;
 import org.example.View.GameListener;
 import org.example.View.View;
 
-import java.awt.event.KeyEvent;
-import java.awt.event.KeyListener;
+
 
 public class Controller implements GameListener {
     private int countPauseTap = 0;

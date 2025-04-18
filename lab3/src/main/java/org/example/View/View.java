@@ -21,7 +21,6 @@ public class View {
     private JPanel gamePanel;
     private JPanel scorePanel;
     private JLabel scoreLabel;
-    private JTextArea tableScoresArea;
     private JLabel timerLabel;
     private GameListener listener;
     private MyField field;
@@ -29,10 +28,8 @@ public class View {
     private DefaultTableModel tableModel;
     private DefaultTableModel tableModelGlobal;
     private TetrisPanel tetrisPanel;
-    private JPanel sidePanel;
     // Таблица для топ-5 очков
-    private JTable scoreTable;
-    private DefaultListModel<String> scoreListModel;
+
 
     public View(MyField field, Model model, GameListener listener) {
         this.field = field;
@@ -62,7 +59,6 @@ public class View {
         mainPanel.add(scorePanel, "scores");
 
         frame.add(mainPanel);
-        //frame.pack();
         showStartScreen();
     }
 
@@ -93,7 +89,6 @@ public class View {
         int heightButton = 80;
         int widthButton = 400;
 
-        // Заголовок
         JLabel titleLabel = new JLabel("TETRIS");
         titleLabel.setFont(new Font("Arial", Font.BOLD, 64));
         titleLabel.setForeground(new Color(60, 0, 90));
@@ -101,7 +96,6 @@ public class View {
         startPanel.add(titleLabel);
         startPanel.add(Box.createVerticalStrut(60));
 
-        // Кнопки
         JButton newGameBtn = createStyledButton("New Game", widthButton, heightButton, 24);
         JButton tableScoresBtn = createStyledButton("Table Scores", widthButton, heightButton, 24);
         JButton exitBtn = createStyledButton("Exit", widthButton, heightButton, 24);
@@ -127,7 +121,6 @@ public class View {
         startPanel.add(exitBtn);
     }
 
-    // Метод для создания стильных кнопок
     private JButton createStyledButton(String text, int width, int height, int size) {
         JButton button = new JButton(text);
         button.setPreferredSize(new Dimension(width, height));
@@ -149,13 +142,11 @@ public class View {
     private void initGamePanel() {
         gamePanel = new JPanel(new BorderLayout());
 
-        // Центр — игровое поле
         tetrisPanel = new TetrisPanel();
         tetrisPanel.setFocusable(true);
         tetrisPanel.addKeyListener(new KeysAdapter());
         gamePanel.add(tetrisPanel, BorderLayout.CENTER);
 
-        // Правая боковая панель
         JPanel sidePanel = new JPanel() {
             @Override
             protected void paintComponent(Graphics g) {
@@ -173,7 +164,6 @@ public class View {
         sidePanel.setPreferredSize(new Dimension(170, 600));
         sidePanel.setBackground(new Color(180, 126, 222, 50));
 
-        // Очки
         scoreLabel = new JLabel("Score: 0");
         scoreLabel.setFont(new Font("Arial", Font.BOLD, 16));
         scoreLabel.setAlignmentX(Component.CENTER_ALIGNMENT);
@@ -183,14 +173,12 @@ public class View {
         timerLabel.setAlignmentX(Component.CENTER_ALIGNMENT);
         timerLabel.setForeground(new Color(40, 0, 60));
 
-        // Кнопка Паузы
         JButton pauseButton = createStyledButton("Pause", 150, 60, 21);
         pauseButton.addActionListener(e -> {
             listener.pause();
             tetrisPanel.requestFocusInWindow();
         });
 
-        // Кнопка в Главное меню
         JButton mainMenuButton = createStyledButton("Main Menu", 150, 60, 21);
         mainMenuButton.addActionListener(e -> {
             listener.stop();
@@ -199,7 +187,6 @@ public class View {
             showStartScreen();
         });
 
-        // Таблица топ-5 очков (в стиле initScorePanel)
         String[] columnNames = {"Number", "Scores"};
         String[][] data = {
                 {"1", "0"}, {"2", "0"}, {"3", "0"}, {"4", "0"}, {"5", "0"}
@@ -212,14 +199,12 @@ public class View {
         table.setBackground(new Color(180, 126, 222, 50));
         table.setOpaque(true);
 
-        // Центрирование содержимого ячеек
         DefaultTableCellRenderer centerRenderer = new DefaultTableCellRenderer();
         centerRenderer.setHorizontalAlignment(SwingConstants.CENTER);
         for (int i = 0; i < table.getColumnCount(); i++) {
             table.getColumnModel().getColumn(i).setCellRenderer(centerRenderer);
         }
 
-        // Настройка заголовка таблицы
         JTableHeader header = table.getTableHeader();
         header.setBackground(new Color(180, 126, 222, 50));
         header.setForeground(new Color(40, 0, 60));
@@ -232,7 +217,6 @@ public class View {
         tableScrollPane.getViewport().setBackground(new Color(180, 126, 222, 50));
         tableScrollPane.setBorder(BorderFactory.createEmptyBorder());
 
-        // Добавление компонентов
         sidePanel.add(scoreLabel);
         sidePanel.add(Box.createVerticalStrut(20));
         sidePanel.add(pauseButton);
@@ -281,34 +265,29 @@ public class View {
             }
         };
 
-        // Настройка таблицы
         tableGlobal.setRowHeight(30);
         tableGlobal.setFont(new Font("Arial", Font.PLAIN, 16));
         tableGlobal.setForeground(Color.BLACK);
         tableGlobal.setShowGrid(false);
         tableGlobal.setFillsViewportHeight(true);
 
-        // Центровка текста по ячейкам
         DefaultTableCellRenderer centerRenderer = new DefaultTableCellRenderer();
         centerRenderer.setHorizontalAlignment(SwingConstants.CENTER);
         for (int i = 0; i < tableGlobal.getColumnCount(); i++) {
             tableGlobal.getColumnModel().getColumn(i).setCellRenderer(centerRenderer);
         }
 
-        // Заголовок таблицы
         JTableHeader header = tableGlobal.getTableHeader();
         header.setFont(new Font("Arial", Font.BOLD, 18));
         header.setBackground(new Color(150, 100, 200));
         header.setForeground(Color.WHITE);
         header.setOpaque(true);
 
-        // Обёртка с прокруткой
         JScrollPane tableScrollPane = new JScrollPane(tableGlobal);
         tableScrollPane.setPreferredSize(new Dimension(100, 400));
         tableScrollPane.setBorder(BorderFactory.createEmptyBorder());
         tableScrollPane.getViewport().setBackground(new Color(224, 192, 255));
 
-        // Кнопка "Back"
         JButton backButton = new JButton("Back");
         backButton.setPreferredSize(new Dimension(500, 50));
         backButton.setFont(new Font("Arial", Font.BOLD, 18));
@@ -319,7 +298,6 @@ public class View {
         backButton.setBorder(BorderFactory.createEmptyBorder(10, 20, 10, 20));
         backButton.addActionListener(e -> showStartScreen());
 
-        // Добавляем в панель
         scorePanel.add(tableScrollPane, BorderLayout.CENTER);
         scorePanel.add(backButton, BorderLayout.SOUTH);
     }
@@ -350,7 +328,6 @@ public class View {
         figure = figure_;
         MyField copy = new MyField();
         copy.copy(field);
-        //model.mergeFigureToField(figure, copy);
         Figure shadowFigure = new Figure();
         shadowFigure.copy(figure);
         shadowFigure.changeColour("black");
