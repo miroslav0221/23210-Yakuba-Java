@@ -8,8 +8,10 @@ public class Storage<T> {
     private int sizeStorage;
     private int capacityStorage;
     private Queue<T> storage;
+    private int countItemAllTime;
 
     public Storage(int sizeStorage_) {
+        countItemAllTime = 0;
         storage = new LinkedList<>();
         sizeStorage = sizeStorage_;
         capacityStorage = 0;
@@ -42,6 +44,7 @@ public class Storage<T> {
             }
         }
         storage.add(objectStorage);
+        countItemAllTime++;
         capacityStorage++;
         notifyAll();
     }
@@ -52,6 +55,10 @@ public class Storage<T> {
     }
     public int getSize() {
         return sizeStorage;
+    }
+
+    public int getCountItemAllTime() {
+        return countItemAllTime;
     }
 }
 

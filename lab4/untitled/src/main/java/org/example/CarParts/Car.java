@@ -22,6 +22,18 @@ public class Car {
         return id;
     }
 
+    public Body getBody() {
+        return body;
+    }
+
+    public Accesory getAccesory() {
+        return accesory;
+    }
+
+    public Motor getMotor() {
+        return motor;
+    }
+
 
 
 }

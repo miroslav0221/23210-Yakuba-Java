@@ -30,14 +30,14 @@ public class Factory {
     private Storage<Motor> storageMotor;
     private Storage<Accesory> storageAccesory;
     private Storage<Car> storageCar;
-    private final int timeWait;
+    private final int delay;
 
     private void createDealersArray() {
         dealers = new ArrayList<>();
     }
 
     private void createWorkersArray() {
-        workers = new ThreadPool(Integer.parseInt(properties.getProperty("Workers")), timeWait);
+        workers = new ThreadPool(Integer.parseInt(properties.getProperty("Workers")), delay);
     }
 
     private void createStorages() {
@@ -58,7 +58,7 @@ public class Factory {
     public Factory(String config) {
         properties = new Properties();
         System.out.println(config);
-        timeWait = 1000;
+        delay = 1000;
         try {
             File file = new File(config);
             properties.load(new FileReader(file));
@@ -82,8 +82,8 @@ public class Factory {
     private void initDealers() {
         int countDealers = Integer.parseInt(properties.getProperty("Dealers"));
         for (int i = 0; i < countDealers; i++) {
-            Dealer dealer = new Dealer(storageCar, i);
-            dealer.setDelay(timeWait);
+            Dealer dealer = new Dealer(storageCar, i, Boolean.valueOf(properties.getProperty("LogSale")));
+            dealer.setDelay(delay);
             dealers.add(dealer);
         }
     }
@@ -92,7 +92,7 @@ public class Factory {
         int countSuppliersBody = Integer.parseInt(properties.getProperty("BodySuppliers"));
         for (int i = 0; i < countSuppliersBody; i++) {
             Supplier<Body> supplier = new Supplier<>(storageBody, Body::new);
-            supplier.setDelay(timeWait);
+            supplier.setDelay(delay);
             suppliersBody.add(supplier);
         }
     }
@@ -101,7 +101,7 @@ public class Factory {
         int countSuppliersAcces = Integer.parseInt(properties.getProperty("AccessorySuppliers"));
         for (int i = 0; i < countSuppliersAcces; i++) {
             Supplier<Accesory> supplier = new Supplier<>(storageAccesory, Accesory::new);
-            supplier.setDelay(timeWait);
+            supplier.setDelay(delay);
             suppliersAcces.add(supplier);
         }
     }
@@ -110,13 +110,18 @@ public class Factory {
         int countSuppliersMotor = Integer.parseInt(properties.getProperty("MotorSuppliers"));
         for (int i = 0; i < countSuppliersMotor; i++) {
             Supplier<Motor> supplier = new Supplier<>(storageMotor, Motor::new);
-            supplier.setDelay(timeWait);
+            supplier.setDelay(delay);
             suppliersMotor.add(supplier);
         }
     }
 
 
     public void startWorking() {
+
+        for(Dealer dealer : dealers) {
+            dealer.start();
+        }
+
         for (Supplier<Body> supplier : suppliersBody) {
             supplier.start();
         }
@@ -145,44 +150,44 @@ public class Factory {
 
 
 
-    public int getBodyStorageSize() {
+    public int getBodyStorageCapacity() {
         return storageBody.getCapacity();
     }
-    public int getMotorStorageSize() {
+    public int getMotorStorageCapacity() {
         return storageMotor.getCapacity();
     }
-    public int getAccesoryStorageSize() {
+    public int getAccesoryStorageCapacity() {
         return storageAccesory.getCapacity();
     }
     public int getCarStorageCapacity() {
         return storageCar.getCapacity();
     }
 
-    public void setTimeWaitDealers(int time) {
+    public void setDelayDealers(int time) {
         for (Dealer dealer : dealers) {
             dealer.setDelay(time);
         }
     }
 
-    public void setTimeWaitSuppliersBody(int time) {
+    public void setDelaySuppliersBody(int time) {
         for (Supplier<Body> supplier : suppliersBody) {
             supplier.setDelay(time);
         }
     }
 
-    public void setTimeWaitSuppliersMotor(int time) {
+    public void setDelaySuppliersMotor(int time) {
         for (Supplier<Motor> supplier : suppliersMotor) {
             supplier.setDelay(time);
         }
     }
 
-    public void setTimeWaitSuppliersAcces(int time) {
+    public void setDelaySuppliersAcces(int time) {
         for (Supplier<Accesory> supplier : suppliersAcces) {
             supplier.setDelay(time);
         }
     }
 
-    public void setTimeWaitWorkers(int time) {
+    public void setDelayWorkers(int time) {
         workers.setDelay(time);
     }
 
