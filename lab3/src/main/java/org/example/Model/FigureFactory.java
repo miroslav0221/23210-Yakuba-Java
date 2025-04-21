@@ -21,4 +21,8 @@ public class FigureFactory {
         int index = Math.abs(rand.nextInt() % 7);
         return listFigure.get(index);
     }
+
+    public List<Figure> getListFigure() {
+        return listFigure;
+    }
 }

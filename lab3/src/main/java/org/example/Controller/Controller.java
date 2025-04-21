@@ -104,6 +104,9 @@ public class Controller implements GameListener {
                 view.updateGlobalTableRecords(tableScores);
                 seconds = 0;
                 paused = true;
+                if (time != null && time.isAlive()) {
+                    time.interrupt();
+                }
                 view.GameOver();
                 break;
             }
@@ -156,7 +159,7 @@ public class Controller implements GameListener {
         }
     }
 
-    private void addRecord(int record) {
+    public void addRecord(int record) {
         boolean flag = false;
         String valueCur = "0";
         for (int i = 0; i < 20; i++) {
@@ -178,4 +181,20 @@ public class Controller implements GameListener {
         }
         scores = 0;
     }
+    public int getScores() {
+        return scores;
+    }
+
+    public String[] getTableScores() {
+        return tableScores;
+    }
+
+    public boolean isRunning() {
+        return running;
+    }
+
+    public boolean isPaused() {
+        return paused;
+    }
+
 }
