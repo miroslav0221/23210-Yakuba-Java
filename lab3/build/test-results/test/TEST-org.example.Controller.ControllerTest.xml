@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.example.Controller.ControllerTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2025-04-22T02:13:24" hostname="MacBook-Air-Miroslav.local" time="2.899">
+  <properties/>
+  <testcase name="testPlayRunsAndStops()" classname="org.example.Controller.ControllerTest" time="2.57"/>
+  <testcase name="testResetScoresClearsAndAdds()" classname="org.example.Controller.ControllerTest" time="0.031"/>
+  <testcase name="testInitTableRecords()" classname="org.example.Controller.ControllerTest" time="0.032"/>
+  <testcase name="testStopEndsGame()" classname="org.example.Controller.ControllerTest" time="0.061"/>
+  <testcase name="testReplayResetsState()" classname="org.example.Controller.ControllerTest" time="0.066"/>
+  <testcase name="testPauseToggle()" classname="org.example.Controller.ControllerTest" time="0.076"/>
+  <testcase name="testAddRecordInsertsCorrectly()" classname="org.example.Controller.ControllerTest" time="0.057"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
