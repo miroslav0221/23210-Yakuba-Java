@@ -1,0 +1,2171 @@
+17:31:50.236 [main] DEBUG org.example.Main - Был создан парсер
+17:31:50.237 [main] DEBUG org.example.Calculator.Calculator - Была создана фабрика
+17:31:50.237 [main] DEBUG org.example.Parser.StreamParser - Получен путь к файлу
+17:31:50.237 [main] DEBUG org.example.Parser.StreamParser - Файл считан
+17:31:50.237 [main] DEBUG org.example.Calculator.Calculator - Установлен режим file
+17:31:50.237 [main] DEBUG org.example.Parser.StreamParser - Считана строка
+17:31:50.237 [main] DEBUG org.example.Parser.StreamParser - Получена строка с комментарием
+17:31:50.238 [main] DEBUG org.example.Calculator.Calculator - Получена операция файла
+17:31:50.238 [main] DEBUG org.example.Calculator.Calculator - Обработана операция файла
+17:31:50.238 [main] DEBUG org.example.Parser.StreamParser - Считана строка
+17:31:50.238 [main] DEBUG org.example.Parser.StreamParser - Создан макрос
+17:31:50.238 [main] DEBUG org.example.Calculator.Calculator - Получена операция файла
+17:31:50.238 [main] DEBUG org.example.Calculator.Calculator - Обработана операция файла
+17:31:50.238 [main] DEBUG org.example.Parser.StreamParser - Считана строка
+17:31:50.238 [main] DEBUG org.example.Parser.StreamParser - Запушено значение
+17:31:50.238 [main] DEBUG org.example.Calculator.Calculator - Получена операция файла
+17:31:50.238 [main] DEBUG org.example.Calculator.Calculator - Обработана операция файла
+17:31:50.238 [main] DEBUG org.example.Parser.StreamParser - Считана строка
+17:31:50.238 [main] DEBUG org.example.Parser.StreamParser - Запушено значение
+17:31:50.238 [main] DEBUG org.example.Calculator.Calculator - Получена операция файла
+17:31:50.238 [main] DEBUG org.example.Calculator.Calculator - Обработана операция файла
+17:31:50.238 [main] DEBUG org.example.Parser.StreamParser - Считана строка
+17:31:50.238 [main] DEBUG org.example.Calculator.Calculator - Получена операция файла
+17:31:50.238 [main] DEBUG org.example.FactoryComand.Factory - Произведено вычисление
+17:31:50.238 [main] DEBUG org.example.Calculator.Calculator - Обработана операция файла
+17:31:50.239 [main] DEBUG org.example.Parser.StreamParser - Считана строка
+17:31:50.239 [main] DEBUG org.example.Parser.StreamParser - print выполнен
+17:31:50.239 [main] DEBUG org.example.Calculator.Calculator - Получена операция файла
+17:31:50.239 [main] DEBUG org.example.Calculator.Calculator - Обработана операция файла
+17:31:50.239 [main] DEBUG org.example.Parser.StreamParser - Считана строка
+17:31:50.239 [main] ERROR org.example.Parser.StreamParser - Файл закончен или произошла ошибка в чтении
+17:31:50.239 [main] DEBUG org.example.Calculator.Calculator - Получена операция файла
+17:31:50.239 [main] INFO  org.example.Main - Калькулятор завершил работу
+17:33:40.196 DEBUG org.example.Main - Был создан парсер
+17:33:40.197 DEBUG org.example.Calculator.Calculator - Была создана фабрика
+17:33:40.197 DEBUG org.example.Parser.StreamParser - Получен путь к файлу
+17:33:40.198 DEBUG org.example.Parser.StreamParser - Файл считан
+17:33:40.198 DEBUG org.example.Calculator.Calculator - Установлен режим file
+17:33:40.198 DEBUG org.example.Parser.StreamParser - Считана строка
+17:33:40.198 DEBUG org.example.Parser.StreamParser - Получена строка с комментарием
+17:33:40.198 DEBUG org.example.Calculator.Calculator - Получена операция файла
+17:33:40.198 DEBUG org.example.Calculator.Calculator - Обработана операция файла
+17:33:40.198 DEBUG org.example.Parser.StreamParser - Считана строка
+17:33:40.198 DEBUG org.example.Parser.StreamParser - Создан макрос
+17:33:40.198 DEBUG org.example.Calculator.Calculator - Получена операция файла
+17:33:40.198 DEBUG org.example.Calculator.Calculator - Обработана операция файла
+17:33:40.198 DEBUG org.example.Parser.StreamParser - Считана строка
+17:33:40.198 DEBUG org.example.Parser.StreamParser - Запушено значение
+17:33:40.198 DEBUG org.example.Calculator.Calculator - Получена операция файла
+17:33:40.198 DEBUG org.example.Calculator.Calculator - Обработана операция файла
+17:33:40.198 DEBUG org.example.Parser.StreamParser - Считана строка
+17:33:40.199 DEBUG org.example.Parser.StreamParser - Запушено значение
+17:33:40.199 DEBUG org.example.Calculator.Calculator - Получена операция файла
+17:33:40.199 DEBUG org.example.Calculator.Calculator - Обработана операция файла
+17:33:40.199 DEBUG org.example.Parser.StreamParser - Считана строка
+17:33:40.199 DEBUG org.example.Calculator.Calculator - Получена операция файла
+17:33:40.199 DEBUG org.example.FactoryComand.Factory - Произведено вычисление
+17:33:40.199 DEBUG org.example.Calculator.Calculator - Обработана операция файла
+17:33:40.199 DEBUG org.example.Parser.StreamParser - Считана строка
+17:33:40.199 DEBUG org.example.Parser.StreamParser - print выполнен
+17:33:40.199 DEBUG org.example.Calculator.Calculator - Получена операция файла
+17:33:40.199 DEBUG org.example.Calculator.Calculator - Обработана операция файла
+17:33:40.199 DEBUG org.example.Parser.StreamParser - Считана строка
+17:33:40.199 ERROR org.example.Parser.StreamParser - Файл закончен или произошла ошибка в чтении
+17:33:40.199 DEBUG org.example.Calculator.Calculator - Получена операция файла
+17:33:40.199 INFO  org.example.Main - Калькулятор завершил работу
+21:33:37.712 DEBUG org.example.Main - Был создан парсер
+21:33:37.713 DEBUG org.example.Calculator.Calculator - Была создана фабрика
+21:33:37.713 ERROR org.example.Parser.StreamParser - Поданы не корректные аргументы
+21:33:37.713 DEBUG org.example.Calculator.Calculator - Установлен режим console
+21:33:37.717 DEBUG org.example.Calculator.Calculator - Напечатана информация о командах
+21:33:37.717 INFO  org.example.Calculator.Calculator - Калькулятор запущен
+21:33:47.859 DEBUG org.example.Parser.StreamParser - Считана строка
+21:33:47.862 DEBUG org.example.Parser.StreamParser - Запушено значение
+21:33:47.862 DEBUG org.example.Calculator.Calculator - Получена операция
+21:33:47.862 DEBUG org.example.Calculator.Calculator - Обработана операция
+21:33:49.646 DEBUG org.example.Parser.StreamParser - Считана строка
+21:33:49.647 DEBUG org.example.Parser.StreamParser - Запушено значение
+21:33:49.647 DEBUG org.example.Calculator.Calculator - Получена операция
+21:33:49.647 DEBUG org.example.Calculator.Calculator - Обработана операция
+21:33:51.268 DEBUG org.example.Parser.StreamParser - Считана строка
+21:33:51.269 DEBUG org.example.Parser.StreamParser - print выполнен
+21:33:51.269 DEBUG org.example.Calculator.Calculator - Получена операция
+21:33:51.270 DEBUG org.example.Calculator.Calculator - Обработана операция
+21:33:53.299 DEBUG org.example.Parser.StreamParser - Считана строка
+21:33:53.300 DEBUG org.example.Parser.StreamParser - print выполнен
+21:33:53.300 DEBUG org.example.Calculator.Calculator - Получена операция
+21:33:53.300 DEBUG org.example.Calculator.Calculator - Обработана операция
+21:33:57.223 DEBUG org.example.Parser.StreamParser - Считана строка
+21:33:57.224 DEBUG org.example.Parser.StreamParser - pop выполнен
+21:33:57.224 DEBUG org.example.Calculator.Calculator - Получена операция
+21:33:57.224 DEBUG org.example.Calculator.Calculator - Обработана операция
+21:34:06.402 DEBUG org.example.Parser.StreamParser - Считана строка
+21:34:06.403 DEBUG org.example.Parser.StreamParser - Запушено значение
+21:34:06.403 DEBUG org.example.Calculator.Calculator - Получена операция
+21:34:06.404 DEBUG org.example.Calculator.Calculator - Обработана операция
+21:34:07.656 DEBUG org.example.Parser.StreamParser - Считана строка
+21:34:07.658 DEBUG org.example.Parser.StreamParser - print выполнен
+21:34:07.658 DEBUG org.example.Calculator.Calculator - Получена операция
+21:34:07.658 DEBUG org.example.Calculator.Calculator - Обработана операция
+21:34:11.429 DEBUG org.example.Parser.StreamParser - Считана строка
+21:34:11.430 DEBUG org.example.Calculator.Calculator - Получена операция
+21:34:11.430 DEBUG org.example.FactoryComand.iComand - Извлечение квадратного корня из отрицательного числа
+21:34:11.450 ERROR org.example.FactoryComand.Factory - Ошибка при вычисленияхотрицательное число
+21:34:11.453 DEBUG org.example.Calculator.Calculator - Обработана операция
+21:38:32.112 DEBUG org.example.FactoryComand.Factory - Подана не корректная команда
+21:38:35.726 DEBUG org.example.FactoryComand.Factory - Подана не корректная команда
+21:39:25.001 DEBUG org.example.FactoryComand.Factory - Произведено вычисление
+21:58:04.377 ERROR org.example.Parser.StreamParser - Поданы не корректные аргументы
+21:58:18.684 ERROR org.example.Parser.StreamParser - Поданы не корректные аргументы
+22:01:42.608 ERROR org.example.Parser.StreamParser - Файл закончен или произошла ошибка в чтении
+22:01:42.611 DEBUG org.example.Calculator.Calculator - Получена операция
+22:02:05.762 DEBUG org.example.Main - Был создан парсер
+22:02:05.764 DEBUG org.example.Calculator.Calculator - Была создана фабрика
+22:02:05.764 DEBUG org.example.Parser.StreamParser - Получен путь к файлу
+22:02:05.764 DEBUG org.example.Parser.StreamParser - Файл считан
+22:02:05.764 DEBUG org.example.Calculator.Calculator - Установлен режим file
+22:02:05.764 DEBUG org.example.Parser.StreamParser - Считана строка
+22:02:05.764 DEBUG org.example.Parser.StreamParser - Получена строка с комментарием
+22:02:05.764 DEBUG org.example.Calculator.Calculator - Получена операция файла
+22:02:05.764 DEBUG org.example.Calculator.Calculator - Обработана операция файла
+22:02:05.764 DEBUG org.example.Parser.StreamParser - Считана строка
+22:02:05.765 DEBUG org.example.Parser.StreamParser - Создан макрос
+22:02:05.765 DEBUG org.example.Calculator.Calculator - Получена операция файла
+22:02:05.765 DEBUG org.example.Calculator.Calculator - Обработана операция файла
+22:02:05.765 DEBUG org.example.Parser.StreamParser - Считана строка
+22:02:05.765 DEBUG org.example.Parser.StreamParser - Запушено значение
+22:02:05.765 DEBUG org.example.Calculator.Calculator - Получена операция файла
+22:02:05.765 DEBUG org.example.Calculator.Calculator - Обработана операция файла
+22:02:05.765 DEBUG org.example.Parser.StreamParser - Считана строка
+22:02:05.765 DEBUG org.example.Parser.StreamParser - Запушено значение
+22:02:05.765 DEBUG org.example.Calculator.Calculator - Получена операция файла
+22:02:05.765 DEBUG org.example.Calculator.Calculator - Обработана операция файла
+22:02:05.765 DEBUG org.example.Parser.StreamParser - Считана строка
+22:02:05.765 DEBUG org.example.Calculator.Calculator - Получена операция файла
+22:02:05.765 DEBUG org.example.FactoryComand.Factory - Произведено вычисление
+22:02:05.766 DEBUG org.example.Calculator.Calculator - Обработана операция файла
+22:02:05.766 DEBUG org.example.Parser.StreamParser - Считана строка
+22:02:05.766 DEBUG org.example.Parser.StreamParser - print выполнен
+22:02:05.766 DEBUG org.example.Calculator.Calculator - Получена операция файла
+22:02:05.766 DEBUG org.example.Calculator.Calculator - Обработана операция файла
+22:02:05.766 DEBUG org.example.Parser.StreamParser - Считана строка
+22:02:05.766 ERROR org.example.Parser.StreamParser - Файл закончен или произошла ошибка в чтении
+22:02:05.766 DEBUG org.example.Calculator.Calculator - Получена операция файла
+22:02:05.766 INFO  org.example.Main - Калькулятор завершил работу
+22:02:07.020 DEBUG org.example.Main - Был создан парсер
+22:02:07.021 DEBUG org.example.Calculator.Calculator - Была создана фабрика
+22:02:07.022 DEBUG org.example.Parser.StreamParser - Получен путь к файлу
+22:02:07.022 DEBUG org.example.Parser.StreamParser - Файл считан
+22:02:07.022 DEBUG org.example.Calculator.Calculator - Установлен режим file
+22:02:07.022 DEBUG org.example.Parser.StreamParser - Считана строка
+22:02:07.022 DEBUG org.example.Parser.StreamParser - Получена строка с комментарием
+22:02:07.022 DEBUG org.example.Calculator.Calculator - Получена операция файла
+22:02:07.022 DEBUG org.example.Calculator.Calculator - Обработана операция файла
+22:02:07.022 DEBUG org.example.Parser.StreamParser - Считана строка
+22:02:07.022 DEBUG org.example.Parser.StreamParser - Создан макрос
+22:02:07.022 DEBUG org.example.Calculator.Calculator - Получена операция файла
+22:02:07.022 DEBUG org.example.Calculator.Calculator - Обработана операция файла
+22:02:07.022 DEBUG org.example.Parser.StreamParser - Считана строка
+22:02:07.022 DEBUG org.example.Parser.StreamParser - Запушено значение
+22:02:07.022 DEBUG org.example.Calculator.Calculator - Получена операция файла
+22:02:07.022 DEBUG org.example.Calculator.Calculator - Обработана операция файла
+22:02:07.022 DEBUG org.example.Parser.StreamParser - Считана строка
+22:02:07.022 DEBUG org.example.Parser.StreamParser - Запушено значение
+22:02:07.022 DEBUG org.example.Calculator.Calculator - Получена операция файла
+22:02:07.022 DEBUG org.example.Calculator.Calculator - Обработана операция файла
+22:02:07.022 DEBUG org.example.Parser.StreamParser - Считана строка
+22:02:07.022 DEBUG org.example.Calculator.Calculator - Получена операция файла
+22:02:07.022 DEBUG org.example.FactoryComand.Factory - Произведено вычисление
+22:02:07.023 DEBUG org.example.Calculator.Calculator - Обработана операция файла
+22:02:07.023 DEBUG org.example.Parser.StreamParser - Считана строка
+22:02:07.023 DEBUG org.example.Parser.StreamParser - print выполнен
+22:02:07.023 DEBUG org.example.Calculator.Calculator - Получена операция файла
+22:02:07.023 DEBUG org.example.Calculator.Calculator - Обработана операция файла
+22:02:07.023 DEBUG org.example.Parser.StreamParser - Считана строка
+22:02:07.023 ERROR org.example.Parser.StreamParser - Файл закончен или произошла ошибка в чтении
+22:02:07.023 DEBUG org.example.Calculator.Calculator - Получена операция файла
+22:02:07.023 INFO  org.example.Main - Калькулятор завершил работу
+22:02:22.359 ERROR org.example.Parser.StreamParser - Поданы не корректные аргументы
+22:04:19.847 DEBUG org.example.Parser.StreamParser - Получен путь к файлу
+22:04:19.848 DEBUG org.example.Parser.StreamParser - Файл считан
+22:04:48.070 DEBUG org.example.Parser.StreamParser - Получен путь к файлу
+22:04:48.071 ERROR org.example.Parser.StreamParser - Не удалось считать файл
+22:04:48.072 ERROR org.example.Parser.StreamParser - Поданы не корректные аргументы
+22:30:38.301 DEBUG org.example.Parser.StreamParser - Получен путь к файлу
+22:30:38.302 ERROR org.example.Parser.StreamParser - Не удалось считать файл
+22:30:38.303 ERROR org.example.Parser.StreamParser - Поданы не корректные аргументы
+22:30:38.304 ERROR org.example.Parser.StreamParser - Файл закончен или произошла ошибка в чтении
+22:30:38.305 ERROR org.example.Parser.StreamParser - Файл закончен или произошла ошибка в чтении
+22:30:38.305 ERROR org.example.Parser.StreamParser - Файл закончен или произошла ошибка в чтении
+22:30:38.305 ERROR org.example.Parser.StreamParser - Файл закончен или произошла ошибка в чтении
+22:37:06.689 DEBUG org.example.Parser.StreamParser - Получен путь к файлу
+22:37:06.690 ERROR org.example.Parser.StreamParser - Не удалось считать файл
+22:37:06.691 ERROR org.example.Parser.StreamParser - Поданы не корректные аргументы
+22:37:06.691 ERROR org.example.Parser.StreamParser - Файл закончен или произошла ошибка в чтении
+22:37:06.692 ERROR org.example.Parser.StreamParser - Файл закончен или произошла ошибка в чтении
+22:37:06.692 ERROR org.example.Parser.StreamParser - Файл закончен или произошла ошибка в чтении
+22:37:06.692 ERROR org.example.Parser.StreamParser - Файл закончен или произошла ошибка в чтении
+22:37:19.401 DEBUG org.example.Parser.StreamParser - Получен путь к файлу
+22:37:19.403 ERROR org.example.Parser.StreamParser - Не удалось считать файл
+22:37:19.403 ERROR org.example.Parser.StreamParser - Поданы не корректные аргументы
+22:37:19.404 ERROR org.example.Parser.StreamParser - Файл закончен или произошла ошибка в чтении
+22:37:19.404 ERROR org.example.Parser.StreamParser - Файл закончен или произошла ошибка в чтении
+22:37:19.404 ERROR org.example.Parser.StreamParser - Файл закончен или произошла ошибка в чтении
+22:37:32.778 ERROR org.example.Parser.StreamParser - Файл закончен или произошла ошибка в чтении
+22:37:44.277 DEBUG org.example.Parser.StreamParser - Получен путь к файлу
+22:37:44.279 ERROR org.example.Parser.StreamParser - Не удалось считать файл
+22:37:44.280 ERROR org.example.Parser.StreamParser - Поданы не корректные аргументы
+22:37:44.280 ERROR org.example.Parser.StreamParser - Файл закончен или произошла ошибка в чтении
+22:37:44.281 ERROR org.example.Parser.StreamParser - Файл закончен или произошла ошибка в чтении
+22:37:44.282 ERROR org.example.Parser.StreamParser - Файл закончен или произошла ошибка в чтении
+22:38:43.782 DEBUG org.example.Parser.StreamParser - Получен путь к файлу
+22:39:19.314 DEBUG org.example.Parser.StreamParser - Получен путь к файлу
+22:39:19.315 DEBUG org.example.Parser.StreamParser - Файл считан
+22:39:19.315 DEBUG org.example.Parser.StreamParser - Считана строка
+22:39:19.315 DEBUG org.example.Parser.StreamParser - Получена строка с комментарием
+22:39:19.316 DEBUG org.example.Parser.StreamParser - Считана строка
+22:39:19.316 DEBUG org.example.Parser.StreamParser - Создан макрос
+22:39:19.316 DEBUG org.example.Parser.StreamParser - Считана строка
+22:39:19.316 ERROR org.example.Parser.StreamParser - Неверный формат ввода команды define
+22:39:19.317 DEBUG org.example.Parser.StreamParser - Считана строка
+22:39:52.753 DEBUG org.example.Parser.StreamParser - Получен путь к файлу
+22:39:52.754 DEBUG org.example.Parser.StreamParser - Файл считан
+22:39:52.755 DEBUG org.example.Parser.StreamParser - Считана строка
+22:39:52.755 DEBUG org.example.Parser.StreamParser - Получена строка с комментарием
+22:39:52.756 DEBUG org.example.Parser.StreamParser - Считана строка
+22:39:52.756 DEBUG org.example.Parser.StreamParser - Создан макрос
+22:39:52.756 DEBUG org.example.Parser.StreamParser - Считана строка
+22:39:52.756 ERROR org.example.Parser.StreamParser - Неверный формат ввода команды define
+22:39:52.756 DEBUG org.example.Parser.StreamParser - Считана строка
+22:39:52.757 DEBUG org.example.Parser.StreamParser - Считана строка
+22:39:52.757 ERROR org.example.Parser.StreamParser - Неверный формат ввода команды push
+22:39:52.757 DEBUG org.example.Parser.StreamParser - Считана строка
+22:39:52.757 ERROR org.example.Parser.StreamParser - Не верное значение аргументов(нет такого макроса)
+22:39:52.757 DEBUG org.example.Parser.StreamParser - Считана строка
+22:39:52.757 DEBUG org.example.Parser.StreamParser - Запушено значение
+22:40:13.533 DEBUG org.example.Parser.StreamParser - Получен путь к файлу
+22:40:13.534 DEBUG org.example.Parser.StreamParser - Файл считан
+22:40:13.535 DEBUG org.example.Parser.StreamParser - Считана строка
+22:40:13.535 DEBUG org.example.Parser.StreamParser - Получена строка с комментарием
+22:40:13.535 DEBUG org.example.Parser.StreamParser - Считана строка
+22:40:13.535 DEBUG org.example.Parser.StreamParser - Создан макрос
+22:40:13.535 DEBUG org.example.Parser.StreamParser - Считана строка
+22:40:13.535 ERROR org.example.Parser.StreamParser - Неверный формат ввода команды define
+22:40:13.536 DEBUG org.example.Parser.StreamParser - Считана строка
+22:40:13.537 DEBUG org.example.Parser.StreamParser - Считана строка
+22:40:13.537 ERROR org.example.Parser.StreamParser - Неверный формат ввода команды push
+22:40:13.537 DEBUG org.example.Parser.StreamParser - Считана строка
+22:40:13.537 ERROR org.example.Parser.StreamParser - Не верное значение аргументов(нет такого макроса)
+22:40:13.537 DEBUG org.example.Parser.StreamParser - Считана строка
+22:40:13.537 DEBUG org.example.Parser.StreamParser - Запушено значение
+22:40:13.537 DEBUG org.example.Parser.StreamParser - Считана строка
+22:40:13.537 DEBUG org.example.Parser.StreamParser - Запушено значение
+22:44:11.749 DEBUG org.example.Parser.StreamParser - Получен путь к файлу
+22:44:11.750 DEBUG org.example.Parser.StreamParser - Файл считан
+22:44:11.750 DEBUG org.example.Parser.StreamParser - Считана строка
+22:44:11.750 DEBUG org.example.Parser.StreamParser - Получена строка с комментарием
+22:44:11.751 DEBUG org.example.Parser.StreamParser - Считана строка
+22:44:11.751 DEBUG org.example.Parser.StreamParser - Создан макрос
+22:44:11.751 DEBUG org.example.Parser.StreamParser - Считана строка
+22:44:11.751 ERROR org.example.Parser.StreamParser - Неверный формат ввода команды define
+22:44:11.752 DEBUG org.example.Parser.StreamParser - Считана строка
+22:44:11.752 DEBUG org.example.Parser.StreamParser - Считана строка
+22:44:11.752 ERROR org.example.Parser.StreamParser - Неверный формат ввода команды push
+22:44:11.752 DEBUG org.example.Parser.StreamParser - Считана строка
+22:44:11.753 ERROR org.example.Parser.StreamParser - Не верное значение аргументов(нет такого макроса)
+22:44:11.753 DEBUG org.example.Parser.StreamParser - Считана строка
+22:44:11.753 DEBUG org.example.Parser.StreamParser - Запушено значение
+22:44:11.753 DEBUG org.example.Parser.StreamParser - Считана строка
+22:44:11.753 DEBUG org.example.Parser.StreamParser - Запушено значение
+22:44:11.753 DEBUG org.example.Parser.StreamParser - Считана строка
+22:44:11.753 DEBUG org.example.Parser.StreamParser - pop выполнен
+22:44:11.753 DEBUG org.example.Parser.StreamParser - Считана строка
+22:44:11.753 DEBUG org.example.Parser.StreamParser - pop выполнен
+22:44:11.753 DEBUG org.example.Parser.StreamParser - Считана строка
+22:44:11.753 DEBUG org.example.Parser.StreamParser - Нет элементов в стеке pop
+22:44:11.753 DEBUG org.example.Parser.StreamParser - Считана строка
+22:44:11.753 DEBUG org.example.Parser.StreamParser - Нет элементов в стеке print
+22:44:11.753 DEBUG org.example.Parser.StreamParser - Считана строка
+22:44:11.753 DEBUG org.example.Parser.StreamParser - Запушено значение
+22:44:11.753 DEBUG org.example.Parser.StreamParser - Считана строка
+22:44:11.753 DEBUG org.example.Parser.StreamParser - print выполнен
+22:44:56.321 DEBUG org.example.Parser.StreamParser - Получен путь к файлу
+22:44:56.323 DEBUG org.example.Parser.StreamParser - Файл считан
+22:44:56.323 DEBUG org.example.Parser.StreamParser - Считана строка
+22:44:56.324 DEBUG org.example.Parser.StreamParser - Получена строка с комментарием
+22:44:56.324 DEBUG org.example.Parser.StreamParser - Считана строка
+22:44:56.324 DEBUG org.example.Parser.StreamParser - Создан макрос
+22:44:56.325 DEBUG org.example.Parser.StreamParser - Считана строка
+22:44:56.325 ERROR org.example.Parser.StreamParser - Неверный формат ввода команды define
+22:44:56.325 DEBUG org.example.Parser.StreamParser - Считана строка
+22:44:56.326 DEBUG org.example.Parser.StreamParser - Считана строка
+22:44:56.326 ERROR org.example.Parser.StreamParser - Неверный формат ввода команды push
+22:44:56.326 DEBUG org.example.Parser.StreamParser - Считана строка
+22:44:56.326 ERROR org.example.Parser.StreamParser - Не верное значение аргументов(нет такого макроса)
+22:44:56.326 DEBUG org.example.Parser.StreamParser - Считана строка
+22:44:56.326 DEBUG org.example.Parser.StreamParser - Запушено значение
+22:44:56.326 DEBUG org.example.Parser.StreamParser - Считана строка
+22:44:56.326 DEBUG org.example.Parser.StreamParser - Запушено значение
+22:44:56.326 DEBUG org.example.Parser.StreamParser - Считана строка
+22:44:56.326 DEBUG org.example.Parser.StreamParser - pop выполнен
+22:44:56.326 DEBUG org.example.Parser.StreamParser - Считана строка
+22:44:56.326 DEBUG org.example.Parser.StreamParser - pop выполнен
+22:44:56.326 DEBUG org.example.Parser.StreamParser - Считана строка
+22:44:56.326 DEBUG org.example.Parser.StreamParser - Нет элементов в стеке pop
+22:44:56.327 DEBUG org.example.Parser.StreamParser - Считана строка
+22:44:56.327 DEBUG org.example.Parser.StreamParser - Нет элементов в стеке print
+22:44:56.327 DEBUG org.example.Parser.StreamParser - Считана строка
+22:44:56.327 DEBUG org.example.Parser.StreamParser - Запушено значение
+22:44:56.327 DEBUG org.example.Parser.StreamParser - Считана строка
+22:44:56.327 DEBUG org.example.Parser.StreamParser - print выполнен
+22:44:56.327 DEBUG org.example.Parser.StreamParser - Считана строка
+22:45:04.236 DEBUG org.example.Parser.StreamParser - Получен путь к файлу
+22:45:04.237 DEBUG org.example.Parser.StreamParser - Файл считан
+22:45:04.237 DEBUG org.example.Parser.StreamParser - Считана строка
+22:45:04.237 DEBUG org.example.Parser.StreamParser - Получена строка с комментарием
+22:45:04.238 DEBUG org.example.Parser.StreamParser - Считана строка
+22:45:04.238 DEBUG org.example.Parser.StreamParser - Создан макрос
+22:45:04.238 DEBUG org.example.Parser.StreamParser - Считана строка
+22:45:04.238 ERROR org.example.Parser.StreamParser - Неверный формат ввода команды define
+22:45:04.239 DEBUG org.example.Parser.StreamParser - Считана строка
+22:45:04.239 DEBUG org.example.Parser.StreamParser - Считана строка
+22:45:04.239 ERROR org.example.Parser.StreamParser - Неверный формат ввода команды push
+22:45:04.239 DEBUG org.example.Parser.StreamParser - Считана строка
+22:45:04.239 ERROR org.example.Parser.StreamParser - Не верное значение аргументов(нет такого макроса)
+22:45:04.239 DEBUG org.example.Parser.StreamParser - Считана строка
+22:45:04.240 DEBUG org.example.Parser.StreamParser - Запушено значение
+22:45:04.240 DEBUG org.example.Parser.StreamParser - Считана строка
+22:45:04.240 DEBUG org.example.Parser.StreamParser - Запушено значение
+22:45:04.240 DEBUG org.example.Parser.StreamParser - Считана строка
+22:45:04.240 DEBUG org.example.Parser.StreamParser - pop выполнен
+22:45:04.240 DEBUG org.example.Parser.StreamParser - Считана строка
+22:45:04.240 DEBUG org.example.Parser.StreamParser - pop выполнен
+22:45:04.240 DEBUG org.example.Parser.StreamParser - Считана строка
+22:45:04.240 DEBUG org.example.Parser.StreamParser - Нет элементов в стеке pop
+22:45:04.240 DEBUG org.example.Parser.StreamParser - Считана строка
+22:45:04.240 DEBUG org.example.Parser.StreamParser - Нет элементов в стеке print
+22:45:04.240 DEBUG org.example.Parser.StreamParser - Считана строка
+22:45:04.240 DEBUG org.example.Parser.StreamParser - Запушено значение
+22:45:04.240 DEBUG org.example.Parser.StreamParser - Считана строка
+22:45:04.240 DEBUG org.example.Parser.StreamParser - print выполнен
+22:45:04.240 DEBUG org.example.Parser.StreamParser - Считана строка
+22:46:15.678 DEBUG org.example.Parser.StreamParser - Получен путь к файлу
+22:46:15.680 DEBUG org.example.Parser.StreamParser - Файл считан
+22:46:15.681 DEBUG org.example.Parser.StreamParser - Считана строка
+22:46:15.681 DEBUG org.example.Parser.StreamParser - Получена строка с комментарием
+22:46:15.681 DEBUG org.example.Parser.StreamParser - Считана строка
+22:46:15.681 DEBUG org.example.Parser.StreamParser - Создан макрос
+22:46:15.681 DEBUG org.example.Parser.StreamParser - Считана строка
+22:46:15.681 ERROR org.example.Parser.StreamParser - Неверный формат ввода команды define
+22:46:15.682 DEBUG org.example.Parser.StreamParser - Считана строка
+22:46:15.683 DEBUG org.example.Parser.StreamParser - Считана строка
+22:46:15.683 ERROR org.example.Parser.StreamParser - Неверный формат ввода команды push
+22:46:15.683 DEBUG org.example.Parser.StreamParser - Считана строка
+22:46:15.683 ERROR org.example.Parser.StreamParser - Не верное значение аргументов(нет такого макроса)
+22:46:15.683 DEBUG org.example.Parser.StreamParser - Считана строка
+22:46:15.683 DEBUG org.example.Parser.StreamParser - Запушено значение
+22:46:15.683 DEBUG org.example.Parser.StreamParser - Считана строка
+22:46:15.683 DEBUG org.example.Parser.StreamParser - Запушено значение
+22:46:15.683 DEBUG org.example.Parser.StreamParser - Считана строка
+22:46:15.683 DEBUG org.example.Parser.StreamParser - pop выполнен
+22:46:15.683 DEBUG org.example.Parser.StreamParser - Считана строка
+22:46:15.683 DEBUG org.example.Parser.StreamParser - pop выполнен
+22:46:15.683 DEBUG org.example.Parser.StreamParser - Считана строка
+22:46:15.683 DEBUG org.example.Parser.StreamParser - Нет элементов в стеке pop
+22:46:15.683 DEBUG org.example.Parser.StreamParser - Считана строка
+22:46:15.683 DEBUG org.example.Parser.StreamParser - Нет элементов в стеке print
+22:46:15.683 DEBUG org.example.Parser.StreamParser - Считана строка
+22:46:15.683 DEBUG org.example.Parser.StreamParser - Запушено значение
+22:46:15.683 DEBUG org.example.Parser.StreamParser - Считана строка
+22:46:15.684 DEBUG org.example.Parser.StreamParser - print выполнен
+22:46:15.684 DEBUG org.example.Parser.StreamParser - Считана строка
+22:46:15.684 DEBUG org.example.Parser.StreamParser - Считана строка
+22:46:15.684 ERROR org.example.Parser.StreamParser - Файл закончен или произошла ошибка в чтении
+22:46:33.368 DEBUG org.example.FactoryComand.Factory - Произведено вычисление
+22:46:33.371 DEBUG org.example.FactoryComand.Factory - Подана не корректная команда
+22:46:33.376 ERROR org.example.Parser.StreamParser - Поданы не корректные аргументы
+22:46:33.377 DEBUG org.example.Parser.StreamParser - Получен путь к файлу
+22:46:33.377 ERROR org.example.Parser.StreamParser - Не удалось считать файл
+22:46:33.377 ERROR org.example.Parser.StreamParser - Поданы не корректные аргументы
+22:46:33.378 DEBUG org.example.Parser.StreamParser - Получен путь к файлу
+22:46:33.378 DEBUG org.example.Parser.StreamParser - Файл считан
+22:46:33.378 DEBUG org.example.Parser.StreamParser - Считана строка
+22:46:33.378 DEBUG org.example.Parser.StreamParser - Получена строка с комментарием
+22:46:33.379 DEBUG org.example.Parser.StreamParser - Считана строка
+22:46:33.379 DEBUG org.example.Parser.StreamParser - Создан макрос
+22:46:33.379 DEBUG org.example.Parser.StreamParser - Считана строка
+22:46:33.379 ERROR org.example.Parser.StreamParser - Неверный формат ввода команды define
+22:46:33.379 DEBUG org.example.Parser.StreamParser - Считана строка
+22:46:33.379 DEBUG org.example.Parser.StreamParser - Считана строка
+22:46:33.379 ERROR org.example.Parser.StreamParser - Неверный формат ввода команды push
+22:46:33.379 DEBUG org.example.Parser.StreamParser - Считана строка
+22:46:33.379 ERROR org.example.Parser.StreamParser - Не верное значение аргументов(нет такого макроса)
+22:46:33.379 DEBUG org.example.Parser.StreamParser - Считана строка
+22:46:33.379 DEBUG org.example.Parser.StreamParser - Запушено значение
+22:46:33.379 DEBUG org.example.Parser.StreamParser - Считана строка
+22:46:33.379 DEBUG org.example.Parser.StreamParser - Запушено значение
+22:46:33.379 DEBUG org.example.Parser.StreamParser - Считана строка
+22:46:33.379 DEBUG org.example.Parser.StreamParser - pop выполнен
+22:46:33.379 DEBUG org.example.Parser.StreamParser - Считана строка
+22:46:33.379 DEBUG org.example.Parser.StreamParser - pop выполнен
+22:46:33.379 DEBUG org.example.Parser.StreamParser - Считана строка
+22:46:33.379 DEBUG org.example.Parser.StreamParser - Нет элементов в стеке pop
+22:46:33.380 DEBUG org.example.Parser.StreamParser - Считана строка
+22:46:33.380 DEBUG org.example.Parser.StreamParser - Нет элементов в стеке print
+22:46:33.380 DEBUG org.example.Parser.StreamParser - Считана строка
+22:46:33.380 DEBUG org.example.Parser.StreamParser - Запушено значение
+22:46:33.380 DEBUG org.example.Parser.StreamParser - Считана строка
+22:46:33.380 DEBUG org.example.Parser.StreamParser - print выполнен
+22:46:33.380 DEBUG org.example.Parser.StreamParser - Считана строка
+22:46:33.380 DEBUG org.example.Parser.StreamParser - Считана строка
+22:46:33.380 ERROR org.example.Parser.StreamParser - Файл закончен или произошла ошибка в чтении
+22:46:33.382 DEBUG org.example.Parser.StreamParser - Получен путь к файлу
+22:46:33.382 DEBUG org.example.Parser.StreamParser - Файл считан
+22:46:39.635 DEBUG org.example.FactoryComand.Factory - Произведено вычисление
+22:46:39.639 DEBUG org.example.FactoryComand.Factory - Подана не корректная команда
+22:46:39.643 ERROR org.example.Parser.StreamParser - Поданы не корректные аргументы
+22:46:39.644 DEBUG org.example.Parser.StreamParser - Получен путь к файлу
+22:46:39.644 ERROR org.example.Parser.StreamParser - Не удалось считать файл
+22:46:39.644 ERROR org.example.Parser.StreamParser - Поданы не корректные аргументы
+22:46:39.645 DEBUG org.example.Parser.StreamParser - Получен путь к файлу
+22:46:39.645 DEBUG org.example.Parser.StreamParser - Файл считан
+22:46:39.646 DEBUG org.example.Parser.StreamParser - Считана строка
+22:46:39.646 DEBUG org.example.Parser.StreamParser - Получена строка с комментарием
+22:46:39.646 DEBUG org.example.Parser.StreamParser - Считана строка
+22:46:39.646 DEBUG org.example.Parser.StreamParser - Создан макрос
+22:46:39.646 DEBUG org.example.Parser.StreamParser - Считана строка
+22:46:39.646 ERROR org.example.Parser.StreamParser - Неверный формат ввода команды define
+22:46:39.646 DEBUG org.example.Parser.StreamParser - Считана строка
+22:46:39.646 DEBUG org.example.Parser.StreamParser - Считана строка
+22:46:39.646 ERROR org.example.Parser.StreamParser - Неверный формат ввода команды push
+22:46:39.646 DEBUG org.example.Parser.StreamParser - Считана строка
+22:46:39.646 ERROR org.example.Parser.StreamParser - Не верное значение аргументов(нет такого макроса)
+22:46:39.647 DEBUG org.example.Parser.StreamParser - Считана строка
+22:46:39.647 DEBUG org.example.Parser.StreamParser - Запушено значение
+22:46:39.647 DEBUG org.example.Parser.StreamParser - Считана строка
+22:46:39.647 DEBUG org.example.Parser.StreamParser - Запушено значение
+22:46:39.647 DEBUG org.example.Parser.StreamParser - Считана строка
+22:46:39.647 DEBUG org.example.Parser.StreamParser - pop выполнен
+22:46:39.647 DEBUG org.example.Parser.StreamParser - Считана строка
+22:46:39.647 DEBUG org.example.Parser.StreamParser - pop выполнен
+22:46:39.647 DEBUG org.example.Parser.StreamParser - Считана строка
+22:46:39.647 DEBUG org.example.Parser.StreamParser - Нет элементов в стеке pop
+22:46:39.647 DEBUG org.example.Parser.StreamParser - Считана строка
+22:46:39.647 DEBUG org.example.Parser.StreamParser - Нет элементов в стеке print
+22:46:39.647 DEBUG org.example.Parser.StreamParser - Считана строка
+22:46:39.647 DEBUG org.example.Parser.StreamParser - Запушено значение
+22:46:39.648 DEBUG org.example.Parser.StreamParser - Считана строка
+22:46:39.648 DEBUG org.example.Parser.StreamParser - print выполнен
+22:46:39.648 DEBUG org.example.Parser.StreamParser - Считана строка
+22:46:39.648 DEBUG org.example.Parser.StreamParser - Считана строка
+22:46:39.648 ERROR org.example.Parser.StreamParser - Файл закончен или произошла ошибка в чтении
+22:46:39.649 DEBUG org.example.Parser.StreamParser - Получен путь к файлу
+22:46:39.649 DEBUG org.example.Parser.StreamParser - Файл считан
+22:54:06.114 DEBUG org.example.FactoryComand.Factory - Произведено вычисление
+22:55:52.271 ERROR org.example.FactoryComand.iComand - Деление на ноль
+22:55:52.276 ERROR org.example.FactoryComand.Factory - Ошибка при вычисленияхделение на ноль
+22:57:16.939 DEBUG org.example.FactoryComand.iComand - Не достаточно элементов в стеке при делении
+22:57:16.943 ERROR org.example.FactoryComand.Factory - Ошибка при вычисленияхnull
+22:58:19.780 DEBUG org.example.FactoryComand.Factory - Произведено вычисление
+22:58:27.985 DEBUG org.example.FactoryComand.Factory - Произведено вычисление
+22:58:46.121 DEBUG org.example.FactoryComand.iComand - Не достаточно элементов в стеке при счете разницы
+22:58:46.125 ERROR org.example.FactoryComand.Factory - Ошибка при вычисленияхНе хватает элементов в стеке
+22:59:22.923 DEBUG org.example.FactoryComand.Factory - Произведено вычисление
+22:59:24.332 DEBUG org.example.FactoryComand.iComand - Не достаточно элементов в стеке при произведении
+22:59:24.338 ERROR org.example.FactoryComand.Factory - Ошибка при вычисленияхНе хватает элементов в стеке
+22:59:59.819 DEBUG org.example.FactoryComand.Factory - Произведено вычисление
+22:59:59.824 DEBUG org.example.FactoryComand.iComand - Не достаточно элементов в стеке при сумме
+22:59:59.827 ERROR org.example.FactoryComand.Factory - Ошибка при вычисленияхНе хватает элементов в стеке
+23:00:26.108 DEBUG org.example.FactoryComand.Factory - Подана не корректная команда
+23:00:32.908 DEBUG org.example.FactoryComand.Factory - Произведено вычисление
+23:01:37.787 DEBUG org.example.FactoryComand.iComand - Извлечение квадратного корня из отрицательного числа
+23:01:37.790 ERROR org.example.FactoryComand.Factory - Ошибка при вычисленияхотрицательное число
+23:09:05.770 DEBUG org.example.Main - Был создан парсер
+23:09:05.772 DEBUG org.example.Calculator.Calculator - Была создана фабрика
+23:09:05.772 DEBUG org.example.Parser.StreamParser - Получен путь к файлу
+23:09:05.772 DEBUG org.example.Parser.StreamParser - Файл считан
+23:09:05.772 DEBUG org.example.Calculator.Calculator - Установлен режим file
+23:09:05.772 DEBUG org.example.Parser.StreamParser - Считана строка
+23:09:05.772 DEBUG org.example.Parser.StreamParser - Запушено значение
+23:09:05.772 DEBUG org.example.Calculator.Calculator - Получена операция файла
+23:09:05.772 DEBUG org.example.Calculator.Calculator - Обработана операция файла
+23:09:05.772 DEBUG org.example.Parser.StreamParser - Считана строка
+23:09:05.772 DEBUG org.example.Parser.StreamParser - Запушено значение
+23:09:05.773 DEBUG org.example.Calculator.Calculator - Получена операция файла
+23:09:05.773 DEBUG org.example.Calculator.Calculator - Обработана операция файла
+23:09:05.773 DEBUG org.example.Parser.StreamParser - Считана строка
+23:09:05.773 DEBUG org.example.Calculator.Calculator - Получена операция файла
+23:09:05.773 DEBUG org.example.FactoryComand.Factory - Произведено вычисление
+23:09:05.773 DEBUG org.example.Calculator.Calculator - Обработана операция файла
+23:09:05.773 DEBUG org.example.Parser.StreamParser - Считана строка
+23:09:05.773 DEBUG org.example.Parser.StreamParser - print выполнен
+23:09:05.773 DEBUG org.example.Calculator.Calculator - Получена операция файла
+23:09:05.773 DEBUG org.example.Calculator.Calculator - Обработана операция файла
+23:09:05.773 DEBUG org.example.Parser.StreamParser - Считана строка
+23:09:05.773 ERROR org.example.Parser.StreamParser - Файл закончен или произошла ошибка в чтении
+23:09:05.773 DEBUG org.example.Calculator.Calculator - Получена операция файла
+23:09:05.773 INFO  org.example.Main - Калькулятор завершил работу
+23:09:33.372 DEBUG org.example.Main - Был создан парсер
+23:09:33.373 DEBUG org.example.Calculator.Calculator - Была создана фабрика
+23:09:33.373 DEBUG org.example.Parser.StreamParser - Получен путь к файлу
+23:09:33.373 DEBUG org.example.Parser.StreamParser - Файл считан
+23:09:33.373 DEBUG org.example.Calculator.Calculator - Установлен режим file
+23:09:33.373 DEBUG org.example.Parser.StreamParser - Считана строка
+23:09:33.374 DEBUG org.example.Parser.StreamParser - Запушено значение
+23:09:33.374 DEBUG org.example.Calculator.Calculator - Получена операция файла
+23:09:33.374 DEBUG org.example.Calculator.Calculator - Обработана операция файла
+23:09:33.374 DEBUG org.example.Parser.StreamParser - Считана строка
+23:09:33.374 DEBUG org.example.Parser.StreamParser - Запушено значение
+23:09:33.374 DEBUG org.example.Calculator.Calculator - Получена операция файла
+23:09:33.374 DEBUG org.example.Calculator.Calculator - Обработана операция файла
+23:09:33.374 DEBUG org.example.Parser.StreamParser - Считана строка
+23:09:33.374 DEBUG org.example.Calculator.Calculator - Получена операция файла
+23:09:33.374 DEBUG org.example.FactoryComand.Factory - Произведено вычисление
+23:09:33.374 DEBUG org.example.Calculator.Calculator - Обработана операция файла
+23:09:33.374 DEBUG org.example.Parser.StreamParser - Считана строка
+23:09:33.374 DEBUG org.example.Parser.StreamParser - print выполнен
+23:09:33.374 DEBUG org.example.Calculator.Calculator - Получена операция файла
+23:09:33.374 DEBUG org.example.Calculator.Calculator - Обработана операция файла
+23:09:33.374 DEBUG org.example.Parser.StreamParser - Считана строка
+23:09:33.374 ERROR org.example.Parser.StreamParser - Файл закончен или произошла ошибка в чтении
+23:09:33.374 DEBUG org.example.Calculator.Calculator - Получена операция файла
+23:09:33.374 INFO  org.example.Main - Калькулятор завершил работу
+23:10:09.734 DEBUG org.example.Main - Был создан парсер
+23:10:09.735 DEBUG org.example.Calculator.Calculator - Была создана фабрика
+23:10:09.735 DEBUG org.example.Parser.StreamParser - Получен путь к файлу
+23:10:09.735 DEBUG org.example.Parser.StreamParser - Файл считан
+23:10:09.735 DEBUG org.example.Calculator.Calculator - Установлен режим file
+23:10:09.735 DEBUG org.example.Parser.StreamParser - Считана строка
+23:10:09.736 DEBUG org.example.Parser.StreamParser - Запушено значение
+23:10:09.736 DEBUG org.example.Calculator.Calculator - Получена операция файла
+23:10:09.736 DEBUG org.example.Calculator.Calculator - Обработана операция файла
+23:10:09.736 DEBUG org.example.Parser.StreamParser - Считана строка
+23:10:09.736 DEBUG org.example.Parser.StreamParser - Запушено значение
+23:10:09.736 DEBUG org.example.Calculator.Calculator - Получена операция файла
+23:10:09.736 DEBUG org.example.Calculator.Calculator - Обработана операция файла
+23:10:09.736 DEBUG org.example.Parser.StreamParser - Считана строка
+23:10:09.736 DEBUG org.example.Calculator.Calculator - Получена операция файла
+23:10:09.736 DEBUG org.example.FactoryComand.Factory - Произведено вычисление
+23:10:09.736 DEBUG org.example.Calculator.Calculator - Обработана операция файла
+23:10:09.736 DEBUG org.example.Parser.StreamParser - Считана строка
+23:10:09.736 DEBUG org.example.Parser.StreamParser - print выполнен
+23:10:09.736 DEBUG org.example.Calculator.Calculator - Получена операция файла
+23:10:09.736 DEBUG org.example.Calculator.Calculator - Обработана операция файла
+23:10:09.736 DEBUG org.example.Parser.StreamParser - Считана строка
+23:10:09.736 ERROR org.example.Parser.StreamParser - Файл закончен или произошла ошибка в чтении
+23:10:09.736 DEBUG org.example.Calculator.Calculator - Получена операция файла
+23:10:09.736 INFO  org.example.Main - Калькулятор завершил работу
+23:13:04.773 DEBUG org.example.Parser.StreamParser - Получен путь к файлу
+23:13:04.774 DEBUG org.example.Parser.StreamParser - Файл считан
+23:13:04.775 DEBUG org.example.Parser.StreamParser - Считана строка
+23:13:04.775 DEBUG org.example.Parser.StreamParser - Получена строка с комментарием
+23:13:04.775 DEBUG org.example.Parser.StreamParser - Считана строка
+23:13:04.775 DEBUG org.example.Parser.StreamParser - Создан макрос
+23:13:04.775 DEBUG org.example.Parser.StreamParser - Считана строка
+23:13:04.775 ERROR org.example.Parser.StreamParser - Неверный формат ввода команды define
+23:13:04.776 DEBUG org.example.Parser.StreamParser - Считана строка
+23:13:04.777 DEBUG org.example.Parser.StreamParser - Считана строка
+23:13:04.777 ERROR org.example.Parser.StreamParser - Неверный формат ввода команды push
+23:13:04.777 DEBUG org.example.Parser.StreamParser - Считана строка
+23:13:04.777 ERROR org.example.Parser.StreamParser - Не верное значение аргументов(нет такого макроса)
+23:13:04.777 DEBUG org.example.Parser.StreamParser - Считана строка
+23:13:04.777 DEBUG org.example.Parser.StreamParser - Запушено значение
+23:13:04.777 DEBUG org.example.Parser.StreamParser - Считана строка
+23:13:04.777 DEBUG org.example.Parser.StreamParser - Запушено значение
+23:13:04.777 DEBUG org.example.Parser.StreamParser - Считана строка
+23:13:04.777 DEBUG org.example.Parser.StreamParser - pop выполнен
+23:13:04.777 DEBUG org.example.Parser.StreamParser - Считана строка
+23:13:04.777 DEBUG org.example.Parser.StreamParser - pop выполнен
+23:13:04.777 DEBUG org.example.Parser.StreamParser - Считана строка
+23:13:04.777 DEBUG org.example.Parser.StreamParser - Нет элементов в стеке pop
+23:13:04.777 DEBUG org.example.Parser.StreamParser - Считана строка
+23:13:04.777 DEBUG org.example.Parser.StreamParser - Нет элементов в стеке print
+23:13:04.777 DEBUG org.example.Parser.StreamParser - Считана строка
+23:13:04.777 DEBUG org.example.Parser.StreamParser - Запушено значение
+23:13:04.778 DEBUG org.example.Parser.StreamParser - Считана строка
+23:13:04.778 DEBUG org.example.Parser.StreamParser - print выполнен
+23:15:19.454 DEBUG org.example.Parser.StreamParser - Получен путь к файлу
+23:15:19.455 DEBUG org.example.Parser.StreamParser - Файл считан
+23:15:19.455 DEBUG org.example.Parser.StreamParser - Считана строка
+23:15:19.455 DEBUG org.example.Parser.StreamParser - Получена строка с комментарием
+23:15:19.456 DEBUG org.example.Parser.StreamParser - Считана строка
+23:15:19.456 DEBUG org.example.Parser.StreamParser - Создан макрос
+23:15:19.456 DEBUG org.example.Parser.StreamParser - Считана строка
+23:15:19.456 ERROR org.example.Parser.StreamParser - Неверный формат ввода команды define
+23:15:19.457 DEBUG org.example.Parser.StreamParser - Считана строка
+23:15:19.458 DEBUG org.example.Parser.StreamParser - Считана строка
+23:15:19.458 ERROR org.example.Parser.StreamParser - Неверный формат ввода команды push
+23:15:19.458 DEBUG org.example.Parser.StreamParser - Считана строка
+23:15:19.458 ERROR org.example.Parser.StreamParser - Не верное значение аргументов(нет такого макроса)
+23:15:19.458 DEBUG org.example.Parser.StreamParser - Считана строка
+23:15:19.458 DEBUG org.example.Parser.StreamParser - Запушено значение
+23:15:19.458 DEBUG org.example.Parser.StreamParser - Считана строка
+23:15:19.458 DEBUG org.example.Parser.StreamParser - Запушено значение
+23:15:19.458 DEBUG org.example.Parser.StreamParser - Считана строка
+23:15:19.458 DEBUG org.example.Parser.StreamParser - pop выполнен
+23:15:19.458 DEBUG org.example.Parser.StreamParser - Считана строка
+23:15:19.458 DEBUG org.example.Parser.StreamParser - pop выполнен
+23:15:19.458 DEBUG org.example.Parser.StreamParser - Считана строка
+23:15:19.458 DEBUG org.example.Parser.StreamParser - Нет элементов в стеке pop
+23:15:19.458 DEBUG org.example.Parser.StreamParser - Считана строка
+23:15:19.458 DEBUG org.example.Parser.StreamParser - Нет элементов в стеке print
+23:15:19.458 DEBUG org.example.Parser.StreamParser - Считана строка
+23:15:19.459 DEBUG org.example.Parser.StreamParser - Запушено значение
+23:15:19.459 DEBUG org.example.Parser.StreamParser - Считана строка
+23:15:19.459 DEBUG org.example.Parser.StreamParser - print выполнен
+23:15:46.393 DEBUG org.example.Parser.StreamParser - Получен путь к файлу
+23:15:46.395 DEBUG org.example.Parser.StreamParser - Файл считан
+23:15:46.395 DEBUG org.example.Parser.StreamParser - Считана строка
+23:15:46.395 DEBUG org.example.Parser.StreamParser - Получена строка с комментарием
+23:15:46.395 DEBUG org.example.Parser.StreamParser - Считана строка
+23:15:46.396 DEBUG org.example.Parser.StreamParser - Создан макрос
+23:15:46.396 DEBUG org.example.Parser.StreamParser - Считана строка
+23:15:46.396 ERROR org.example.Parser.StreamParser - Неверный формат ввода команды define
+23:15:46.396 DEBUG org.example.Parser.StreamParser - Считана строка
+23:15:46.397 DEBUG org.example.Parser.StreamParser - Считана строка
+23:15:46.397 ERROR org.example.Parser.StreamParser - Неверный формат ввода команды push
+23:15:46.397 DEBUG org.example.Parser.StreamParser - Считана строка
+23:15:46.397 ERROR org.example.Parser.StreamParser - Не верное значение аргументов(нет такого макроса)
+23:15:46.397 DEBUG org.example.Parser.StreamParser - Считана строка
+23:15:46.397 DEBUG org.example.Parser.StreamParser - Запушено значение
+23:15:46.397 DEBUG org.example.Parser.StreamParser - Считана строка
+23:15:46.397 DEBUG org.example.Parser.StreamParser - Запушено значение
+23:15:46.397 DEBUG org.example.Parser.StreamParser - Считана строка
+23:15:46.397 DEBUG org.example.Parser.StreamParser - pop выполнен
+23:15:46.397 DEBUG org.example.Parser.StreamParser - Считана строка
+23:15:46.397 DEBUG org.example.Parser.StreamParser - pop выполнен
+23:15:46.397 DEBUG org.example.Parser.StreamParser - Считана строка
+23:15:46.397 DEBUG org.example.Parser.StreamParser - Нет элементов в стеке pop
+23:15:46.398 DEBUG org.example.Parser.StreamParser - Считана строка
+23:15:46.398 DEBUG org.example.Parser.StreamParser - Нет элементов в стеке print
+23:15:46.398 DEBUG org.example.Parser.StreamParser - Считана строка
+23:15:46.398 DEBUG org.example.Parser.StreamParser - Запушено значение
+23:15:46.398 DEBUG org.example.Parser.StreamParser - Считана строка
+23:15:46.398 DEBUG org.example.Parser.StreamParser - print выполнен
+23:20:11.243 DEBUG org.example.Parser.StreamParser - Получен путь к файлу
+23:20:11.245 DEBUG org.example.Parser.StreamParser - Файл считан
+23:20:11.245 DEBUG org.example.Parser.StreamParser - Считана строка
+23:20:11.245 DEBUG org.example.Parser.StreamParser - Получена строка с комментарием
+23:20:11.246 DEBUG org.example.Parser.StreamParser - Считана строка
+23:20:11.246 DEBUG org.example.Parser.StreamParser - Создан макрос
+23:20:11.246 DEBUG org.example.Parser.StreamParser - Считана строка
+23:20:11.246 ERROR org.example.Parser.StreamParser - Неверный формат ввода команды define
+23:20:11.247 DEBUG org.example.Parser.StreamParser - Считана строка
+23:20:11.247 DEBUG org.example.Parser.StreamParser - Считана строка
+23:20:11.247 ERROR org.example.Parser.StreamParser - Неверный формат ввода команды push
+23:20:11.247 DEBUG org.example.Parser.StreamParser - Считана строка
+23:20:11.247 ERROR org.example.Parser.StreamParser - Не верное значение аргументов(нет такого макроса)
+23:20:11.248 DEBUG org.example.Parser.StreamParser - Считана строка
+23:20:11.248 DEBUG org.example.Parser.StreamParser - Запушено значение
+23:20:11.248 DEBUG org.example.Parser.StreamParser - Считана строка
+23:20:11.248 DEBUG org.example.Parser.StreamParser - Запушено значение
+23:20:11.248 DEBUG org.example.Parser.StreamParser - Считана строка
+23:20:11.248 DEBUG org.example.Parser.StreamParser - pop выполнен
+23:20:11.248 DEBUG org.example.Parser.StreamParser - Считана строка
+23:20:11.248 DEBUG org.example.Parser.StreamParser - pop выполнен
+23:20:11.248 DEBUG org.example.Parser.StreamParser - Считана строка
+23:20:11.248 DEBUG org.example.Parser.StreamParser - Нет элементов в стеке pop
+23:20:11.248 DEBUG org.example.Parser.StreamParser - Считана строка
+23:20:11.248 DEBUG org.example.Parser.StreamParser - Нет элементов в стеке print
+23:20:11.248 DEBUG org.example.Parser.StreamParser - Считана строка
+23:20:11.248 DEBUG org.example.Parser.StreamParser - Запушено значение
+23:20:11.248 DEBUG org.example.Parser.StreamParser - Считана строка
+23:20:11.248 DEBUG org.example.Parser.StreamParser - print выполнен
+23:20:11.248 DEBUG org.example.Parser.StreamParser - Считана строка
+23:20:11.248 DEBUG org.example.Parser.StreamParser - Считана строка
+23:20:11.249 ERROR org.example.Parser.StreamParser - Файл закончен или произошла ошибка в чтении
+23:20:23.018 DEBUG org.example.Main - Был создан парсер
+23:20:23.020 DEBUG org.example.Calculator.Calculator - Была создана фабрика
+23:20:23.020 DEBUG org.example.Parser.StreamParser - Получен путь к файлу
+23:20:23.020 DEBUG org.example.Parser.StreamParser - Файл считан
+23:20:23.020 DEBUG org.example.Calculator.Calculator - Установлен режим file
+23:20:23.020 DEBUG org.example.Parser.StreamParser - Считана строка
+23:20:23.020 DEBUG org.example.Parser.StreamParser - Запушено значение
+23:20:23.020 DEBUG org.example.Calculator.Calculator - Получена операция файла
+23:20:23.020 DEBUG org.example.Calculator.Calculator - Обработана операция файла
+23:20:23.020 DEBUG org.example.Parser.StreamParser - Считана строка
+23:20:23.021 DEBUG org.example.Parser.StreamParser - Запушено значение
+23:20:23.021 DEBUG org.example.Calculator.Calculator - Получена операция файла
+23:20:23.021 DEBUG org.example.Calculator.Calculator - Обработана операция файла
+23:20:23.021 DEBUG org.example.Parser.StreamParser - Считана строка
+23:20:23.021 DEBUG org.example.Calculator.Calculator - Получена операция файла
+23:20:23.021 DEBUG org.example.FactoryComand.Factory - Произведено вычисление
+23:20:23.021 DEBUG org.example.Calculator.Calculator - Обработана операция файла
+23:20:23.021 DEBUG org.example.Parser.StreamParser - Считана строка
+23:20:23.021 DEBUG org.example.Parser.StreamParser - print выполнен
+23:20:23.021 DEBUG org.example.Calculator.Calculator - Получена операция файла
+23:20:23.021 DEBUG org.example.Calculator.Calculator - Обработана операция файла
+23:20:23.021 DEBUG org.example.Parser.StreamParser - Считана строка
+23:20:23.021 ERROR org.example.Parser.StreamParser - Файл закончен или произошла ошибка в чтении
+23:20:23.021 DEBUG org.example.Calculator.Calculator - Получена операция файла
+23:20:23.021 INFO  org.example.Main - Калькулятор завершил работу
+23:20:23.030 DEBUG org.example.FactoryComand.iComand - Не достаточно элементов в стеке при делении
+23:20:23.035 ERROR org.example.FactoryComand.Factory - Ошибка при вычисленияхnull
+23:20:23.036 DEBUG org.example.FactoryComand.Factory - Произведено вычисление
+23:20:23.037 ERROR org.example.FactoryComand.iComand - Деление на ноль
+23:20:23.037 ERROR org.example.FactoryComand.Factory - Ошибка при вычисленияхделение на ноль
+23:20:23.040 DEBUG org.example.FactoryComand.Factory - Произведено вычисление
+23:20:23.041 DEBUG org.example.FactoryComand.Factory - Подана не корректная команда
+23:20:23.043 DEBUG org.example.FactoryComand.iComand - Не достаточно элементов в стеке при счете разницы
+23:20:23.043 ERROR org.example.FactoryComand.Factory - Ошибка при вычисленияхНе хватает элементов в стеке
+23:20:23.043 DEBUG org.example.FactoryComand.Factory - Произведено вычисление
+23:20:23.044 DEBUG org.example.FactoryComand.iComand - Не достаточно элементов в стеке при произведении
+23:20:23.044 ERROR org.example.FactoryComand.Factory - Ошибка при вычисленияхНе хватает элементов в стеке
+23:20:23.045 DEBUG org.example.FactoryComand.Factory - Произведено вычисление
+23:20:23.046 DEBUG org.example.FactoryComand.Factory - Произведено вычисление
+23:20:23.047 DEBUG org.example.FactoryComand.iComand - Не достаточно элементов в стеке при сумме
+23:20:23.047 ERROR org.example.FactoryComand.Factory - Ошибка при вычисленияхНе хватает элементов в стеке
+23:20:23.049 DEBUG org.example.FactoryComand.Factory - Произведено вычисление
+23:20:23.049 DEBUG org.example.FactoryComand.iComand - Извлечение квадратного корня из отрицательного числа
+23:20:23.049 ERROR org.example.FactoryComand.Factory - Ошибка при вычисленияхотрицательное число
+23:20:23.050 DEBUG org.example.FactoryComand.iComand - Не достаточно элементов в стеке при извлечении квадратного корня
+23:20:23.050 ERROR org.example.FactoryComand.Factory - Ошибка при вычисленияхnull
+23:20:23.052 ERROR org.example.Parser.StreamParser - Поданы не корректные аргументы
+23:20:23.053 DEBUG org.example.Parser.StreamParser - Получен путь к файлу
+23:20:23.053 ERROR org.example.Parser.StreamParser - Не удалось считать файл
+23:20:23.053 ERROR org.example.Parser.StreamParser - Поданы не корректные аргументы
+23:20:23.054 DEBUG org.example.Parser.StreamParser - Получен путь к файлу
+23:20:23.054 DEBUG org.example.Parser.StreamParser - Файл считан
+23:20:23.054 DEBUG org.example.Parser.StreamParser - Считана строка
+23:20:23.055 DEBUG org.example.Parser.StreamParser - Получена строка с комментарием
+23:20:23.055 DEBUG org.example.Parser.StreamParser - Считана строка
+23:20:23.055 DEBUG org.example.Parser.StreamParser - Создан макрос
+23:20:23.055 DEBUG org.example.Parser.StreamParser - Считана строка
+23:20:23.055 ERROR org.example.Parser.StreamParser - Неверный формат ввода команды define
+23:20:23.055 DEBUG org.example.Parser.StreamParser - Считана строка
+23:20:23.055 DEBUG org.example.Parser.StreamParser - Считана строка
+23:20:23.055 ERROR org.example.Parser.StreamParser - Неверный формат ввода команды push
+23:20:23.055 DEBUG org.example.Parser.StreamParser - Считана строка
+23:20:23.055 ERROR org.example.Parser.StreamParser - Не верное значение аргументов(нет такого макроса)
+23:20:23.055 DEBUG org.example.Parser.StreamParser - Считана строка
+23:20:23.055 DEBUG org.example.Parser.StreamParser - Запушено значение
+23:20:23.055 DEBUG org.example.Parser.StreamParser - Считана строка
+23:20:23.055 DEBUG org.example.Parser.StreamParser - Запушено значение
+23:20:23.055 DEBUG org.example.Parser.StreamParser - Считана строка
+23:20:23.055 DEBUG org.example.Parser.StreamParser - pop выполнен
+23:20:23.055 DEBUG org.example.Parser.StreamParser - Считана строка
+23:20:23.055 DEBUG org.example.Parser.StreamParser - pop выполнен
+23:20:23.055 DEBUG org.example.Parser.StreamParser - Считана строка
+23:20:23.055 DEBUG org.example.Parser.StreamParser - Нет элементов в стеке pop
+23:20:23.056 DEBUG org.example.Parser.StreamParser - Считана строка
+23:20:23.056 DEBUG org.example.Parser.StreamParser - Нет элементов в стеке print
+23:20:23.056 DEBUG org.example.Parser.StreamParser - Считана строка
+23:20:23.056 DEBUG org.example.Parser.StreamParser - Запушено значение
+23:20:23.056 DEBUG org.example.Parser.StreamParser - Считана строка
+23:20:23.056 DEBUG org.example.Parser.StreamParser - print выполнен
+23:20:23.056 DEBUG org.example.Parser.StreamParser - Считана строка
+23:20:23.056 DEBUG org.example.Parser.StreamParser - Считана строка
+23:20:23.056 ERROR org.example.Parser.StreamParser - Файл закончен или произошла ошибка в чтении
+23:20:23.057 DEBUG org.example.Parser.StreamParser - Получен путь к файлу
+23:20:23.057 DEBUG org.example.Parser.StreamParser - Файл считан
+23:20:28.576 DEBUG org.example.Main - Был создан парсер
+23:20:28.578 DEBUG org.example.Calculator.Calculator - Была создана фабрика
+23:20:28.578 DEBUG org.example.Parser.StreamParser - Получен путь к файлу
+23:20:28.578 DEBUG org.example.Parser.StreamParser - Файл считан
+23:20:28.578 DEBUG org.example.Calculator.Calculator - Установлен режим file
+23:20:28.578 DEBUG org.example.Parser.StreamParser - Считана строка
+23:20:28.578 DEBUG org.example.Parser.StreamParser - Запушено значение
+23:20:28.578 DEBUG org.example.Calculator.Calculator - Получена операция файла
+23:20:28.579 DEBUG org.example.Calculator.Calculator - Обработана операция файла
+23:20:28.579 DEBUG org.example.Parser.StreamParser - Считана строка
+23:20:28.579 DEBUG org.example.Parser.StreamParser - Запушено значение
+23:20:28.579 DEBUG org.example.Calculator.Calculator - Получена операция файла
+23:20:28.579 DEBUG org.example.Calculator.Calculator - Обработана операция файла
+23:20:28.579 DEBUG org.example.Parser.StreamParser - Считана строка
+23:20:28.579 DEBUG org.example.Calculator.Calculator - Получена операция файла
+23:20:28.579 DEBUG org.example.FactoryComand.Factory - Произведено вычисление
+23:20:28.579 DEBUG org.example.Calculator.Calculator - Обработана операция файла
+23:20:28.579 DEBUG org.example.Parser.StreamParser - Считана строка
+23:20:28.579 DEBUG org.example.Parser.StreamParser - print выполнен
+23:20:28.579 DEBUG org.example.Calculator.Calculator - Получена операция файла
+23:20:28.579 DEBUG org.example.Calculator.Calculator - Обработана операция файла
+23:20:28.579 DEBUG org.example.Parser.StreamParser - Считана строка
+23:20:28.579 ERROR org.example.Parser.StreamParser - Файл закончен или произошла ошибка в чтении
+23:20:28.580 DEBUG org.example.Calculator.Calculator - Получена операция файла
+23:20:28.580 INFO  org.example.Main - Калькулятор завершил работу
+23:20:28.594 DEBUG org.example.FactoryComand.iComand - Не достаточно элементов в стеке при делении
+23:20:28.600 ERROR org.example.FactoryComand.Factory - Ошибка при вычисленияхnull
+23:20:28.603 DEBUG org.example.FactoryComand.Factory - Произведено вычисление
+23:20:28.604 ERROR org.example.FactoryComand.iComand - Деление на ноль
+23:20:28.604 ERROR org.example.FactoryComand.Factory - Ошибка при вычисленияхделение на ноль
+23:20:28.605 DEBUG org.example.FactoryComand.Factory - Произведено вычисление
+23:20:28.606 DEBUG org.example.FactoryComand.Factory - Подана не корректная команда
+23:20:28.607 DEBUG org.example.FactoryComand.iComand - Не достаточно элементов в стеке при счете разницы
+23:20:28.608 ERROR org.example.FactoryComand.Factory - Ошибка при вычисленияхНе хватает элементов в стеке
+23:20:28.608 DEBUG org.example.FactoryComand.Factory - Произведено вычисление
+23:20:28.609 DEBUG org.example.FactoryComand.iComand - Не достаточно элементов в стеке при произведении
+23:20:28.609 ERROR org.example.FactoryComand.Factory - Ошибка при вычисленияхНе хватает элементов в стеке
+23:20:28.610 DEBUG org.example.FactoryComand.Factory - Произведено вычисление
+23:20:28.611 DEBUG org.example.FactoryComand.Factory - Произведено вычисление
+23:20:28.612 DEBUG org.example.FactoryComand.iComand - Не достаточно элементов в стеке при сумме
+23:20:28.612 ERROR org.example.FactoryComand.Factory - Ошибка при вычисленияхНе хватает элементов в стеке
+23:20:28.613 DEBUG org.example.FactoryComand.Factory - Произведено вычисление
+23:20:28.613 DEBUG org.example.FactoryComand.iComand - Извлечение квадратного корня из отрицательного числа
+23:20:28.613 ERROR org.example.FactoryComand.Factory - Ошибка при вычисленияхотрицательное число
+23:20:28.614 DEBUG org.example.FactoryComand.iComand - Не достаточно элементов в стеке при извлечении квадратного корня
+23:20:28.614 ERROR org.example.FactoryComand.Factory - Ошибка при вычисленияхnull
+23:20:28.615 ERROR org.example.Parser.StreamParser - Поданы не корректные аргументы
+23:20:28.616 DEBUG org.example.Parser.StreamParser - Получен путь к файлу
+23:20:28.616 ERROR org.example.Parser.StreamParser - Не удалось считать файл
+23:20:28.616 ERROR org.example.Parser.StreamParser - Поданы не корректные аргументы
+23:20:28.617 DEBUG org.example.Parser.StreamParser - Получен путь к файлу
+23:20:28.617 DEBUG org.example.Parser.StreamParser - Файл считан
+23:20:28.617 DEBUG org.example.Parser.StreamParser - Считана строка
+23:20:28.617 DEBUG org.example.Parser.StreamParser - Получена строка с комментарием
+23:20:28.617 DEBUG org.example.Parser.StreamParser - Считана строка
+23:20:28.617 DEBUG org.example.Parser.StreamParser - Создан макрос
+23:20:28.617 DEBUG org.example.Parser.StreamParser - Считана строка
+23:20:28.617 ERROR org.example.Parser.StreamParser - Неверный формат ввода команды define
+23:20:28.617 DEBUG org.example.Parser.StreamParser - Считана строка
+23:20:28.617 DEBUG org.example.Parser.StreamParser - Считана строка
+23:20:28.617 ERROR org.example.Parser.StreamParser - Неверный формат ввода команды push
+23:20:28.618 DEBUG org.example.Parser.StreamParser - Считана строка
+23:20:28.618 ERROR org.example.Parser.StreamParser - Не верное значение аргументов(нет такого макроса)
+23:20:28.618 DEBUG org.example.Parser.StreamParser - Считана строка
+23:20:28.618 DEBUG org.example.Parser.StreamParser - Запушено значение
+23:20:28.618 DEBUG org.example.Parser.StreamParser - Считана строка
+23:20:28.618 DEBUG org.example.Parser.StreamParser - Запушено значение
+23:20:28.618 DEBUG org.example.Parser.StreamParser - Считана строка
+23:20:28.618 DEBUG org.example.Parser.StreamParser - pop выполнен
+23:20:28.618 DEBUG org.example.Parser.StreamParser - Считана строка
+23:20:28.618 DEBUG org.example.Parser.StreamParser - pop выполнен
+23:20:28.618 DEBUG org.example.Parser.StreamParser - Считана строка
+23:20:28.618 DEBUG org.example.Parser.StreamParser - Нет элементов в стеке pop
+23:20:28.618 DEBUG org.example.Parser.StreamParser - Считана строка
+23:20:28.618 DEBUG org.example.Parser.StreamParser - Нет элементов в стеке print
+23:20:28.618 DEBUG org.example.Parser.StreamParser - Считана строка
+23:20:28.618 DEBUG org.example.Parser.StreamParser - Запушено значение
+23:20:28.618 DEBUG org.example.Parser.StreamParser - Считана строка
+23:20:28.618 DEBUG org.example.Parser.StreamParser - print выполнен
+23:20:28.618 DEBUG org.example.Parser.StreamParser - Считана строка
+23:20:28.618 DEBUG org.example.Parser.StreamParser - Считана строка
+23:20:28.619 ERROR org.example.Parser.StreamParser - Файл закончен или произошла ошибка в чтении
+23:20:28.620 DEBUG org.example.Parser.StreamParser - Получен путь к файлу
+23:20:28.620 DEBUG org.example.Parser.StreamParser - Файл считан
+09:19:22.855 DEBUG org.example.Main - Был создан парсер
+09:19:22.858 DEBUG org.example.Calculator.Calculator - Была создана фабрика
+09:19:22.858 DEBUG org.example.Parser.StreamParser - Получен путь к файлу
+09:19:22.858 DEBUG org.example.Parser.StreamParser - Файл считан
+09:19:22.858 DEBUG org.example.Calculator.Calculator - Установлен режим file
+09:19:22.858 DEBUG org.example.Parser.StreamParser - Считана строка
+09:19:22.858 DEBUG org.example.Parser.StreamParser - Запушено значение
+09:19:22.858 DEBUG org.example.Calculator.Calculator - Получена операция файла
+09:19:22.859 DEBUG org.example.Calculator.Calculator - Обработана операция файла
+09:19:22.859 DEBUG org.example.Parser.StreamParser - Считана строка
+09:19:22.859 DEBUG org.example.Parser.StreamParser - Запушено значение
+09:19:22.859 DEBUG org.example.Calculator.Calculator - Получена операция файла
+09:19:22.859 DEBUG org.example.Calculator.Calculator - Обработана операция файла
+09:19:22.859 DEBUG org.example.Parser.StreamParser - Считана строка
+09:19:22.859 DEBUG org.example.Calculator.Calculator - Получена операция файла
+09:19:22.859 DEBUG org.example.FactoryComand.Factory - Произведено вычисление
+09:19:22.859 DEBUG org.example.Calculator.Calculator - Обработана операция файла
+09:19:22.859 DEBUG org.example.Parser.StreamParser - Считана строка
+09:19:22.859 DEBUG org.example.Parser.StreamParser - print выполнен
+09:19:22.859 DEBUG org.example.Calculator.Calculator - Получена операция файла
+09:19:22.859 DEBUG org.example.Calculator.Calculator - Обработана операция файла
+09:19:22.860 DEBUG org.example.Parser.StreamParser - Считана строка
+09:19:22.860 ERROR org.example.Parser.StreamParser - Файл закончен или произошла ошибка в чтении
+09:19:22.860 DEBUG org.example.Calculator.Calculator - Получена операция файла
+09:19:22.860 INFO  org.example.Main - Калькулятор завершил работу
+09:19:22.875 DEBUG org.example.FactoryComand.iComand - Не достаточно элементов в стеке при делении
+09:19:22.882 ERROR org.example.FactoryComand.Factory - Ошибка при вычисленияхnull
+09:19:22.886 DEBUG org.example.FactoryComand.Factory - Произведено вычисление
+09:19:22.887 ERROR org.example.FactoryComand.iComand - Деление на ноль
+09:19:22.888 ERROR org.example.FactoryComand.Factory - Ошибка при вычисленияхделение на ноль
+09:19:22.890 DEBUG org.example.FactoryComand.Factory - Произведено вычисление
+09:19:22.891 DEBUG org.example.FactoryComand.Factory - Подана не корректная команда
+09:19:22.893 DEBUG org.example.FactoryComand.iComand - Не достаточно элементов в стеке при счете разницы
+09:19:22.893 ERROR org.example.FactoryComand.Factory - Ошибка при вычисленияхНе хватает элементов в стеке
+09:19:22.895 DEBUG org.example.FactoryComand.Factory - Произведено вычисление
+09:19:22.897 DEBUG org.example.FactoryComand.iComand - Не достаточно элементов в стеке при произведении
+09:19:22.897 ERROR org.example.FactoryComand.Factory - Ошибка при вычисленияхНе хватает элементов в стеке
+09:19:22.898 DEBUG org.example.FactoryComand.Factory - Произведено вычисление
+09:19:22.902 DEBUG org.example.FactoryComand.Factory - Произведено вычисление
+09:19:22.903 DEBUG org.example.FactoryComand.iComand - Не достаточно элементов в стеке при сумме
+09:19:22.903 ERROR org.example.FactoryComand.Factory - Ошибка при вычисленияхНе хватает элементов в стеке
+09:19:22.905 DEBUG org.example.FactoryComand.Factory - Произведено вычисление
+09:19:22.907 DEBUG org.example.FactoryComand.iComand - Извлечение квадратного корня из отрицательного числа
+09:19:22.907 ERROR org.example.FactoryComand.Factory - Ошибка при вычисленияхотрицательное число
+09:19:22.908 DEBUG org.example.FactoryComand.iComand - Не достаточно элементов в стеке при извлечении квадратного корня
+09:19:22.908 ERROR org.example.FactoryComand.Factory - Ошибка при вычисленияхnull
+09:19:22.910 ERROR org.example.Parser.StreamParser - Поданы не корректные аргументы
+09:19:22.911 DEBUG org.example.Parser.StreamParser - Получен путь к файлу
+09:19:22.911 ERROR org.example.Parser.StreamParser - Не удалось считать файл
+09:19:22.911 ERROR org.example.Parser.StreamParser - Поданы не корректные аргументы
+09:19:22.913 DEBUG org.example.Parser.StreamParser - Получен путь к файлу
+09:19:22.913 DEBUG org.example.Parser.StreamParser - Файл считан
+09:19:22.914 DEBUG org.example.Parser.StreamParser - Считана строка
+09:19:22.914 DEBUG org.example.Parser.StreamParser - Получена строка с комментарием
+09:19:22.914 DEBUG org.example.Parser.StreamParser - Считана строка
+09:19:22.914 DEBUG org.example.Parser.StreamParser - Создан макрос
+09:19:22.914 DEBUG org.example.Parser.StreamParser - Считана строка
+09:19:22.914 ERROR org.example.Parser.StreamParser - Неверный формат ввода команды define
+09:19:22.914 DEBUG org.example.Parser.StreamParser - Считана строка
+09:19:22.914 DEBUG org.example.Parser.StreamParser - Считана строка
+09:19:22.914 ERROR org.example.Parser.StreamParser - Неверный формат ввода команды push
+09:19:22.915 DEBUG org.example.Parser.StreamParser - Считана строка
+09:19:22.915 ERROR org.example.Parser.StreamParser - Не верное значение аргументов(нет такого макроса)
+09:19:22.915 DEBUG org.example.Parser.StreamParser - Считана строка
+09:19:22.916 DEBUG org.example.Parser.StreamParser - Запушено значение
+09:19:22.916 DEBUG org.example.Parser.StreamParser - Считана строка
+09:19:22.916 DEBUG org.example.Parser.StreamParser - Запушено значение
+09:19:22.916 DEBUG org.example.Parser.StreamParser - Считана строка
+09:19:22.916 DEBUG org.example.Parser.StreamParser - pop выполнен
+09:19:22.917 DEBUG org.example.Parser.StreamParser - Считана строка
+09:19:22.917 DEBUG org.example.Parser.StreamParser - pop выполнен
+09:19:22.917 DEBUG org.example.Parser.StreamParser - Считана строка
+09:19:22.917 DEBUG org.example.Parser.StreamParser - Нет элементов в стеке pop
+09:19:22.917 DEBUG org.example.Parser.StreamParser - Считана строка
+09:19:22.917 DEBUG org.example.Parser.StreamParser - Нет элементов в стеке print
+09:19:22.917 DEBUG org.example.Parser.StreamParser - Считана строка
+09:19:22.918 DEBUG org.example.Parser.StreamParser - Запушено значение
+09:19:22.918 DEBUG org.example.Parser.StreamParser - Считана строка
+09:19:22.918 DEBUG org.example.Parser.StreamParser - print выполнен
+09:19:22.918 DEBUG org.example.Parser.StreamParser - Считана строка
+09:19:22.918 DEBUG org.example.Parser.StreamParser - Считана строка
+09:19:22.919 ERROR org.example.Parser.StreamParser - Файл закончен или произошла ошибка в чтении
+09:19:22.921 DEBUG org.example.Parser.StreamParser - Получен путь к файлу
+09:19:22.921 DEBUG org.example.Parser.StreamParser - Файл считан
+09:19:39.971 DEBUG org.example.Main - Был создан парсер
+09:19:39.973 DEBUG org.example.Calculator.Calculator - Была создана фабрика
+09:19:39.973 ERROR org.example.Parser.StreamParser - Поданы не корректные аргументы
+09:19:39.973 DEBUG org.example.Calculator.Calculator - Установлен режим console
+09:19:39.978 DEBUG org.example.Calculator.Calculator - Напечатана информация о командах
+09:19:39.978 INFO  org.example.Calculator.Calculator - Калькулятор запущен
+09:19:46.194 DEBUG org.example.Parser.StreamParser - Считана строка
+09:19:46.198 DEBUG org.example.Parser.StreamParser - Запушено значение
+09:19:46.198 DEBUG org.example.Calculator.Calculator - Получена операция
+09:19:46.198 DEBUG org.example.Calculator.Calculator - Обработана операция
+09:19:47.726 DEBUG org.example.Parser.StreamParser - Считана строка
+09:19:47.726 DEBUG org.example.Parser.StreamParser - print выполнен
+09:19:47.727 DEBUG org.example.Calculator.Calculator - Получена операция
+09:19:47.727 DEBUG org.example.Calculator.Calculator - Обработана операция
+09:19:53.680 DEBUG org.example.Parser.StreamParser - Считана строка
+09:19:53.682 DEBUG org.example.Parser.StreamParser - Запушено значение
+09:19:53.682 DEBUG org.example.Calculator.Calculator - Получена операция
+09:19:53.682 DEBUG org.example.Calculator.Calculator - Обработана операция
+09:19:55.114 DEBUG org.example.Parser.StreamParser - Считана строка
+09:19:55.114 DEBUG org.example.Parser.StreamParser - print выполнен
+09:19:55.115 DEBUG org.example.Calculator.Calculator - Получена операция
+09:19:55.115 DEBUG org.example.Calculator.Calculator - Обработана операция
+09:20:12.682 DEBUG org.example.Parser.StreamParser - Считана строка
+09:20:12.684 DEBUG org.example.Calculator.Calculator - Получена операция
+09:20:12.684 DEBUG org.example.FactoryComand.Factory - Произведено вычисление
+09:20:12.684 DEBUG org.example.Calculator.Calculator - Обработана операция
+09:20:14.507 DEBUG org.example.Parser.StreamParser - Считана строка
+09:20:14.514 DEBUG org.example.Parser.StreamParser - print выполнен
+09:20:14.514 DEBUG org.example.Calculator.Calculator - Получена операция
+09:20:14.515 DEBUG org.example.Calculator.Calculator - Обработана операция
+09:20:17.154 DEBUG org.example.Parser.StreamParser - Считана строка
+09:20:17.155 DEBUG org.example.Parser.StreamParser - pop выполнен
+09:20:17.155 DEBUG org.example.Calculator.Calculator - Получена операция
+09:20:17.155 DEBUG org.example.Calculator.Calculator - Обработана операция
+09:20:18.502 DEBUG org.example.Parser.StreamParser - Считана строка
+09:20:18.502 DEBUG org.example.Parser.StreamParser - Нет элементов в стеке print
+09:20:18.503 DEBUG org.example.Calculator.Calculator - Получена операция
+09:20:18.503 DEBUG org.example.Calculator.Calculator - Обработана операция
+09:20:26.337 DEBUG org.example.Parser.StreamParser - Считана строка
+09:20:26.338 DEBUG org.example.Parser.StreamParser - Запушено значение
+09:20:26.338 DEBUG org.example.Calculator.Calculator - Получена операция
+09:20:26.338 DEBUG org.example.Calculator.Calculator - Обработана операция
+09:20:28.321 DEBUG org.example.Parser.StreamParser - Считана строка
+09:20:28.322 DEBUG org.example.Parser.StreamParser - print выполнен
+09:20:28.322 DEBUG org.example.Calculator.Calculator - Получена операция
+09:20:28.322 DEBUG org.example.Calculator.Calculator - Обработана операция
+09:20:29.418 DEBUG org.example.Parser.StreamParser - Считана строка
+09:20:29.418 DEBUG org.example.Calculator.Calculator - Получена операция
+09:20:29.419 DEBUG org.example.FactoryComand.Factory - Подана не корректная команда
+09:20:29.419 DEBUG org.example.Calculator.Calculator - Обработана операция
+09:20:39.394 DEBUG org.example.Parser.StreamParser - Считана строка
+09:20:39.396 ERROR org.example.Parser.StreamParser - Неверный формат ввода команды define
+09:20:39.397 DEBUG org.example.Calculator.Calculator - Получена операция
+09:20:39.397 DEBUG org.example.Calculator.Calculator - Обработана операция
+09:20:44.385 DEBUG org.example.Parser.StreamParser - Считана строка
+09:20:44.386 DEBUG org.example.Parser.StreamParser - Создан макрос
+09:20:44.386 DEBUG org.example.Calculator.Calculator - Получена операция
+09:20:44.386 DEBUG org.example.Calculator.Calculator - Обработана операция
+09:20:47.139 DEBUG org.example.Parser.StreamParser - Считана строка
+09:20:47.139 DEBUG org.example.Parser.StreamParser - Запушено значение
+09:20:47.139 DEBUG org.example.Calculator.Calculator - Получена операция
+09:20:47.139 DEBUG org.example.Calculator.Calculator - Обработана операция
+09:20:48.765 DEBUG org.example.Parser.StreamParser - Считана строка
+09:20:48.766 DEBUG org.example.Parser.StreamParser - print выполнен
+09:20:48.766 DEBUG org.example.Calculator.Calculator - Получена операция
+09:20:48.766 DEBUG org.example.Calculator.Calculator - Обработана операция
+09:20:52.359 DEBUG org.example.Parser.StreamParser - Считана строка
+09:20:52.359 DEBUG org.example.Calculator.Calculator - Получена операция
+09:20:52.359 INFO  org.example.Main - Калькулятор завершил работу
+09:49:42.022 DEBUG org.example.Main - Был создан парсер
+09:49:42.025 DEBUG org.example.Calculator.Calculator - Была создана фабрика
+09:49:42.026 DEBUG org.example.Parser.StreamParser - Получен путь к файлу
+09:49:42.026 DEBUG org.example.Parser.StreamParser - Файл считан
+09:49:42.026 DEBUG org.example.Calculator.Calculator - Установлен режим file
+09:49:42.027 DEBUG org.example.Parser.StreamParser - Считана строка
+09:49:42.028 DEBUG org.example.Parser.StreamParser - Запушено значение
+09:49:42.028 DEBUG org.example.Calculator.Calculator - Получена операция файла
+09:49:42.028 DEBUG org.example.Calculator.Calculator - Обработана операция файла
+09:49:42.028 DEBUG org.example.Parser.StreamParser - Считана строка
+09:49:42.028 DEBUG org.example.Parser.StreamParser - Запушено значение
+09:49:42.029 DEBUG org.example.Calculator.Calculator - Получена операция файла
+09:49:42.029 DEBUG org.example.Calculator.Calculator - Обработана операция файла
+09:49:42.029 DEBUG org.example.Parser.StreamParser - Считана строка
+09:49:42.029 DEBUG org.example.Calculator.Calculator - Получена операция файла
+09:49:42.029 DEBUG org.example.FactoryComand.Factory - Произведено вычисление
+09:49:42.029 DEBUG org.example.Calculator.Calculator - Обработана операция файла
+09:49:42.029 DEBUG org.example.Parser.StreamParser - Считана строка
+09:49:42.030 DEBUG org.example.Parser.StreamParser - print выполнен
+09:49:42.030 DEBUG org.example.Calculator.Calculator - Получена операция файла
+09:49:42.030 DEBUG org.example.Calculator.Calculator - Обработана операция файла
+09:49:42.030 DEBUG org.example.Parser.StreamParser - Считана строка
+09:49:42.030 ERROR org.example.Parser.StreamParser - Файл закончен или произошла ошибка в чтении
+09:49:42.030 DEBUG org.example.Calculator.Calculator - Получена операция файла
+09:49:42.031 INFO  org.example.Main - Калькулятор завершил работу
+09:49:42.052 DEBUG org.example.FactoryComand.iComand - Не достаточно элементов в стеке при делении
+09:49:42.061 ERROR org.example.FactoryComand.Factory - Ошибка при вычисленияхnull
+09:49:42.066 DEBUG org.example.FactoryComand.Factory - Произведено вычисление
+09:49:42.067 ERROR org.example.FactoryComand.iComand - Деление на ноль
+09:49:42.068 ERROR org.example.FactoryComand.Factory - Ошибка при вычисленияхделение на ноль
+09:49:42.070 DEBUG org.example.FactoryComand.Factory - Произведено вычисление
+09:49:42.071 DEBUG org.example.FactoryComand.Factory - Подана не корректная команда
+09:49:42.074 DEBUG org.example.FactoryComand.iComand - Не достаточно элементов в стеке при счете разницы
+09:49:42.074 ERROR org.example.FactoryComand.Factory - Ошибка при вычисленияхНе хватает элементов в стеке
+09:49:42.076 DEBUG org.example.FactoryComand.Factory - Произведено вычисление
+09:49:42.079 DEBUG org.example.FactoryComand.iComand - Не достаточно элементов в стеке при произведении
+09:49:42.079 ERROR org.example.FactoryComand.Factory - Ошибка при вычисленияхНе хватает элементов в стеке
+09:49:42.081 DEBUG org.example.FactoryComand.Factory - Произведено вычисление
+09:49:42.084 DEBUG org.example.FactoryComand.Factory - Произведено вычисление
+09:49:42.087 DEBUG org.example.FactoryComand.iComand - Не достаточно элементов в стеке при сумме
+09:49:42.087 ERROR org.example.FactoryComand.Factory - Ошибка при вычисленияхНе хватает элементов в стеке
+09:49:42.090 DEBUG org.example.FactoryComand.Factory - Произведено вычисление
+09:49:42.091 DEBUG org.example.FactoryComand.iComand - Извлечение квадратного корня из отрицательного числа
+09:49:42.091 ERROR org.example.FactoryComand.Factory - Ошибка при вычисленияхотрицательное число
+09:49:42.093 DEBUG org.example.FactoryComand.iComand - Не достаточно элементов в стеке при извлечении квадратного корня
+09:49:42.093 ERROR org.example.FactoryComand.Factory - Ошибка при вычисленияхnull
+09:49:42.097 ERROR org.example.Parser.StreamParser - Поданы не корректные аргументы
+09:49:42.099 DEBUG org.example.Parser.StreamParser - Получен путь к файлу
+09:49:42.099 ERROR org.example.Parser.StreamParser - Не удалось считать файл
+09:49:42.099 ERROR org.example.Parser.StreamParser - Поданы не корректные аргументы
+09:49:42.101 DEBUG org.example.Parser.StreamParser - Получен путь к файлу
+09:49:42.101 DEBUG org.example.Parser.StreamParser - Файл считан
+09:49:42.102 DEBUG org.example.Parser.StreamParser - Считана строка
+09:49:42.102 DEBUG org.example.Parser.StreamParser - Получена строка с комментарием
+09:49:42.103 DEBUG org.example.Parser.StreamParser - Считана строка
+09:49:42.103 DEBUG org.example.Parser.StreamParser - Создан макрос
+09:49:42.103 DEBUG org.example.Parser.StreamParser - Считана строка
+09:49:42.104 ERROR org.example.Parser.StreamParser - Неверный формат ввода команды define
+09:49:42.104 DEBUG org.example.Parser.StreamParser - Считана строка
+09:49:42.104 DEBUG org.example.Parser.StreamParser - Считана строка
+09:49:42.104 ERROR org.example.Parser.StreamParser - Неверный формат ввода команды push
+09:49:42.105 DEBUG org.example.Parser.StreamParser - Считана строка
+09:49:42.105 ERROR org.example.Parser.StreamParser - Не верное значение аргументов(нет такого макроса)
+09:49:42.105 DEBUG org.example.Parser.StreamParser - Считана строка
+09:49:42.105 DEBUG org.example.Parser.StreamParser - Запушено значение
+09:49:42.105 DEBUG org.example.Parser.StreamParser - Считана строка
+09:49:42.105 DEBUG org.example.Parser.StreamParser - Запушено значение
+09:49:42.105 DEBUG org.example.Parser.StreamParser - Считана строка
+09:49:42.105 DEBUG org.example.Parser.StreamParser - pop выполнен
+09:49:42.105 DEBUG org.example.Parser.StreamParser - Считана строка
+09:49:42.105 DEBUG org.example.Parser.StreamParser - pop выполнен
+09:49:42.105 DEBUG org.example.Parser.StreamParser - Считана строка
+09:49:42.105 DEBUG org.example.Parser.StreamParser - Нет элементов в стеке pop
+09:49:42.106 DEBUG org.example.Parser.StreamParser - Считана строка
+09:49:42.106 DEBUG org.example.Parser.StreamParser - Нет элементов в стеке print
+09:49:42.106 DEBUG org.example.Parser.StreamParser - Считана строка
+09:49:42.106 DEBUG org.example.Parser.StreamParser - Запушено значение
+09:49:42.106 DEBUG org.example.Parser.StreamParser - Считана строка
+09:49:42.106 DEBUG org.example.Parser.StreamParser - print выполнен
+09:49:42.106 DEBUG org.example.Parser.StreamParser - Считана строка
+09:49:42.106 DEBUG org.example.Parser.StreamParser - Считана строка
+09:49:42.106 ERROR org.example.Parser.StreamParser - Файл закончен или произошла ошибка в чтении
+09:49:42.108 DEBUG org.example.Parser.StreamParser - Получен путь к файлу
+09:49:42.108 DEBUG org.example.Parser.StreamParser - Файл считан
+09:49:50.646 DEBUG org.example.Main - Был создан парсер
+09:49:50.655 DEBUG org.example.Calculator.Calculator - Была создана фабрика
+09:49:50.655 DEBUG org.example.Parser.StreamParser - Получен путь к файлу
+09:49:50.655 DEBUG org.example.Parser.StreamParser - Файл считан
+09:49:50.655 DEBUG org.example.Calculator.Calculator - Установлен режим file
+09:49:50.655 DEBUG org.example.Parser.StreamParser - Считана строка
+09:49:50.655 DEBUG org.example.Parser.StreamParser - Запушено значение
+09:49:50.655 DEBUG org.example.Calculator.Calculator - Получена операция файла
+09:49:50.656 DEBUG org.example.Calculator.Calculator - Обработана операция файла
+09:49:50.656 DEBUG org.example.Parser.StreamParser - Считана строка
+09:49:50.656 DEBUG org.example.Parser.StreamParser - Запушено значение
+09:49:50.656 DEBUG org.example.Calculator.Calculator - Получена операция файла
+09:49:50.656 DEBUG org.example.Calculator.Calculator - Обработана операция файла
+09:49:50.656 DEBUG org.example.Parser.StreamParser - Считана строка
+09:49:50.656 DEBUG org.example.Calculator.Calculator - Получена операция файла
+09:49:50.656 DEBUG org.example.FactoryComand.Factory - Произведено вычисление
+09:49:50.656 DEBUG org.example.Calculator.Calculator - Обработана операция файла
+09:49:50.656 DEBUG org.example.Parser.StreamParser - Считана строка
+09:49:50.657 DEBUG org.example.Parser.StreamParser - print выполнен
+09:49:50.657 DEBUG org.example.Calculator.Calculator - Получена операция файла
+09:49:50.657 DEBUG org.example.Calculator.Calculator - Обработана операция файла
+09:49:50.657 DEBUG org.example.Parser.StreamParser - Считана строка
+09:49:50.657 ERROR org.example.Parser.StreamParser - Файл закончен или произошла ошибка в чтении
+09:49:50.657 DEBUG org.example.Calculator.Calculator - Получена операция файла
+09:49:50.657 INFO  org.example.Main - Калькулятор завершил работу
+09:49:50.682 DEBUG org.example.FactoryComand.iComand - Не достаточно элементов в стеке при делении
+09:49:50.692 ERROR org.example.FactoryComand.Factory - Ошибка при вычисленияхnull
+09:49:50.699 DEBUG org.example.FactoryComand.Factory - Произведено вычисление
+09:49:50.700 ERROR org.example.FactoryComand.iComand - Деление на ноль
+09:49:50.700 ERROR org.example.FactoryComand.Factory - Ошибка при вычисленияхделение на ноль
+09:49:50.703 DEBUG org.example.FactoryComand.Factory - Произведено вычисление
+09:49:50.704 DEBUG org.example.FactoryComand.Factory - Подана не корректная команда
+09:49:50.707 DEBUG org.example.FactoryComand.iComand - Не достаточно элементов в стеке при счете разницы
+09:49:50.707 ERROR org.example.FactoryComand.Factory - Ошибка при вычисленияхНе хватает элементов в стеке
+09:49:50.708 DEBUG org.example.FactoryComand.Factory - Произведено вычисление
+09:49:50.711 DEBUG org.example.FactoryComand.iComand - Не достаточно элементов в стеке при произведении
+09:49:50.711 ERROR org.example.FactoryComand.Factory - Ошибка при вычисленияхНе хватает элементов в стеке
+09:49:50.713 DEBUG org.example.FactoryComand.Factory - Произведено вычисление
+09:49:50.715 DEBUG org.example.FactoryComand.Factory - Произведено вычисление
+09:49:50.716 DEBUG org.example.FactoryComand.iComand - Не достаточно элементов в стеке при сумме
+09:49:50.716 ERROR org.example.FactoryComand.Factory - Ошибка при вычисленияхНе хватает элементов в стеке
+09:49:50.718 DEBUG org.example.FactoryComand.Factory - Произведено вычисление
+09:49:50.719 DEBUG org.example.FactoryComand.iComand - Извлечение квадратного корня из отрицательного числа
+09:49:50.719 ERROR org.example.FactoryComand.Factory - Ошибка при вычисленияхотрицательное число
+09:49:50.720 DEBUG org.example.FactoryComand.iComand - Не достаточно элементов в стеке при извлечении квадратного корня
+09:49:50.720 ERROR org.example.FactoryComand.Factory - Ошибка при вычисленияхnull
+09:49:50.722 ERROR org.example.Parser.StreamParser - Поданы не корректные аргументы
+09:49:50.723 DEBUG org.example.Parser.StreamParser - Получен путь к файлу
+09:49:50.723 ERROR org.example.Parser.StreamParser - Не удалось считать файл
+09:49:50.723 ERROR org.example.Parser.StreamParser - Поданы не корректные аргументы
+09:49:50.724 DEBUG org.example.Parser.StreamParser - Получен путь к файлу
+09:49:50.724 DEBUG org.example.Parser.StreamParser - Файл считан
+09:49:50.725 DEBUG org.example.Parser.StreamParser - Считана строка
+09:49:50.725 DEBUG org.example.Parser.StreamParser - Получена строка с комментарием
+09:49:50.725 DEBUG org.example.Parser.StreamParser - Считана строка
+09:49:50.725 DEBUG org.example.Parser.StreamParser - Создан макрос
+09:49:50.725 DEBUG org.example.Parser.StreamParser - Считана строка
+09:49:50.725 ERROR org.example.Parser.StreamParser - Неверный формат ввода команды define
+09:49:50.725 DEBUG org.example.Parser.StreamParser - Считана строка
+09:49:50.725 DEBUG org.example.Parser.StreamParser - Считана строка
+09:49:50.725 ERROR org.example.Parser.StreamParser - Неверный формат ввода команды push
+09:49:50.725 DEBUG org.example.Parser.StreamParser - Считана строка
+09:49:50.725 ERROR org.example.Parser.StreamParser - Не верное значение аргументов(нет такого макроса)
+09:49:50.726 DEBUG org.example.Parser.StreamParser - Считана строка
+09:49:50.726 DEBUG org.example.Parser.StreamParser - Запушено значение
+09:49:50.726 DEBUG org.example.Parser.StreamParser - Считана строка
+09:49:50.726 DEBUG org.example.Parser.StreamParser - Запушено значение
+09:49:50.726 DEBUG org.example.Parser.StreamParser - Считана строка
+09:49:50.726 DEBUG org.example.Parser.StreamParser - pop выполнен
+09:49:50.726 DEBUG org.example.Parser.StreamParser - Считана строка
+09:49:50.726 DEBUG org.example.Parser.StreamParser - pop выполнен
+09:49:50.726 DEBUG org.example.Parser.StreamParser - Считана строка
+09:49:50.728 DEBUG org.example.Parser.StreamParser - Нет элементов в стеке pop
+09:49:50.728 DEBUG org.example.Parser.StreamParser - Считана строка
+09:49:50.728 DEBUG org.example.Parser.StreamParser - Нет элементов в стеке print
+09:49:50.728 DEBUG org.example.Parser.StreamParser - Считана строка
+09:49:50.728 DEBUG org.example.Parser.StreamParser - Запушено значение
+09:49:50.728 DEBUG org.example.Parser.StreamParser - Считана строка
+09:49:50.728 DEBUG org.example.Parser.StreamParser - print выполнен
+09:49:50.728 DEBUG org.example.Parser.StreamParser - Считана строка
+09:49:50.728 DEBUG org.example.Parser.StreamParser - Считана строка
+09:49:50.728 ERROR org.example.Parser.StreamParser - Файл закончен или произошла ошибка в чтении
+09:49:50.730 DEBUG org.example.Parser.StreamParser - Получен путь к файлу
+09:49:50.731 DEBUG org.example.Parser.StreamParser - Файл считан
+10:01:43.114 DEBUG org.example.Main - Был создан парсер
+10:01:43.117 DEBUG org.example.Calculator.Calculator - Была создана фабрика
+10:01:43.117 ERROR org.example.Parser.StreamParser - Поданы не корректные аргументы
+10:01:43.117 DEBUG org.example.Calculator.Calculator - Установлен режим console
+10:01:43.124 DEBUG org.example.Calculator.Calculator - Напечатана информация о командах
+10:01:43.124 INFO  org.example.Calculator.Calculator - Калькулятор запущен
+10:01:47.770 DEBUG org.example.Parser.StreamParser - Считана строка
+10:01:47.770 DEBUG org.example.Calculator.Calculator - Получена операция
+10:01:47.771 INFO  org.example.Main - Калькулятор завершил работу
+10:06:00.815 DEBUG org.example.Main - Был создан парсер
+10:06:00.817 DEBUG org.example.Calculator.Calculator - Была создана фабрика
+10:06:00.818 ERROR org.example.Parser.StreamParser - Поданы не корректные аргументы
+10:06:00.818 DEBUG org.example.Calculator.Calculator - Установлен режим console
+10:06:00.823 DEBUG org.example.Calculator.Calculator - Напечатана информация о командах
+10:06:00.823 INFO  org.example.Calculator.Calculator - Калькулятор запущен
+10:06:09.670 DEBUG org.example.Parser.StreamParser - Считана строка
+10:06:09.672 DEBUG org.example.Calculator.Calculator - Получена операция
+10:06:09.672 DEBUG org.example.FactoryComand.iComand - Не достаточно элементов в стеке при сумме
+10:06:09.684 ERROR org.example.FactoryComand.Factory - Ошибка при вычисленияхНе хватает элементов в стеке
+10:06:09.685 DEBUG org.example.Calculator.Calculator - Обработана операция
+10:06:15.498 DEBUG org.example.Parser.StreamParser - Считана строка
+10:06:15.502 DEBUG org.example.Parser.StreamParser - Запушено значение
+10:06:15.502 DEBUG org.example.Calculator.Calculator - Получена операция
+10:06:15.502 DEBUG org.example.Calculator.Calculator - Обработана операция
+10:06:16.611 DEBUG org.example.Parser.StreamParser - Считана строка
+10:06:16.612 DEBUG org.example.Calculator.Calculator - Получена операция
+10:06:16.612 DEBUG org.example.FactoryComand.iComand - Извлечение квадратного корня из отрицательного числа
+10:06:16.613 ERROR org.example.FactoryComand.Factory - Ошибка при вычисленияхотрицательное число
+10:06:16.613 DEBUG org.example.Calculator.Calculator - Обработана операция
+10:18:14.627 ERROR org.example.Parser.StreamParser - Файл закончен или произошла ошибка в чтении
+10:18:14.637 DEBUG org.example.Calculator.Calculator - Получена операция
+10:18:16.160 DEBUG org.example.Main - Был создан парсер
+10:18:16.163 DEBUG org.example.Calculator.Calculator - Была создана фабрика
+10:18:16.163 ERROR org.example.Parser.StreamParser - Поданы не корректные аргументы
+10:18:16.163 DEBUG org.example.Calculator.Calculator - Установлен режим console
+10:18:16.170 DEBUG org.example.Calculator.Calculator - Напечатана информация о командах
+10:18:16.170 INFO  org.example.Calculator.Calculator - Калькулятор запущен
+10:18:21.588 DEBUG org.example.Parser.StreamParser - Считана строка
+10:18:21.590 DEBUG org.example.Parser.StreamParser - Запушено значение
+10:18:21.590 DEBUG org.example.Calculator.Calculator - Получена операция
+10:18:21.590 DEBUG org.example.Calculator.Calculator - Обработана операция
+10:18:35.855 DEBUG org.example.Parser.StreamParser - Считана строка
+10:18:35.856 DEBUG org.example.Calculator.Calculator - Получена операция
+10:18:35.856 INFO  org.example.Main - Калькулятор завершил работу
+11:27:43.313 DEBUG org.example.Calculator.Calculator - Была создана фабрика
+11:27:43.315 ERROR org.example.Parser.StreamParser - Поданы не корректные аргументы
+11:27:43.315 DEBUG org.example.Calculator.Calculator - Установлен режим console
+11:27:43.321 DEBUG org.example.Calculator.Calculator - Напечатана информация о командах
+11:27:43.321 INFO  org.example.Calculator.Calculator - Калькулятор запущен
+11:27:43.322 ERROR org.example.Parser.StreamParser - Файл закончен или произошла ошибка в чтении
+11:27:43.323 DEBUG org.example.Calculator.Calculator - Получена операция
+11:30:16.308 DEBUG org.example.Calculator.Calculator - Была создана фабрика
+11:30:16.311 ERROR org.example.Parser.StreamParser - Поданы не корректные аргументы
+11:30:16.311 DEBUG org.example.Calculator.Calculator - Установлен режим console
+11:30:16.316 DEBUG org.example.Calculator.Calculator - Напечатана информация о командах
+11:30:16.316 INFO  org.example.Calculator.Calculator - Калькулятор запущен
+11:30:16.319 ERROR org.example.Parser.StreamParser - Файл закончен или произошла ошибка в чтении
+11:30:16.319 DEBUG org.example.Calculator.Calculator - Получена операция
+11:30:44.482 DEBUG org.example.Calculator.Calculator - Была создана фабрика
+11:30:44.484 ERROR org.example.Parser.StreamParser - Поданы не корректные аргументы
+11:30:44.484 DEBUG org.example.Calculator.Calculator - Установлен режим console
+11:30:44.489 DEBUG org.example.Calculator.Calculator - Напечатана информация о командах
+11:30:44.489 INFO  org.example.Calculator.Calculator - Калькулятор запущен
+11:30:44.491 ERROR org.example.Parser.StreamParser - Файл закончен или произошла ошибка в чтении
+11:30:44.491 DEBUG org.example.Calculator.Calculator - Получена операция
+11:31:08.455 DEBUG org.example.Calculator.Calculator - Была создана фабрика
+11:31:08.456 ERROR org.example.Parser.StreamParser - Поданы не корректные аргументы
+11:31:08.456 DEBUG org.example.Calculator.Calculator - Установлен режим console
+11:31:08.462 DEBUG org.example.Calculator.Calculator - Напечатана информация о командах
+11:31:08.462 INFO  org.example.Calculator.Calculator - Калькулятор запущен
+11:31:08.463 ERROR org.example.Parser.StreamParser - Файл закончен или произошла ошибка в чтении
+11:31:08.463 DEBUG org.example.Calculator.Calculator - Получена операция
+11:32:22.029 DEBUG org.example.Calculator.Calculator - Была создана фабрика
+11:32:22.032 ERROR org.example.Parser.StreamParser - Поданы не корректные аргументы
+11:32:22.032 DEBUG org.example.Calculator.Calculator - Установлен режим console
+11:32:22.035 DEBUG org.example.Calculator.Calculator - Напечатана информация о командах
+11:32:22.035 INFO  org.example.Calculator.Calculator - Калькулятор запущен
+11:32:22.037 ERROR org.example.Parser.StreamParser - Файл закончен или произошла ошибка в чтении
+11:32:22.038 DEBUG org.example.Calculator.Calculator - Получена операция
+11:33:03.298 DEBUG org.example.Calculator.Calculator - Была создана фабрика
+11:33:03.888 ERROR org.example.Parser.StreamParser - Поданы не корректные аргументы
+11:33:05.920 DEBUG org.example.Calculator.Calculator - Установлен режим console
+11:33:09.218 DEBUG org.example.Calculator.Calculator - Напечатана информация о командах
+11:33:09.806 INFO  org.example.Calculator.Calculator - Калькулятор запущен
+11:33:13.064 ERROR org.example.Parser.StreamParser - Файл закончен или произошла ошибка в чтении
+11:45:50.901 DEBUG org.example.Calculator.Calculator - Была создана фабрика
+11:45:51.392 ERROR org.example.Parser.StreamParser - Поданы не корректные аргументы
+11:45:53.472 DEBUG org.example.Calculator.Calculator - Установлен режим console
+11:45:56.277 DEBUG org.example.Calculator.Calculator - Напечатана информация о командах
+11:45:56.708 INFO  org.example.Calculator.Calculator - Калькулятор запущен
+11:54:36.181 DEBUG org.example.Calculator.Calculator - Была создана фабрика
+11:54:36.654 ERROR org.example.Parser.StreamParser - Поданы не корректные аргументы
+11:54:38.319 DEBUG org.example.Calculator.Calculator - Установлен режим console
+11:54:42.033 DEBUG org.example.Calculator.Calculator - Напечатана информация о командах
+11:54:42.689 INFO  org.example.Calculator.Calculator - Калькулятор запущен
+11:54:43.993 DEBUG org.example.Parser.StreamParser - Считана строка
+11:54:43.994 DEBUG org.example.Parser.StreamParser - Запушено значение
+11:54:51.390 DEBUG org.example.Calculator.Calculator - Получена операция
+11:54:56.497 DEBUG org.example.Calculator.Calculator - Обработана операция
+11:54:56.843 ERROR org.example.Parser.StreamParser - Файл закончен или произошла ошибка в чтении
+11:55:11.595 DEBUG org.example.Calculator.Calculator - Получена операция
+11:55:33.231 DEBUG org.example.Calculator.Calculator - Была создана фабрика
+11:55:33.721 ERROR org.example.Parser.StreamParser - Поданы не корректные аргументы
+11:55:35.939 DEBUG org.example.Calculator.Calculator - Установлен режим console
+11:55:38.801 DEBUG org.example.Calculator.Calculator - Напечатана информация о командах
+11:55:39.198 INFO  org.example.Calculator.Calculator - Калькулятор запущен
+11:56:08.850 DEBUG org.example.Parser.StreamParser - Считана строка
+11:56:15.407 DEBUG org.example.Parser.StreamParser - Запушено значение
+11:56:20.377 DEBUG org.example.Calculator.Calculator - Получена операция
+11:56:25.207 DEBUG org.example.Calculator.Calculator - Обработана операция
+12:04:03.526 DEBUG org.example.Main - Был создан парсер
+12:04:03.528 DEBUG org.example.Calculator.Calculator - Была создана фабрика
+12:04:03.529 ERROR org.example.Parser.StreamParser - Поданы не корректные аргументы
+12:04:03.534 DEBUG org.example.Calculator.Calculator - Установлен режим console
+12:04:03.540 DEBUG org.example.Calculator.Calculator - Напечатана информация о командах
+12:04:03.540 INFO  org.example.Calculator.Calculator - Калькулятор запущен
+12:04:08.787 DEBUG org.example.Parser.StreamParser - Считана строка
+12:04:08.788 DEBUG org.example.Parser.StreamParser - Запушено значение
+12:04:08.788 DEBUG org.example.Calculator.Calculator - Получена операция
+12:04:08.788 DEBUG org.example.Calculator.Calculator - Обработана операция
+12:04:11.197 DEBUG org.example.Parser.StreamParser - Считана строка
+12:04:11.198 DEBUG org.example.Parser.StreamParser - Запушено значение
+12:04:11.199 DEBUG org.example.Calculator.Calculator - Получена операция
+12:04:11.199 DEBUG org.example.Calculator.Calculator - Обработана операция
+12:04:12.331 DEBUG org.example.Parser.StreamParser - Считана строка
+12:04:12.332 DEBUG org.example.Calculator.Calculator - Получена операция
+12:04:12.332 DEBUG org.example.FactoryComand.Factory - Произведено вычисление
+12:04:12.332 DEBUG org.example.Calculator.Calculator - Обработана операция
+12:04:13.513 DEBUG org.example.Parser.StreamParser - Считана строка
+12:04:13.514 DEBUG org.example.Parser.StreamParser - print выполнен
+12:04:13.514 DEBUG org.example.Calculator.Calculator - Получена операция
+12:04:13.514 DEBUG org.example.Calculator.Calculator - Обработана операция
+12:04:17.849 DEBUG org.example.Parser.StreamParser - Считана строка
+12:04:17.850 DEBUG org.example.Calculator.Calculator - Получена операция
+12:04:17.850 DEBUG org.example.FactoryComand.Factory - Произведено вычисление
+12:04:17.850 DEBUG org.example.Calculator.Calculator - Обработана операция
+12:04:19.179 DEBUG org.example.Parser.StreamParser - Считана строка
+12:04:19.183 DEBUG org.example.Parser.StreamParser - print выполнен
+12:04:19.183 DEBUG org.example.Calculator.Calculator - Получена операция
+12:04:19.183 DEBUG org.example.Calculator.Calculator - Обработана операция
+12:04:28.130 DEBUG org.example.Parser.StreamParser - Считана строка
+12:04:28.132 DEBUG org.example.Parser.StreamParser - Запушено значение
+12:04:28.132 DEBUG org.example.Calculator.Calculator - Получена операция
+12:04:28.133 DEBUG org.example.Calculator.Calculator - Обработана операция
+12:04:29.568 DEBUG org.example.Parser.StreamParser - Считана строка
+12:04:29.569 DEBUG org.example.Parser.StreamParser - print выполнен
+12:04:29.569 DEBUG org.example.Calculator.Calculator - Получена операция
+12:04:29.569 DEBUG org.example.Calculator.Calculator - Обработана операция
+12:04:34.144 DEBUG org.example.Parser.StreamParser - Считана строка
+12:04:34.145 DEBUG org.example.Calculator.Calculator - Получена операция
+12:04:34.145 DEBUG org.example.FactoryComand.Factory - Подана не корректная команда
+12:04:34.145 DEBUG org.example.Calculator.Calculator - Обработана операция
+12:04:35.565 DEBUG org.example.Parser.StreamParser - Считана строка
+12:04:35.566 DEBUG org.example.Calculator.Calculator - Получена операция
+12:04:35.566 DEBUG org.example.FactoryComand.Factory - Произведено вычисление
+12:04:35.566 DEBUG org.example.Calculator.Calculator - Обработана операция
+12:04:37.097 DEBUG org.example.Parser.StreamParser - Считана строка
+12:04:37.097 DEBUG org.example.Parser.StreamParser - print выполнен
+12:04:37.097 DEBUG org.example.Calculator.Calculator - Получена операция
+12:04:37.098 DEBUG org.example.Calculator.Calculator - Обработана операция
+12:04:41.423 DEBUG org.example.Parser.StreamParser - Считана строка
+12:04:41.425 DEBUG org.example.Calculator.Calculator - Получена операция
+12:04:41.425 INFO  org.example.Main - Калькулятор завершил работу
+12:05:29.814 DEBUG org.example.Calculator.Calculator - Была создана фабрика
+12:05:30.368 ERROR org.example.Parser.StreamParser - Поданы не корректные аргументы
+12:05:31.546 DEBUG org.example.Calculator.Calculator - Установлен режим console
+12:05:34.026 DEBUG org.example.Calculator.Calculator - Напечатана информация о командах
+12:05:34.340 INFO  org.example.Calculator.Calculator - Калькулятор запущен
+12:05:35.830 DEBUG org.example.Parser.StreamParser - Считана строка
+12:05:35.831 DEBUG org.example.Parser.StreamParser - Запушено значение
+12:05:38.324 DEBUG org.example.Calculator.Calculator - Получена операция
+12:05:39.833 DEBUG org.example.Calculator.Calculator - Обработана операция
+12:05:47.440 DEBUG org.example.Parser.StreamParser - Считана строка
+12:05:55.261 DEBUG org.example.Parser.StreamParser - Запушено значение
+12:05:57.949 DEBUG org.example.Calculator.Calculator - Получена операция
+12:05:59.485 DEBUG org.example.Calculator.Calculator - Обработана операция
+12:06:46.325 DEBUG org.example.Calculator.Calculator - Была создана фабрика
+12:06:46.327 ERROR org.example.Parser.StreamParser - Поданы не корректные аргументы
+12:06:46.328 DEBUG org.example.Calculator.Calculator - Установлен режим console
+12:06:46.332 DEBUG org.example.Calculator.Calculator - Напечатана информация о командах
+12:06:46.332 INFO  org.example.Calculator.Calculator - Калькулятор запущен
+12:06:46.333 DEBUG org.example.Parser.StreamParser - Считана строка
+12:06:46.333 DEBUG org.example.Parser.StreamParser - Запушено значение
+12:06:46.333 DEBUG org.example.Calculator.Calculator - Получена операция
+12:06:46.333 DEBUG org.example.Calculator.Calculator - Обработана операция
+12:06:46.333 DEBUG org.example.Parser.StreamParser - Считана строка
+12:06:46.333 DEBUG org.example.Parser.StreamParser - Запушено значение
+12:06:46.333 DEBUG org.example.Calculator.Calculator - Получена операция
+12:06:46.334 DEBUG org.example.Calculator.Calculator - Обработана операция
+12:06:46.334 DEBUG org.example.Parser.StreamParser - Считана строка
+12:06:46.334 DEBUG org.example.Calculator.Calculator - Получена операция
+12:06:46.334 DEBUG org.example.FactoryComand.Factory - Произведено вычисление
+12:06:46.334 DEBUG org.example.Calculator.Calculator - Обработана операция
+12:06:46.334 DEBUG org.example.Parser.StreamParser - Считана строка
+12:06:46.334 DEBUG org.example.Calculator.Calculator - Получена операция
+12:06:46.334 DEBUG org.example.FactoryComand.Factory - Произведено вычисление
+12:06:46.334 DEBUG org.example.Calculator.Calculator - Обработана операция
+12:06:46.334 DEBUG org.example.Parser.StreamParser - Считана строка
+12:06:46.334 DEBUG org.example.Parser.StreamParser - print выполнен
+12:06:46.335 DEBUG org.example.Calculator.Calculator - Получена операция
+12:06:46.335 DEBUG org.example.Calculator.Calculator - Обработана операция
+12:06:46.335 ERROR org.example.Parser.StreamParser - Файл закончен или произошла ошибка в чтении
+12:06:46.335 DEBUG org.example.Calculator.Calculator - Получена операция
+12:07:42.326 DEBUG org.example.Calculator.Calculator - Была создана фабрика
+12:07:42.329 ERROR org.example.Parser.StreamParser - Поданы не корректные аргументы
+12:07:42.330 DEBUG org.example.Calculator.Calculator - Установлен режим console
+12:07:42.333 DEBUG org.example.Calculator.Calculator - Напечатана информация о командах
+12:07:42.333 INFO  org.example.Calculator.Calculator - Калькулятор запущен
+12:07:42.334 DEBUG org.example.Parser.StreamParser - Считана строка
+12:07:42.334 DEBUG org.example.Parser.StreamParser - Запушено значение
+12:07:42.334 DEBUG org.example.Calculator.Calculator - Получена операция
+12:11:04.362 DEBUG org.example.Main - Был создан парсер
+12:11:04.363 DEBUG org.example.Calculator.Calculator - Была создана фабрика
+12:11:04.364 DEBUG org.example.Parser.StreamParser - Получен путь к файлу
+12:11:04.364 DEBUG org.example.Parser.StreamParser - Файл считан
+12:11:04.364 DEBUG org.example.Calculator.Calculator - Установлен режим file
+12:11:04.364 DEBUG org.example.Parser.StreamParser - Считана строка
+12:11:04.364 DEBUG org.example.Parser.StreamParser - Запушено значение
+12:11:04.364 DEBUG org.example.Calculator.Calculator - Получена операция файла
+12:11:04.364 DEBUG org.example.Calculator.Calculator - Обработана операция файла
+12:11:04.365 DEBUG org.example.Parser.StreamParser - Считана строка
+12:11:04.365 DEBUG org.example.Parser.StreamParser - Запушено значение
+12:11:04.365 DEBUG org.example.Calculator.Calculator - Получена операция файла
+12:11:04.365 DEBUG org.example.Calculator.Calculator - Обработана операция файла
+12:11:04.365 DEBUG org.example.Parser.StreamParser - Считана строка
+12:11:04.365 DEBUG org.example.Calculator.Calculator - Получена операция файла
+12:11:04.365 DEBUG org.example.FactoryComand.Factory - Произведено вычисление
+12:11:04.365 DEBUG org.example.Calculator.Calculator - Обработана операция файла
+12:11:04.365 DEBUG org.example.Parser.StreamParser - Считана строка
+12:11:04.366 DEBUG org.example.Parser.StreamParser - print выполнен
+12:11:04.366 DEBUG org.example.Calculator.Calculator - Получена операция файла
+12:11:04.366 DEBUG org.example.Calculator.Calculator - Обработана операция файла
+12:11:04.366 DEBUG org.example.Parser.StreamParser - Считана строка
+12:11:04.366 DEBUG org.example.Calculator.Calculator - Получена операция файла
+12:11:04.366 DEBUG org.example.FactoryComand.Factory - Подана не корректная команда
+12:11:04.366 DEBUG org.example.Calculator.Calculator - Обработана операция файла
+12:11:04.366 DEBUG org.example.Parser.StreamParser - Считана строка
+12:11:04.366 ERROR org.example.Parser.StreamParser - Файл закончен или произошла ошибка в чтении
+12:11:04.367 DEBUG org.example.Calculator.Calculator - Получена операция файла
+12:11:04.367 INFO  org.example.Main - Калькулятор завершил работу
+12:11:09.978 DEBUG org.example.Main - Был создан парсер
+12:11:09.980 DEBUG org.example.Calculator.Calculator - Была создана фабрика
+12:11:09.980 DEBUG org.example.Parser.StreamParser - Получен путь к файлу
+12:11:09.980 DEBUG org.example.Parser.StreamParser - Файл считан
+12:11:09.980 DEBUG org.example.Calculator.Calculator - Установлен режим file
+12:11:09.980 DEBUG org.example.Parser.StreamParser - Считана строка
+12:11:09.980 DEBUG org.example.Parser.StreamParser - Запушено значение
+12:11:09.981 DEBUG org.example.Calculator.Calculator - Получена операция файла
+12:11:09.981 DEBUG org.example.Calculator.Calculator - Обработана операция файла
+12:11:09.981 DEBUG org.example.Parser.StreamParser - Считана строка
+12:11:09.981 DEBUG org.example.Parser.StreamParser - Запушено значение
+12:11:09.981 DEBUG org.example.Calculator.Calculator - Получена операция файла
+12:11:09.981 DEBUG org.example.Calculator.Calculator - Обработана операция файла
+12:11:09.981 DEBUG org.example.Parser.StreamParser - Считана строка
+12:11:09.981 DEBUG org.example.Calculator.Calculator - Получена операция файла
+12:11:09.981 DEBUG org.example.FactoryComand.Factory - Произведено вычисление
+12:11:09.981 DEBUG org.example.Calculator.Calculator - Обработана операция файла
+12:11:09.981 DEBUG org.example.Parser.StreamParser - Считана строка
+12:11:09.981 DEBUG org.example.Parser.StreamParser - print выполнен
+12:11:09.981 DEBUG org.example.Calculator.Calculator - Получена операция файла
+12:11:09.981 DEBUG org.example.Calculator.Calculator - Обработана операция файла
+12:11:09.981 DEBUG org.example.Parser.StreamParser - Считана строка
+12:11:09.981 DEBUG org.example.Calculator.Calculator - Получена операция файла
+12:11:09.982 DEBUG org.example.FactoryComand.Factory - Подана не корректная команда
+12:11:09.982 DEBUG org.example.Calculator.Calculator - Обработана операция файла
+12:11:09.982 DEBUG org.example.Parser.StreamParser - Считана строка
+12:11:09.982 ERROR org.example.Parser.StreamParser - Файл закончен или произошла ошибка в чтении
+12:11:09.983 DEBUG org.example.Calculator.Calculator - Получена операция файла
+12:11:09.983 INFO  org.example.Main - Калькулятор завершил работу
+12:12:10.735 DEBUG org.example.Main - Был создан парсер
+12:12:10.737 DEBUG org.example.Calculator.Calculator - Была создана фабрика
+12:12:10.738 DEBUG org.example.Parser.StreamParser - Получен путь к файлу
+12:12:10.738 DEBUG org.example.Parser.StreamParser - Файл считан
+12:12:10.738 DEBUG org.example.Calculator.Calculator - Установлен режим file
+12:12:10.738 DEBUG org.example.Parser.StreamParser - Считана строка
+12:12:10.738 DEBUG org.example.Parser.StreamParser - Запушено значение
+12:12:10.738 DEBUG org.example.Calculator.Calculator - Получена операция файла
+12:12:10.738 DEBUG org.example.Calculator.Calculator - Обработана операция файла
+12:12:10.738 DEBUG org.example.Parser.StreamParser - Считана строка
+12:12:10.738 DEBUG org.example.Parser.StreamParser - Запушено значение
+12:12:10.738 DEBUG org.example.Calculator.Calculator - Получена операция файла
+12:12:10.738 DEBUG org.example.Calculator.Calculator - Обработана операция файла
+12:12:10.739 DEBUG org.example.Parser.StreamParser - Считана строка
+12:12:10.739 DEBUG org.example.Calculator.Calculator - Получена операция файла
+12:12:10.739 DEBUG org.example.FactoryComand.Factory - Произведено вычисление
+12:12:10.739 DEBUG org.example.Calculator.Calculator - Обработана операция файла
+12:12:10.739 DEBUG org.example.Parser.StreamParser - Считана строка
+12:12:10.739 DEBUG org.example.Parser.StreamParser - print выполнен
+12:12:10.739 DEBUG org.example.Calculator.Calculator - Получена операция файла
+12:12:10.739 DEBUG org.example.Calculator.Calculator - Обработана операция файла
+12:12:10.739 DEBUG org.example.Parser.StreamParser - Считана строка
+12:12:10.739 ERROR org.example.Parser.StreamParser - Файл закончен или произошла ошибка в чтении
+12:12:10.741 DEBUG org.example.Calculator.Calculator - Получена операция файла
+12:12:10.741 INFO  org.example.Main - Калькулятор завершил работу
+12:12:14.692 DEBUG org.example.Main - Был создан парсер
+12:12:14.694 DEBUG org.example.Calculator.Calculator - Была создана фабрика
+12:12:14.694 DEBUG org.example.Parser.StreamParser - Получен путь к файлу
+12:12:14.694 DEBUG org.example.Parser.StreamParser - Файл считан
+12:12:14.694 DEBUG org.example.Calculator.Calculator - Установлен режим file
+12:12:14.694 DEBUG org.example.Parser.StreamParser - Считана строка
+12:12:14.694 DEBUG org.example.Parser.StreamParser - Запушено значение
+12:12:14.694 DEBUG org.example.Calculator.Calculator - Получена операция файла
+12:12:14.694 DEBUG org.example.Calculator.Calculator - Обработана операция файла
+12:12:14.694 DEBUG org.example.Parser.StreamParser - Считана строка
+12:12:14.695 DEBUG org.example.Parser.StreamParser - Запушено значение
+12:12:14.695 DEBUG org.example.Calculator.Calculator - Получена операция файла
+12:12:14.695 DEBUG org.example.Calculator.Calculator - Обработана операция файла
+12:12:14.695 DEBUG org.example.Parser.StreamParser - Считана строка
+12:12:14.695 DEBUG org.example.Calculator.Calculator - Получена операция файла
+12:12:14.695 DEBUG org.example.FactoryComand.Factory - Произведено вычисление
+12:12:14.695 DEBUG org.example.Calculator.Calculator - Обработана операция файла
+12:12:14.695 DEBUG org.example.Parser.StreamParser - Считана строка
+12:12:14.695 DEBUG org.example.Parser.StreamParser - print выполнен
+12:12:14.695 DEBUG org.example.Calculator.Calculator - Получена операция файла
+12:12:14.695 DEBUG org.example.Calculator.Calculator - Обработана операция файла
+12:12:14.695 DEBUG org.example.Parser.StreamParser - Считана строка
+12:12:14.695 ERROR org.example.Parser.StreamParser - Файл закончен или произошла ошибка в чтении
+12:12:14.697 DEBUG org.example.Calculator.Calculator - Получена операция файла
+12:12:14.697 INFO  org.example.Main - Калькулятор завершил работу
+12:13:17.159 DEBUG org.example.Calculator.Calculator - Была создана фабрика
+12:13:17.160 ERROR org.example.Parser.StreamParser - Поданы не корректные аргументы
+12:13:17.161 DEBUG org.example.Calculator.Calculator - Установлен режим console
+12:13:17.165 DEBUG org.example.Calculator.Calculator - Напечатана информация о командах
+12:13:17.165 INFO  org.example.Calculator.Calculator - Калькулятор запущен
+12:13:17.165 DEBUG org.example.Parser.StreamParser - Считана строка
+12:13:17.166 DEBUG org.example.Parser.StreamParser - Запушено значение
+12:13:17.166 DEBUG org.example.Calculator.Calculator - Получена операция
+12:13:17.166 DEBUG org.example.Calculator.Calculator - Обработана операция
+12:13:17.166 DEBUG org.example.Parser.StreamParser - Считана строка
+12:13:17.166 DEBUG org.example.Parser.StreamParser - Запушено значение
+12:13:17.166 DEBUG org.example.Calculator.Calculator - Получена операция
+12:13:17.166 DEBUG org.example.Calculator.Calculator - Обработана операция
+12:13:17.166 DEBUG org.example.Parser.StreamParser - Считана строка
+12:13:17.166 DEBUG org.example.Calculator.Calculator - Получена операция
+12:13:17.166 DEBUG org.example.FactoryComand.Factory - Произведено вычисление
+12:13:17.166 DEBUG org.example.Calculator.Calculator - Обработана операция
+12:13:17.166 DEBUG org.example.Parser.StreamParser - Считана строка
+12:13:17.167 DEBUG org.example.Parser.StreamParser - print выполнен
+12:13:17.167 DEBUG org.example.Calculator.Calculator - Получена операция
+12:13:17.167 DEBUG org.example.Calculator.Calculator - Обработана операция
+12:13:17.167 ERROR org.example.Parser.StreamParser - Файл закончен или произошла ошибка в чтении
+12:13:17.168 DEBUG org.example.Calculator.Calculator - Получена операция
+12:14:50.376 DEBUG org.example.Calculator.Calculator - Была создана фабрика
+12:14:50.652 ERROR org.example.Parser.StreamParser - Поданы не корректные аргументы
+12:14:53.085 DEBUG org.example.Calculator.Calculator - Установлен режим console
+12:14:56.765 DEBUG org.example.Calculator.Calculator - Напечатана информация о командах
+12:14:56.994 INFO  org.example.Calculator.Calculator - Калькулятор запущен
+12:15:07.153 DEBUG org.example.Parser.StreamParser - Считана строка
+12:15:07.154 DEBUG org.example.Parser.StreamParser - Запушено значение
+12:15:07.953 DEBUG org.example.Calculator.Calculator - Получена операция
+12:15:09.401 DEBUG org.example.Calculator.Calculator - Обработана операция
+12:15:09.833 DEBUG org.example.Parser.StreamParser - Считана строка
+12:15:09.834 DEBUG org.example.Parser.StreamParser - Запушено значение
+12:15:10.114 DEBUG org.example.Calculator.Calculator - Получена операция
+12:15:11.580 DEBUG org.example.Calculator.Calculator - Обработана операция
+12:15:11.792 DEBUG org.example.Parser.StreamParser - Считана строка
+12:15:12.264 DEBUG org.example.Calculator.Calculator - Получена операция
+12:15:32.497 DEBUG org.example.Calculator.Calculator - Была создана фабрика
+12:15:32.498 ERROR org.example.Parser.StreamParser - Поданы не корректные аргументы
+12:15:32.499 DEBUG org.example.Calculator.Calculator - Установлен режим console
+12:15:32.503 DEBUG org.example.Calculator.Calculator - Напечатана информация о командах
+12:15:32.503 INFO  org.example.Calculator.Calculator - Калькулятор запущен
+12:15:32.503 DEBUG org.example.Parser.StreamParser - Считана строка
+12:15:32.503 DEBUG org.example.Parser.StreamParser - Запушено значение
+12:15:32.503 DEBUG org.example.Calculator.Calculator - Получена операция
+12:15:32.503 DEBUG org.example.Calculator.Calculator - Обработана операция
+12:15:32.503 DEBUG org.example.Parser.StreamParser - Считана строка
+12:15:32.503 DEBUG org.example.Parser.StreamParser - Запушено значение
+12:15:32.503 DEBUG org.example.Calculator.Calculator - Получена операция
+12:15:32.503 DEBUG org.example.Calculator.Calculator - Обработана операция
+12:15:32.504 DEBUG org.example.Parser.StreamParser - Считана строка
+12:15:32.504 DEBUG org.example.Calculator.Calculator - Получена операция
+12:15:32.504 DEBUG org.example.FactoryComand.Factory - Произведено вычисление
+12:15:32.504 DEBUG org.example.Calculator.Calculator - Обработана операция
+12:15:32.504 DEBUG org.example.Parser.StreamParser - Считана строка
+12:15:32.504 DEBUG org.example.Parser.StreamParser - print выполнен
+12:15:32.504 DEBUG org.example.Calculator.Calculator - Получена операция
+12:15:32.504 DEBUG org.example.Calculator.Calculator - Обработана операция
+12:15:32.504 DEBUG org.example.Parser.StreamParser - Считана строка
+12:15:32.504 DEBUG org.example.Calculator.Calculator - Получена операция
+12:15:39.893 DEBUG org.example.Calculator.Calculator - Была создана фабрика
+12:15:40.160 ERROR org.example.Parser.StreamParser - Поданы не корректные аргументы
+12:15:41.617 DEBUG org.example.Calculator.Calculator - Установлен режим console
+12:15:42.017 DEBUG org.example.Calculator.Calculator - Напечатана информация о командах
+12:15:42.018 INFO  org.example.Calculator.Calculator - Калькулятор запущен
+12:15:42.019 DEBUG org.example.Parser.StreamParser - Считана строка
+12:15:42.020 DEBUG org.example.Parser.StreamParser - Запушено значение
+12:15:42.021 DEBUG org.example.Calculator.Calculator - Получена операция
+12:15:44.036 DEBUG org.example.Calculator.Calculator - Обработана операция
+12:15:44.473 DEBUG org.example.Parser.StreamParser - Считана строка
+12:15:44.474 DEBUG org.example.Parser.StreamParser - Запушено значение
+12:15:44.863 DEBUG org.example.Calculator.Calculator - Получена операция
+12:15:46.082 DEBUG org.example.Calculator.Calculator - Обработана операция
+12:15:46.475 DEBUG org.example.Parser.StreamParser - Считана строка
+12:15:47.034 DEBUG org.example.Calculator.Calculator - Получена операция
+12:15:51.285 DEBUG org.example.FactoryComand.Factory - Произведено вычисление
+12:15:52.244 DEBUG org.example.Calculator.Calculator - Обработана операция
+12:15:52.662 DEBUG org.example.Parser.StreamParser - Считана строка
+12:15:52.664 DEBUG org.example.Parser.StreamParser - print выполнен
+12:15:53.130 DEBUG org.example.Calculator.Calculator - Получена операция
+12:15:54.760 DEBUG org.example.Calculator.Calculator - Обработана операция
+12:15:55.616 DEBUG org.example.Parser.StreamParser - Считана строка
+12:15:56.217 DEBUG org.example.Calculator.Calculator - Получена операция
+12:17:17.688 DEBUG org.example.Calculator.Calculator - Была создана фабрика
+12:17:17.690 ERROR org.example.Parser.StreamParser - Поданы не корректные аргументы
+12:17:17.691 DEBUG org.example.Calculator.Calculator - Установлен режим console
+12:17:17.694 DEBUG org.example.Calculator.Calculator - Напечатана информация о командах
+12:17:17.694 INFO  org.example.Calculator.Calculator - Калькулятор запущен
+12:17:17.694 DEBUG org.example.Parser.StreamParser - Считана строка
+12:17:17.694 DEBUG org.example.Parser.StreamParser - Запушено значение
+12:17:17.694 DEBUG org.example.Calculator.Calculator - Получена операция
+12:17:17.694 DEBUG org.example.Calculator.Calculator - Обработана операция
+12:17:17.694 DEBUG org.example.Parser.StreamParser - Считана строка
+12:17:17.694 DEBUG org.example.Parser.StreamParser - Запушено значение
+12:17:17.694 DEBUG org.example.Calculator.Calculator - Получена операция
+12:17:17.694 DEBUG org.example.Calculator.Calculator - Обработана операция
+12:17:17.695 DEBUG org.example.Parser.StreamParser - Считана строка
+12:17:17.695 DEBUG org.example.Calculator.Calculator - Получена операция
+12:17:17.695 DEBUG org.example.FactoryComand.Factory - Произведено вычисление
+12:17:17.695 DEBUG org.example.Calculator.Calculator - Обработана операция
+12:17:17.695 DEBUG org.example.Parser.StreamParser - Считана строка
+12:17:17.695 DEBUG org.example.Parser.StreamParser - print выполнен
+12:17:17.695 DEBUG org.example.Calculator.Calculator - Получена операция
+12:17:17.695 DEBUG org.example.Calculator.Calculator - Обработана операция
+12:17:17.695 DEBUG org.example.Parser.StreamParser - Считана строка
+12:17:17.695 DEBUG org.example.Calculator.Calculator - Получена операция
+12:17:45.190 DEBUG org.example.Calculator.Calculator - Была создана фабрика
+12:17:45.192 ERROR org.example.Parser.StreamParser - Поданы не корректные аргументы
+12:17:45.193 DEBUG org.example.Calculator.Calculator - Установлен режим console
+12:17:45.196 DEBUG org.example.Calculator.Calculator - Напечатана информация о командах
+12:17:45.196 INFO  org.example.Calculator.Calculator - Калькулятор запущен
+12:17:45.197 DEBUG org.example.Parser.StreamParser - Считана строка
+12:17:45.197 DEBUG org.example.Parser.StreamParser - Запушено значение
+12:17:45.197 DEBUG org.example.Calculator.Calculator - Получена операция
+12:17:45.197 DEBUG org.example.Calculator.Calculator - Обработана операция
+12:17:45.197 DEBUG org.example.Parser.StreamParser - Считана строка
+12:17:45.197 DEBUG org.example.Parser.StreamParser - Запушено значение
+12:17:45.197 DEBUG org.example.Calculator.Calculator - Получена операция
+12:17:45.198 DEBUG org.example.Calculator.Calculator - Обработана операция
+12:17:45.198 DEBUG org.example.Parser.StreamParser - Считана строка
+12:17:45.198 DEBUG org.example.Calculator.Calculator - Получена операция
+12:17:45.198 DEBUG org.example.FactoryComand.Factory - Произведено вычисление
+12:17:45.198 DEBUG org.example.Calculator.Calculator - Обработана операция
+12:17:45.198 DEBUG org.example.Parser.StreamParser - Считана строка
+12:17:45.198 DEBUG org.example.Parser.StreamParser - print выполнен
+12:17:45.198 DEBUG org.example.Calculator.Calculator - Получена операция
+12:17:45.198 DEBUG org.example.Calculator.Calculator - Обработана операция
+12:17:45.198 DEBUG org.example.Parser.StreamParser - Считана строка
+12:17:45.198 DEBUG org.example.Calculator.Calculator - Получена операция
+12:18:16.963 DEBUG org.example.Calculator.Calculator - Была создана фабрика
+12:18:16.965 ERROR org.example.Parser.StreamParser - Поданы не корректные аргументы
+12:18:16.966 DEBUG org.example.Calculator.Calculator - Установлен режим console
+12:18:16.969 DEBUG org.example.Calculator.Calculator - Напечатана информация о командах
+12:18:16.969 INFO  org.example.Calculator.Calculator - Калькулятор запущен
+12:18:16.969 DEBUG org.example.Parser.StreamParser - Считана строка
+12:18:16.969 DEBUG org.example.Parser.StreamParser - Запушено значение
+12:18:16.970 DEBUG org.example.Calculator.Calculator - Получена операция
+12:18:16.970 DEBUG org.example.Calculator.Calculator - Обработана операция
+12:18:16.970 DEBUG org.example.Parser.StreamParser - Считана строка
+12:18:16.970 DEBUG org.example.Parser.StreamParser - Запушено значение
+12:18:16.970 DEBUG org.example.Calculator.Calculator - Получена операция
+12:18:16.970 DEBUG org.example.Calculator.Calculator - Обработана операция
+12:18:16.970 DEBUG org.example.Parser.StreamParser - Считана строка
+12:18:16.970 DEBUG org.example.Calculator.Calculator - Получена операция
+12:18:16.970 DEBUG org.example.FactoryComand.Factory - Произведено вычисление
+12:18:16.970 DEBUG org.example.Calculator.Calculator - Обработана операция
+12:18:16.970 DEBUG org.example.Parser.StreamParser - Считана строка
+12:18:16.970 DEBUG org.example.Parser.StreamParser - print выполнен
+12:18:16.970 DEBUG org.example.Calculator.Calculator - Получена операция
+12:18:16.970 DEBUG org.example.Calculator.Calculator - Обработана операция
+12:18:16.971 DEBUG org.example.Parser.StreamParser - Считана строка
+12:18:16.971 DEBUG org.example.Calculator.Calculator - Получена операция
+12:21:08.065 DEBUG org.example.Calculator.Calculator - Была создана фабрика
+12:21:08.067 DEBUG org.example.Parser.StreamParser - Получен путь к файлу
+12:21:08.067 DEBUG org.example.Parser.StreamParser - Файл считан
+12:21:08.067 DEBUG org.example.Calculator.Calculator - Установлен режим file
+12:21:08.067 DEBUG org.example.Parser.StreamParser - Считана строка
+12:21:08.068 DEBUG org.example.Parser.StreamParser - Запушено значение
+12:21:08.068 DEBUG org.example.Calculator.Calculator - Получена операция файла
+12:21:08.068 DEBUG org.example.Calculator.Calculator - Обработана операция файла
+12:21:08.068 DEBUG org.example.Parser.StreamParser - Считана строка
+12:21:08.068 DEBUG org.example.Parser.StreamParser - Запушено значение
+12:21:08.068 DEBUG org.example.Calculator.Calculator - Получена операция файла
+12:21:08.068 DEBUG org.example.Calculator.Calculator - Обработана операция файла
+12:21:08.068 DEBUG org.example.Parser.StreamParser - Считана строка
+12:21:08.068 DEBUG org.example.Calculator.Calculator - Получена операция файла
+12:21:08.068 DEBUG org.example.FactoryComand.Factory - Произведено вычисление
+12:21:08.068 DEBUG org.example.Calculator.Calculator - Обработана операция файла
+12:21:08.068 DEBUG org.example.Parser.StreamParser - Считана строка
+12:21:08.069 DEBUG org.example.Parser.StreamParser - print выполнен
+12:21:08.069 DEBUG org.example.Calculator.Calculator - Получена операция файла
+12:21:08.069 DEBUG org.example.Calculator.Calculator - Обработана операция файла
+12:21:08.069 DEBUG org.example.Parser.StreamParser - Считана строка
+12:21:08.069 ERROR org.example.Parser.StreamParser - Файл закончен или произошла ошибка в чтении
+12:21:08.070 DEBUG org.example.Calculator.Calculator - Получена операция файла
+12:21:19.473 DEBUG org.example.Main - Был создан парсер
+12:21:19.474 DEBUG org.example.Calculator.Calculator - Была создана фабрика
+12:21:19.475 DEBUG org.example.Parser.StreamParser - Получен путь к файлу
+12:21:19.475 DEBUG org.example.Parser.StreamParser - Файл считан
+12:21:19.475 DEBUG org.example.Calculator.Calculator - Установлен режим file
+12:21:19.475 DEBUG org.example.Parser.StreamParser - Считана строка
+12:21:19.475 DEBUG org.example.Parser.StreamParser - Запушено значение
+12:21:19.475 DEBUG org.example.Calculator.Calculator - Получена операция файла
+12:21:19.475 DEBUG org.example.Calculator.Calculator - Обработана операция файла
+12:21:19.475 DEBUG org.example.Parser.StreamParser - Считана строка
+12:21:19.475 DEBUG org.example.Parser.StreamParser - Запушено значение
+12:21:19.475 DEBUG org.example.Calculator.Calculator - Получена операция файла
+12:21:19.475 DEBUG org.example.Calculator.Calculator - Обработана операция файла
+12:21:19.476 DEBUG org.example.Parser.StreamParser - Считана строка
+12:21:19.476 DEBUG org.example.Calculator.Calculator - Получена операция файла
+12:21:19.476 DEBUG org.example.FactoryComand.Factory - Произведено вычисление
+12:21:19.476 DEBUG org.example.Calculator.Calculator - Обработана операция файла
+12:21:19.476 DEBUG org.example.Parser.StreamParser - Считана строка
+12:21:19.476 DEBUG org.example.Parser.StreamParser - print выполнен
+12:21:19.476 DEBUG org.example.Calculator.Calculator - Получена операция файла
+12:21:19.476 DEBUG org.example.Calculator.Calculator - Обработана операция файла
+12:21:19.476 DEBUG org.example.Parser.StreamParser - Считана строка
+12:21:19.476 ERROR org.example.Parser.StreamParser - Файл закончен или произошла ошибка в чтении
+12:21:19.477 DEBUG org.example.Calculator.Calculator - Получена операция файла
+12:21:19.477 INFO  org.example.Main - Калькулятор завершил работу
+12:21:19.486 DEBUG org.example.Calculator.Calculator - Была создана фабрика
+12:21:19.486 ERROR org.example.Parser.StreamParser - Поданы не корректные аргументы
+12:21:19.487 DEBUG org.example.Calculator.Calculator - Установлен режим console
+12:21:19.490 DEBUG org.example.Calculator.Calculator - Напечатана информация о командах
+12:21:19.491 INFO  org.example.Calculator.Calculator - Калькулятор запущен
+12:21:19.491 DEBUG org.example.Parser.StreamParser - Считана строка
+12:21:19.491 DEBUG org.example.Parser.StreamParser - Запушено значение
+12:21:19.491 DEBUG org.example.Calculator.Calculator - Получена операция
+12:21:19.491 DEBUG org.example.Calculator.Calculator - Обработана операция
+12:21:19.491 DEBUG org.example.Parser.StreamParser - Считана строка
+12:21:19.491 DEBUG org.example.Parser.StreamParser - Запушено значение
+12:21:19.491 DEBUG org.example.Calculator.Calculator - Получена операция
+12:21:19.492 DEBUG org.example.Calculator.Calculator - Обработана операция
+12:21:19.492 DEBUG org.example.Parser.StreamParser - Считана строка
+12:21:19.492 DEBUG org.example.Calculator.Calculator - Получена операция
+12:21:19.492 DEBUG org.example.FactoryComand.Factory - Произведено вычисление
+12:21:19.492 DEBUG org.example.Calculator.Calculator - Обработана операция
+12:21:19.492 DEBUG org.example.Parser.StreamParser - Считана строка
+12:21:19.492 DEBUG org.example.Parser.StreamParser - print выполнен
+12:21:19.492 DEBUG org.example.Calculator.Calculator - Получена операция
+12:21:19.492 DEBUG org.example.Calculator.Calculator - Обработана операция
+12:21:19.492 DEBUG org.example.Parser.StreamParser - Считана строка
+12:21:19.492 DEBUG org.example.Calculator.Calculator - Получена операция
+12:21:19.494 DEBUG org.example.Calculator.Calculator - Была создана фабрика
+12:21:19.494 DEBUG org.example.Parser.StreamParser - Получен путь к файлу
+12:21:19.494 DEBUG org.example.Parser.StreamParser - Файл считан
+12:21:19.494 DEBUG org.example.Calculator.Calculator - Установлен режим file
+12:21:19.494 DEBUG org.example.Parser.StreamParser - Считана строка
+12:21:19.494 DEBUG org.example.Parser.StreamParser - Запушено значение
+12:21:19.494 DEBUG org.example.Calculator.Calculator - Получена операция файла
+12:21:19.494 DEBUG org.example.Calculator.Calculator - Обработана операция файла
+12:21:19.494 DEBUG org.example.Parser.StreamParser - Считана строка
+12:21:19.494 DEBUG org.example.Parser.StreamParser - Запушено значение
+12:21:19.494 DEBUG org.example.Calculator.Calculator - Получена операция файла
+12:21:19.494 DEBUG org.example.Calculator.Calculator - Обработана операция файла
+12:21:19.494 DEBUG org.example.Parser.StreamParser - Считана строка
+12:21:19.494 DEBUG org.example.Calculator.Calculator - Получена операция файла
+12:21:19.494 DEBUG org.example.FactoryComand.Factory - Произведено вычисление
+12:21:19.494 DEBUG org.example.Calculator.Calculator - Обработана операция файла
+12:21:19.495 DEBUG org.example.Parser.StreamParser - Считана строка
+12:21:19.495 DEBUG org.example.Parser.StreamParser - print выполнен
+12:21:19.495 DEBUG org.example.Calculator.Calculator - Получена операция файла
+12:21:19.495 DEBUG org.example.Calculator.Calculator - Обработана операция файла
+12:21:19.495 DEBUG org.example.Parser.StreamParser - Считана строка
+12:21:19.495 ERROR org.example.Parser.StreamParser - Файл закончен или произошла ошибка в чтении
+12:21:19.495 DEBUG org.example.Calculator.Calculator - Получена операция файла
+12:21:19.501 DEBUG org.example.FactoryComand.iComand - Не достаточно элементов в стеке при делении
+12:21:19.510 ERROR org.example.FactoryComand.Factory - Ошибка при вычисленияхnull
+12:21:19.511 DEBUG org.example.FactoryComand.Factory - Произведено вычисление
+12:21:19.512 ERROR org.example.FactoryComand.iComand - Деление на ноль
+12:21:19.512 ERROR org.example.FactoryComand.Factory - Ошибка при вычисленияхделение на ноль
+12:21:19.514 DEBUG org.example.FactoryComand.Factory - Произведено вычисление
+12:21:19.515 DEBUG org.example.FactoryComand.Factory - Подана не корректная команда
+12:21:19.517 DEBUG org.example.FactoryComand.iComand - Не достаточно элементов в стеке при счете разницы
+12:21:19.517 ERROR org.example.FactoryComand.Factory - Ошибка при вычисленияхНе хватает элементов в стеке
+12:21:19.518 DEBUG org.example.FactoryComand.Factory - Произведено вычисление
+12:21:19.520 DEBUG org.example.FactoryComand.iComand - Не достаточно элементов в стеке при произведении
+12:21:19.520 ERROR org.example.FactoryComand.Factory - Ошибка при вычисленияхНе хватает элементов в стеке
+12:21:19.521 DEBUG org.example.FactoryComand.Factory - Произведено вычисление
+12:21:19.522 DEBUG org.example.FactoryComand.Factory - Произведено вычисление
+12:21:19.523 DEBUG org.example.FactoryComand.iComand - Не достаточно элементов в стеке при сумме
+12:21:19.523 ERROR org.example.FactoryComand.Factory - Ошибка при вычисленияхНе хватает элементов в стеке
+12:21:19.525 DEBUG org.example.FactoryComand.Factory - Произведено вычисление
+12:21:19.525 DEBUG org.example.FactoryComand.iComand - Извлечение квадратного корня из отрицательного числа
+12:21:19.525 ERROR org.example.FactoryComand.Factory - Ошибка при вычисленияхотрицательное число
+12:21:19.526 DEBUG org.example.FactoryComand.iComand - Не достаточно элементов в стеке при извлечении квадратного корня
+12:21:19.526 ERROR org.example.FactoryComand.Factory - Ошибка при вычисленияхnull
+12:21:19.528 ERROR org.example.Parser.StreamParser - Поданы не корректные аргументы
+12:21:19.529 DEBUG org.example.Parser.StreamParser - Получен путь к файлу
+12:21:19.529 ERROR org.example.Parser.StreamParser - Не удалось считать файл
+12:21:19.530 ERROR org.example.Parser.StreamParser - Поданы не корректные аргументы
+12:21:19.530 DEBUG org.example.Parser.StreamParser - Получен путь к файлу
+12:21:19.531 DEBUG org.example.Parser.StreamParser - Файл считан
+12:21:19.531 DEBUG org.example.Parser.StreamParser - Считана строка
+12:21:19.531 DEBUG org.example.Parser.StreamParser - Получена строка с комментарием
+12:21:19.531 DEBUG org.example.Parser.StreamParser - Считана строка
+12:21:19.531 DEBUG org.example.Parser.StreamParser - Создан макрос
+12:21:19.531 DEBUG org.example.Parser.StreamParser - Считана строка
+12:21:19.531 ERROR org.example.Parser.StreamParser - Неверный формат ввода команды define
+12:21:19.532 DEBUG org.example.Parser.StreamParser - Считана строка
+12:21:19.532 DEBUG org.example.Parser.StreamParser - Считана строка
+12:21:19.532 ERROR org.example.Parser.StreamParser - Неверный формат ввода команды push
+12:21:19.532 DEBUG org.example.Parser.StreamParser - Считана строка
+12:21:19.532 ERROR org.example.Parser.StreamParser - Не верное значение аргументов(нет такого макроса)
+12:21:19.532 DEBUG org.example.Parser.StreamParser - Считана строка
+12:21:19.532 DEBUG org.example.Parser.StreamParser - Запушено значение
+12:21:19.533 DEBUG org.example.Parser.StreamParser - Считана строка
+12:21:19.533 DEBUG org.example.Parser.StreamParser - Запушено значение
+12:21:19.533 DEBUG org.example.Parser.StreamParser - Считана строка
+12:21:19.533 DEBUG org.example.Parser.StreamParser - pop выполнен
+12:21:19.533 DEBUG org.example.Parser.StreamParser - Считана строка
+12:21:19.533 DEBUG org.example.Parser.StreamParser - pop выполнен
+12:21:19.533 DEBUG org.example.Parser.StreamParser - Считана строка
+12:21:19.533 DEBUG org.example.Parser.StreamParser - Нет элементов в стеке pop
+12:21:19.533 DEBUG org.example.Parser.StreamParser - Считана строка
+12:21:19.533 DEBUG org.example.Parser.StreamParser - Нет элементов в стеке print
+12:21:19.533 DEBUG org.example.Parser.StreamParser - Считана строка
+12:21:19.533 DEBUG org.example.Parser.StreamParser - Запушено значение
+12:21:19.533 DEBUG org.example.Parser.StreamParser - Считана строка
+12:21:19.533 DEBUG org.example.Parser.StreamParser - print выполнен
+12:21:19.533 DEBUG org.example.Parser.StreamParser - Считана строка
+12:21:19.533 DEBUG org.example.Parser.StreamParser - Считана строка
+12:21:19.534 ERROR org.example.Parser.StreamParser - Файл закончен или произошла ошибка в чтении
+12:21:19.535 DEBUG org.example.Parser.StreamParser - Получен путь к файлу
+12:21:19.535 DEBUG org.example.Parser.StreamParser - Файл считан
+12:21:38.319 DEBUG org.example.Main - Был создан парсер
+12:21:38.327 DEBUG org.example.Calculator.Calculator - Была создана фабрика
+12:21:38.327 DEBUG org.example.Parser.StreamParser - Получен путь к файлу
+12:21:38.327 DEBUG org.example.Parser.StreamParser - Файл считан
+12:21:38.328 DEBUG org.example.Calculator.Calculator - Установлен режим file
+12:21:38.328 DEBUG org.example.Parser.StreamParser - Считана строка
+12:21:38.328 DEBUG org.example.Parser.StreamParser - Запушено значение
+12:21:38.328 DEBUG org.example.Calculator.Calculator - Получена операция файла
+12:21:38.329 DEBUG org.example.Calculator.Calculator - Обработана операция файла
+12:21:38.329 DEBUG org.example.Parser.StreamParser - Считана строка
+12:21:38.329 DEBUG org.example.Parser.StreamParser - Запушено значение
+12:21:38.329 DEBUG org.example.Calculator.Calculator - Получена операция файла
+12:21:38.329 DEBUG org.example.Calculator.Calculator - Обработана операция файла
+12:21:38.329 DEBUG org.example.Parser.StreamParser - Считана строка
+12:21:38.329 DEBUG org.example.Calculator.Calculator - Получена операция файла
+12:21:38.329 DEBUG org.example.FactoryComand.Factory - Произведено вычисление
+12:21:38.329 DEBUG org.example.Calculator.Calculator - Обработана операция файла
+12:21:38.330 DEBUG org.example.Parser.StreamParser - Считана строка
+12:21:38.330 DEBUG org.example.Parser.StreamParser - print выполнен
+12:21:38.331 DEBUG org.example.Calculator.Calculator - Получена операция файла
+12:21:38.331 DEBUG org.example.Calculator.Calculator - Обработана операция файла
+12:21:38.331 DEBUG org.example.Parser.StreamParser - Считана строка
+12:21:38.331 ERROR org.example.Parser.StreamParser - Файл закончен или произошла ошибка в чтении
+12:21:38.347 DEBUG org.example.Calculator.Calculator - Получена операция файла
+12:21:38.347 INFO  org.example.Main - Калькулятор завершил работу
+12:21:38.375 DEBUG org.example.Calculator.Calculator - Была создана фабрика
+12:21:38.375 ERROR org.example.Parser.StreamParser - Поданы не корректные аргументы
+12:21:38.377 DEBUG org.example.Calculator.Calculator - Установлен режим console
+12:21:38.378 DEBUG org.example.Calculator.Calculator - Напечатана информация о командах
+12:21:38.379 INFO  org.example.Calculator.Calculator - Калькулятор запущен
+12:21:38.379 DEBUG org.example.Parser.StreamParser - Считана строка
+12:21:38.379 DEBUG org.example.Parser.StreamParser - Запушено значение
+12:21:38.380 DEBUG org.example.Calculator.Calculator - Получена операция
+12:21:38.380 DEBUG org.example.Calculator.Calculator - Обработана операция
+12:21:38.380 DEBUG org.example.Parser.StreamParser - Считана строка
+12:21:38.380 DEBUG org.example.Parser.StreamParser - Запушено значение
+12:21:38.380 DEBUG org.example.Calculator.Calculator - Получена операция
+12:21:38.380 DEBUG org.example.Calculator.Calculator - Обработана операция
+12:21:38.380 DEBUG org.example.Parser.StreamParser - Считана строка
+12:21:38.380 DEBUG org.example.Calculator.Calculator - Получена операция
+12:21:38.380 DEBUG org.example.FactoryComand.Factory - Произведено вычисление
+12:21:38.381 DEBUG org.example.Calculator.Calculator - Обработана операция
+12:21:38.381 DEBUG org.example.Parser.StreamParser - Считана строка
+12:21:38.381 DEBUG org.example.Parser.StreamParser - print выполнен
+12:21:38.381 DEBUG org.example.Calculator.Calculator - Получена операция
+12:21:38.381 DEBUG org.example.Calculator.Calculator - Обработана операция
+12:21:38.381 DEBUG org.example.Parser.StreamParser - Считана строка
+12:21:38.381 DEBUG org.example.Calculator.Calculator - Получена операция
+12:21:38.383 DEBUG org.example.Calculator.Calculator - Была создана фабрика
+12:21:38.384 DEBUG org.example.Parser.StreamParser - Получен путь к файлу
+12:21:38.384 DEBUG org.example.Parser.StreamParser - Файл считан
+12:21:38.384 DEBUG org.example.Calculator.Calculator - Установлен режим file
+12:21:38.384 DEBUG org.example.Parser.StreamParser - Считана строка
+12:21:38.384 DEBUG org.example.Parser.StreamParser - Запушено значение
+12:21:38.384 DEBUG org.example.Calculator.Calculator - Получена операция файла
+12:21:38.384 DEBUG org.example.Calculator.Calculator - Обработана операция файла
+12:21:38.384 DEBUG org.example.Parser.StreamParser - Считана строка
+12:21:38.385 DEBUG org.example.Parser.StreamParser - Запушено значение
+12:21:38.385 DEBUG org.example.Calculator.Calculator - Получена операция файла
+12:21:38.385 DEBUG org.example.Calculator.Calculator - Обработана операция файла
+12:21:38.385 DEBUG org.example.Parser.StreamParser - Считана строка
+12:21:38.385 DEBUG org.example.Calculator.Calculator - Получена операция файла
+12:21:38.385 DEBUG org.example.FactoryComand.Factory - Произведено вычисление
+12:21:38.385 DEBUG org.example.Calculator.Calculator - Обработана операция файла
+12:21:38.385 DEBUG org.example.Parser.StreamParser - Считана строка
+12:21:38.385 DEBUG org.example.Parser.StreamParser - print выполнен
+12:21:38.385 DEBUG org.example.Calculator.Calculator - Получена операция файла
+12:21:38.385 DEBUG org.example.Calculator.Calculator - Обработана операция файла
+12:21:38.386 DEBUG org.example.Parser.StreamParser - Считана строка
+12:21:38.386 ERROR org.example.Parser.StreamParser - Файл закончен или произошла ошибка в чтении
+12:21:38.386 DEBUG org.example.Calculator.Calculator - Получена операция файла
+12:21:38.396 DEBUG org.example.FactoryComand.iComand - Не достаточно элементов в стеке при делении
+12:21:38.410 ERROR org.example.FactoryComand.Factory - Ошибка при вычисленияхnull
+12:21:38.413 DEBUG org.example.FactoryComand.Factory - Произведено вычисление
+12:21:38.415 ERROR org.example.FactoryComand.iComand - Деление на ноль
+12:21:38.415 ERROR org.example.FactoryComand.Factory - Ошибка при вычисленияхделение на ноль
+12:21:38.418 DEBUG org.example.FactoryComand.Factory - Произведено вычисление
+12:21:38.420 DEBUG org.example.FactoryComand.Factory - Подана не корректная команда
+12:21:38.423 DEBUG org.example.FactoryComand.iComand - Не достаточно элементов в стеке при счете разницы
+12:21:38.423 ERROR org.example.FactoryComand.Factory - Ошибка при вычисленияхНе хватает элементов в стеке
+12:21:38.425 DEBUG org.example.FactoryComand.Factory - Произведено вычисление
+12:21:38.427 DEBUG org.example.FactoryComand.iComand - Не достаточно элементов в стеке при произведении
+12:21:38.427 ERROR org.example.FactoryComand.Factory - Ошибка при вычисленияхНе хватает элементов в стеке
+12:21:38.429 DEBUG org.example.FactoryComand.Factory - Произведено вычисление
+12:21:38.431 DEBUG org.example.FactoryComand.Factory - Произведено вычисление
+12:21:38.433 DEBUG org.example.FactoryComand.iComand - Не достаточно элементов в стеке при сумме
+12:21:38.433 ERROR org.example.FactoryComand.Factory - Ошибка при вычисленияхНе хватает элементов в стеке
+12:21:38.435 DEBUG org.example.FactoryComand.Factory - Произведено вычисление
+12:21:38.436 DEBUG org.example.FactoryComand.iComand - Извлечение квадратного корня из отрицательного числа
+12:21:38.437 ERROR org.example.FactoryComand.Factory - Ошибка при вычисленияхотрицательное число
+12:21:38.438 DEBUG org.example.FactoryComand.iComand - Не достаточно элементов в стеке при извлечении квадратного корня
+12:21:38.438 ERROR org.example.FactoryComand.Factory - Ошибка при вычисленияхnull
+12:21:38.440 ERROR org.example.Parser.StreamParser - Поданы не корректные аргументы
+12:21:38.441 DEBUG org.example.Parser.StreamParser - Получен путь к файлу
+12:21:38.441 ERROR org.example.Parser.StreamParser - Не удалось считать файл
+12:21:38.442 ERROR org.example.Parser.StreamParser - Поданы не корректные аргументы
+12:21:38.443 DEBUG org.example.Parser.StreamParser - Получен путь к файлу
+12:21:38.443 DEBUG org.example.Parser.StreamParser - Файл считан
+12:21:38.444 DEBUG org.example.Parser.StreamParser - Считана строка
+12:21:38.444 DEBUG org.example.Parser.StreamParser - Получена строка с комментарием
+12:21:38.444 DEBUG org.example.Parser.StreamParser - Считана строка
+12:21:38.444 DEBUG org.example.Parser.StreamParser - Создан макрос
+12:21:38.444 DEBUG org.example.Parser.StreamParser - Считана строка
+12:21:38.445 ERROR org.example.Parser.StreamParser - Неверный формат ввода команды define
+12:21:38.445 DEBUG org.example.Parser.StreamParser - Считана строка
+12:21:38.445 DEBUG org.example.Parser.StreamParser - Считана строка
+12:21:38.445 ERROR org.example.Parser.StreamParser - Неверный формат ввода команды push
+12:21:38.445 DEBUG org.example.Parser.StreamParser - Считана строка
+12:21:38.445 ERROR org.example.Parser.StreamParser - Не верное значение аргументов(нет такого макроса)
+12:21:38.445 DEBUG org.example.Parser.StreamParser - Считана строка
+12:21:38.446 DEBUG org.example.Parser.StreamParser - Запушено значение
+12:21:38.446 DEBUG org.example.Parser.StreamParser - Считана строка
+12:21:38.446 DEBUG org.example.Parser.StreamParser - Запушено значение
+12:21:38.446 DEBUG org.example.Parser.StreamParser - Считана строка
+12:21:38.446 DEBUG org.example.Parser.StreamParser - pop выполнен
+12:21:38.446 DEBUG org.example.Parser.StreamParser - Считана строка
+12:21:38.446 DEBUG org.example.Parser.StreamParser - pop выполнен
+12:21:38.446 DEBUG org.example.Parser.StreamParser - Считана строка
+12:21:38.446 DEBUG org.example.Parser.StreamParser - Нет элементов в стеке pop
+12:21:38.446 DEBUG org.example.Parser.StreamParser - Считана строка
+12:21:38.447 DEBUG org.example.Parser.StreamParser - Нет элементов в стеке print
+12:21:38.447 DEBUG org.example.Parser.StreamParser - Считана строка
+12:21:38.447 DEBUG org.example.Parser.StreamParser - Запушено значение
+12:21:38.447 DEBUG org.example.Parser.StreamParser - Считана строка
+12:21:38.447 DEBUG org.example.Parser.StreamParser - print выполнен
+12:21:38.447 DEBUG org.example.Parser.StreamParser - Считана строка
+12:21:38.447 DEBUG org.example.Parser.StreamParser - Считана строка
+12:21:38.448 ERROR org.example.Parser.StreamParser - Файл закончен или произошла ошибка в чтении
+12:21:38.450 DEBUG org.example.Parser.StreamParser - Получен путь к файлу
+12:21:38.450 DEBUG org.example.Parser.StreamParser - Файл считан
+12:58:55.936 DEBUG org.example.Main - Был создан парсер
+12:58:55.938 DEBUG org.example.Calculator.Calculator - Была создана фабрика
+12:58:55.938 DEBUG org.example.Parser.StreamParser - Получен путь к файлу
+12:58:55.939 DEBUG org.example.Parser.StreamParser - Файл считан
+12:58:55.939 DEBUG org.example.Calculator.Calculator - Установлен режим file
+12:58:55.939 DEBUG org.example.Parser.StreamParser - Считана строка
+12:58:55.939 DEBUG org.example.Parser.StreamParser - Запушено значение
+12:58:55.939 DEBUG org.example.Calculator.Calculator - Получена операция файла
+12:58:55.939 DEBUG org.example.Calculator.Calculator - Обработана операция файла
+12:58:55.939 DEBUG org.example.Parser.StreamParser - Считана строка
+12:58:55.939 DEBUG org.example.Parser.StreamParser - Запушено значение
+12:58:55.939 DEBUG org.example.Calculator.Calculator - Получена операция файла
+12:58:55.939 DEBUG org.example.Calculator.Calculator - Обработана операция файла
+12:58:55.939 DEBUG org.example.Parser.StreamParser - Считана строка
+12:58:55.940 DEBUG org.example.Calculator.Calculator - Получена операция файла
+12:58:55.940 DEBUG org.example.FactoryComand.Factory - Произведено вычисление
+12:58:55.940 DEBUG org.example.Calculator.Calculator - Обработана операция файла
+12:58:55.940 DEBUG org.example.Parser.StreamParser - Считана строка
+12:58:55.940 DEBUG org.example.Parser.StreamParser - print выполнен
+12:58:55.940 DEBUG org.example.Calculator.Calculator - Получена операция файла
+12:58:55.940 DEBUG org.example.Calculator.Calculator - Обработана операция файла
+12:58:55.940 DEBUG org.example.Parser.StreamParser - Считана строка
+12:58:55.940 ERROR org.example.Parser.StreamParser - Файл закончен или произошла ошибка в чтении
+12:58:55.942 DEBUG org.example.Calculator.Calculator - Получена операция файла
+12:58:55.942 INFO  org.example.Main - Калькулятор завершил работу
+12:58:55.960 DEBUG org.example.Calculator.Calculator - Была создана фабрика
+12:58:55.960 ERROR org.example.Parser.StreamParser - Поданы не корректные аргументы
+12:58:55.962 DEBUG org.example.Calculator.Calculator - Установлен режим console
+12:58:55.966 DEBUG org.example.Calculator.Calculator - Напечатана информация о командах
+12:58:55.966 INFO  org.example.Calculator.Calculator - Калькулятор запущен
+12:58:55.966 DEBUG org.example.Parser.StreamParser - Считана строка
+12:58:55.967 DEBUG org.example.Parser.StreamParser - Запушено значение
+12:58:55.967 DEBUG org.example.Calculator.Calculator - Получена операция
+12:58:55.967 DEBUG org.example.Calculator.Calculator - Обработана операция
+12:58:55.967 DEBUG org.example.Parser.StreamParser - Считана строка
+12:58:55.967 DEBUG org.example.Parser.StreamParser - Запушено значение
+12:58:55.967 DEBUG org.example.Calculator.Calculator - Получена операция
+12:58:55.967 DEBUG org.example.Calculator.Calculator - Обработана операция
+12:58:55.967 DEBUG org.example.Parser.StreamParser - Считана строка
+12:58:55.967 DEBUG org.example.Calculator.Calculator - Получена операция
+12:58:55.967 DEBUG org.example.FactoryComand.Factory - Произведено вычисление
+12:58:55.967 DEBUG org.example.Calculator.Calculator - Обработана операция
+12:58:55.967 DEBUG org.example.Parser.StreamParser - Считана строка
+12:58:55.968 DEBUG org.example.Parser.StreamParser - print выполнен
+12:58:55.968 DEBUG org.example.Calculator.Calculator - Получена операция
+12:58:55.968 DEBUG org.example.Calculator.Calculator - Обработана операция
+12:58:55.968 DEBUG org.example.Parser.StreamParser - Считана строка
+12:58:55.968 DEBUG org.example.Calculator.Calculator - Получена операция
+12:58:55.970 DEBUG org.example.Calculator.Calculator - Была создана фабрика
+12:58:55.970 DEBUG org.example.Parser.StreamParser - Получен путь к файлу
+12:58:55.970 DEBUG org.example.Parser.StreamParser - Файл считан
+12:58:55.970 DEBUG org.example.Calculator.Calculator - Установлен режим file
+12:58:55.970 DEBUG org.example.Parser.StreamParser - Считана строка
+12:58:55.970 DEBUG org.example.Parser.StreamParser - Запушено значение
+12:58:55.970 DEBUG org.example.Calculator.Calculator - Получена операция файла
+12:58:55.970 DEBUG org.example.Calculator.Calculator - Обработана операция файла
+12:58:55.970 DEBUG org.example.Parser.StreamParser - Считана строка
+12:58:55.970 DEBUG org.example.Parser.StreamParser - Запушено значение
+12:58:55.970 DEBUG org.example.Calculator.Calculator - Получена операция файла
+12:58:55.970 DEBUG org.example.Calculator.Calculator - Обработана операция файла
+12:58:55.970 DEBUG org.example.Parser.StreamParser - Считана строка
+12:58:55.971 DEBUG org.example.Calculator.Calculator - Получена операция файла
+12:58:55.971 DEBUG org.example.FactoryComand.Factory - Произведено вычисление
+12:58:55.971 DEBUG org.example.Calculator.Calculator - Обработана операция файла
+12:58:55.971 DEBUG org.example.Parser.StreamParser - Считана строка
+12:58:55.971 DEBUG org.example.Parser.StreamParser - print выполнен
+12:58:55.971 DEBUG org.example.Calculator.Calculator - Получена операция файла
+12:58:55.971 DEBUG org.example.Calculator.Calculator - Обработана операция файла
+12:58:55.971 DEBUG org.example.Parser.StreamParser - Считана строка
+12:58:55.971 ERROR org.example.Parser.StreamParser - Файл закончен или произошла ошибка в чтении
+12:58:55.971 DEBUG org.example.Calculator.Calculator - Получена операция файла
+12:58:55.978 DEBUG org.example.FactoryComand.iComand - Не достаточно элементов в стеке при делении
+12:58:55.985 ERROR org.example.FactoryComand.Factory - Ошибка при вычисленияхnull
+12:58:55.988 DEBUG org.example.FactoryComand.Factory - Произведено вычисление
+12:58:55.990 ERROR org.example.FactoryComand.iComand - Деление на ноль
+12:58:55.991 ERROR org.example.FactoryComand.Factory - Ошибка при вычисленияхделение на ноль
+12:58:55.999 DEBUG org.example.FactoryComand.Factory - Произведено вычисление
+12:58:56.008 DEBUG org.example.FactoryComand.Factory - Подана не корректная команда
+12:58:56.016 DEBUG org.example.FactoryComand.iComand - Не достаточно элементов в стеке при счете разницы
+12:58:56.016 ERROR org.example.FactoryComand.Factory - Ошибка при вычисленияхНе хватает элементов в стеке
+12:58:56.018 DEBUG org.example.FactoryComand.Factory - Произведено вычисление
+12:58:56.023 DEBUG org.example.FactoryComand.iComand - Не достаточно элементов в стеке при произведении
+12:58:56.023 ERROR org.example.FactoryComand.Factory - Ошибка при вычисленияхНе хватает элементов в стеке
+12:58:56.024 DEBUG org.example.FactoryComand.Factory - Произведено вычисление
+12:58:56.027 DEBUG org.example.FactoryComand.Factory - Произведено вычисление
+12:58:56.027 DEBUG org.example.FactoryComand.iComand - Не достаточно элементов в стеке при сумме
+12:58:56.028 ERROR org.example.FactoryComand.Factory - Ошибка при вычисленияхНе хватает элементов в стеке
+12:58:56.031 DEBUG org.example.FactoryComand.Factory - Произведено вычисление
+12:58:56.032 DEBUG org.example.FactoryComand.iComand - Извлечение квадратного корня из отрицательного числа
+12:58:56.033 ERROR org.example.FactoryComand.Factory - Ошибка при вычисленияхотрицательное число
+12:58:56.034 DEBUG org.example.FactoryComand.iComand - Не достаточно элементов в стеке при извлечении квадратного корня
+12:58:56.035 ERROR org.example.FactoryComand.Factory - Ошибка при вычисленияхnull
+12:58:56.036 ERROR org.example.Parser.StreamParser - Поданы не корректные аргументы
+12:58:56.037 DEBUG org.example.Parser.StreamParser - Получен путь к файлу
+12:58:56.037 ERROR org.example.Parser.StreamParser - Не удалось считать файл
+12:58:56.037 ERROR org.example.Parser.StreamParser - Поданы не корректные аргументы
+12:58:56.038 DEBUG org.example.Parser.StreamParser - Получен путь к файлу
+12:58:56.038 DEBUG org.example.Parser.StreamParser - Файл считан
+12:58:56.038 DEBUG org.example.Parser.StreamParser - Считана строка
+12:58:56.038 DEBUG org.example.Parser.StreamParser - Получена строка с комментарием
+12:58:56.038 DEBUG org.example.Parser.StreamParser - Считана строка
+12:58:56.038 DEBUG org.example.Parser.StreamParser - Создан макрос
+12:58:56.038 DEBUG org.example.Parser.StreamParser - Считана строка
+12:58:56.039 ERROR org.example.Parser.StreamParser - Неверный формат ввода команды define
+12:58:56.039 DEBUG org.example.Parser.StreamParser - Считана строка
+12:58:56.039 DEBUG org.example.Parser.StreamParser - Считана строка
+12:58:56.039 ERROR org.example.Parser.StreamParser - Неверный формат ввода команды push
+12:58:56.039 DEBUG org.example.Parser.StreamParser - Считана строка
+12:58:56.039 ERROR org.example.Parser.StreamParser - Не верное значение аргументов(нет такого макроса)
+12:58:56.039 DEBUG org.example.Parser.StreamParser - Считана строка
+12:58:56.039 DEBUG org.example.Parser.StreamParser - Запушено значение
+12:58:56.039 DEBUG org.example.Parser.StreamParser - Считана строка
+12:58:56.039 DEBUG org.example.Parser.StreamParser - Запушено значение
+12:58:56.039 DEBUG org.example.Parser.StreamParser - Считана строка
+12:58:56.039 DEBUG org.example.Parser.StreamParser - pop выполнен
+12:58:56.042 DEBUG org.example.Parser.StreamParser - Считана строка
+12:58:56.042 DEBUG org.example.Parser.StreamParser - pop выполнен
+12:58:56.042 DEBUG org.example.Parser.StreamParser - Считана строка
+12:58:56.042 DEBUG org.example.Parser.StreamParser - Нет элементов в стеке pop
+12:58:56.042 DEBUG org.example.Parser.StreamParser - Считана строка
+12:58:56.042 DEBUG org.example.Parser.StreamParser - Нет элементов в стеке print
+12:58:56.042 DEBUG org.example.Parser.StreamParser - Считана строка
+12:58:56.042 DEBUG org.example.Parser.StreamParser - Запушено значение
+12:58:56.042 DEBUG org.example.Parser.StreamParser - Считана строка
+12:58:56.043 DEBUG org.example.Parser.StreamParser - print выполнен
+12:58:56.043 DEBUG org.example.Parser.StreamParser - Считана строка
+12:58:56.043 DEBUG org.example.Parser.StreamParser - Считана строка
+12:58:56.043 ERROR org.example.Parser.StreamParser - Файл закончен или произошла ошибка в чтении
+12:58:56.046 DEBUG org.example.Parser.StreamParser - Получен путь к файлу
+12:58:56.046 DEBUG org.example.Parser.StreamParser - Файл считан
+12:59:07.046 DEBUG org.example.Main - Был создан парсер
+12:59:07.054 DEBUG org.example.Calculator.Calculator - Была создана фабрика
+12:59:07.054 DEBUG org.example.Parser.StreamParser - Получен путь к файлу
+12:59:07.054 DEBUG org.example.Parser.StreamParser - Файл считан
+12:59:07.054 DEBUG org.example.Calculator.Calculator - Установлен режим file
+12:59:07.055 DEBUG org.example.Parser.StreamParser - Считана строка
+12:59:07.055 DEBUG org.example.Parser.StreamParser - Запушено значение
+12:59:07.055 DEBUG org.example.Calculator.Calculator - Получена операция файла
+12:59:07.055 DEBUG org.example.Calculator.Calculator - Обработана операция файла
+12:59:07.055 DEBUG org.example.Parser.StreamParser - Считана строка
+12:59:07.055 DEBUG org.example.Parser.StreamParser - Запушено значение
+12:59:07.055 DEBUG org.example.Calculator.Calculator - Получена операция файла
+12:59:07.055 DEBUG org.example.Calculator.Calculator - Обработана операция файла
+12:59:07.055 DEBUG org.example.Parser.StreamParser - Считана строка
+12:59:07.055 DEBUG org.example.Calculator.Calculator - Получена операция файла
+12:59:07.055 DEBUG org.example.FactoryComand.Factory - Произведено вычисление
+12:59:07.055 DEBUG org.example.Calculator.Calculator - Обработана операция файла
+12:59:07.056 DEBUG org.example.Parser.StreamParser - Считана строка
+12:59:07.057 DEBUG org.example.Parser.StreamParser - print выполнен
+12:59:07.057 DEBUG org.example.Calculator.Calculator - Получена операция файла
+12:59:07.057 DEBUG org.example.Calculator.Calculator - Обработана операция файла
+12:59:07.057 DEBUG org.example.Parser.StreamParser - Считана строка
+12:59:07.057 ERROR org.example.Parser.StreamParser - Файл закончен или произошла ошибка в чтении
+12:59:07.061 DEBUG org.example.Calculator.Calculator - Получена операция файла
+12:59:07.061 INFO  org.example.Main - Калькулятор завершил работу
+12:59:07.079 DEBUG org.example.Calculator.Calculator - Была создана фабрика
+12:59:07.079 ERROR org.example.Parser.StreamParser - Поданы не корректные аргументы
+12:59:07.080 DEBUG org.example.Calculator.Calculator - Установлен режим console
+12:59:07.083 DEBUG org.example.Calculator.Calculator - Напечатана информация о командах
+12:59:07.083 INFO  org.example.Calculator.Calculator - Калькулятор запущен
+12:59:07.083 DEBUG org.example.Parser.StreamParser - Считана строка
+12:59:07.083 DEBUG org.example.Parser.StreamParser - Запушено значение
+12:59:07.084 DEBUG org.example.Calculator.Calculator - Получена операция
+12:59:07.084 DEBUG org.example.Calculator.Calculator - Обработана операция
+12:59:07.084 DEBUG org.example.Parser.StreamParser - Считана строка
+12:59:07.084 DEBUG org.example.Parser.StreamParser - Запушено значение
+12:59:07.084 DEBUG org.example.Calculator.Calculator - Получена операция
+12:59:07.084 DEBUG org.example.Calculator.Calculator - Обработана операция
+12:59:07.084 DEBUG org.example.Parser.StreamParser - Считана строка
+12:59:07.084 DEBUG org.example.Calculator.Calculator - Получена операция
+12:59:07.084 DEBUG org.example.FactoryComand.Factory - Произведено вычисление
+12:59:07.084 DEBUG org.example.Calculator.Calculator - Обработана операция
+12:59:07.084 DEBUG org.example.Parser.StreamParser - Считана строка
+12:59:07.084 DEBUG org.example.Parser.StreamParser - print выполнен
+12:59:07.085 DEBUG org.example.Calculator.Calculator - Получена операция
+12:59:07.085 DEBUG org.example.Calculator.Calculator - Обработана операция
+12:59:07.085 DEBUG org.example.Parser.StreamParser - Считана строка
+12:59:07.085 DEBUG org.example.Calculator.Calculator - Получена операция
+12:59:07.086 DEBUG org.example.Calculator.Calculator - Была создана фабрика
+12:59:07.086 DEBUG org.example.Parser.StreamParser - Получен путь к файлу
+12:59:07.086 DEBUG org.example.Parser.StreamParser - Файл считан
+12:59:07.087 DEBUG org.example.Calculator.Calculator - Установлен режим file
+12:59:07.087 DEBUG org.example.Parser.StreamParser - Считана строка
+12:59:07.087 DEBUG org.example.Parser.StreamParser - Запушено значение
+12:59:07.087 DEBUG org.example.Calculator.Calculator - Получена операция файла
+12:59:07.087 DEBUG org.example.Calculator.Calculator - Обработана операция файла
+12:59:07.087 DEBUG org.example.Parser.StreamParser - Считана строка
+12:59:07.087 DEBUG org.example.Parser.StreamParser - Запушено значение
+12:59:07.087 DEBUG org.example.Calculator.Calculator - Получена операция файла
+12:59:07.087 DEBUG org.example.Calculator.Calculator - Обработана операция файла
+12:59:07.087 DEBUG org.example.Parser.StreamParser - Считана строка
+12:59:07.087 DEBUG org.example.Calculator.Calculator - Получена операция файла
+12:59:07.087 DEBUG org.example.FactoryComand.Factory - Произведено вычисление
+12:59:07.087 DEBUG org.example.Calculator.Calculator - Обработана операция файла
+12:59:07.087 DEBUG org.example.Parser.StreamParser - Считана строка
+12:59:07.088 DEBUG org.example.Parser.StreamParser - print выполнен
+12:59:07.088 DEBUG org.example.Calculator.Calculator - Получена операция файла
+12:59:07.088 DEBUG org.example.Calculator.Calculator - Обработана операция файла
+12:59:07.088 DEBUG org.example.Parser.StreamParser - Считана строка
+12:59:07.088 ERROR org.example.Parser.StreamParser - Файл закончен или произошла ошибка в чтении
+12:59:07.088 DEBUG org.example.Calculator.Calculator - Получена операция файла
+12:59:07.094 DEBUG org.example.FactoryComand.iComand - Не достаточно элементов в стеке при делении
+12:59:07.114 ERROR org.example.FactoryComand.Factory - Ошибка при вычисленияхnull
+12:59:07.116 DEBUG org.example.FactoryComand.Factory - Произведено вычисление
+12:59:07.117 ERROR org.example.FactoryComand.iComand - Деление на ноль
+12:59:07.118 ERROR org.example.FactoryComand.Factory - Ошибка при вычисленияхделение на ноль
+12:59:07.122 DEBUG org.example.FactoryComand.Factory - Произведено вычисление
+12:59:07.123 DEBUG org.example.FactoryComand.Factory - Подана не корректная команда
+12:59:07.126 DEBUG org.example.FactoryComand.iComand - Не достаточно элементов в стеке при счете разницы
+12:59:07.126 ERROR org.example.FactoryComand.Factory - Ошибка при вычисленияхНе хватает элементов в стеке
+12:59:07.130 DEBUG org.example.FactoryComand.Factory - Произведено вычисление
+12:59:07.136 DEBUG org.example.FactoryComand.iComand - Не достаточно элементов в стеке при произведении
+12:59:07.136 ERROR org.example.FactoryComand.Factory - Ошибка при вычисленияхНе хватает элементов в стеке
+12:59:07.138 DEBUG org.example.FactoryComand.Factory - Произведено вычисление
+12:59:07.142 DEBUG org.example.FactoryComand.Factory - Произведено вычисление
+12:59:07.143 DEBUG org.example.FactoryComand.iComand - Не достаточно элементов в стеке при сумме
+12:59:07.144 ERROR org.example.FactoryComand.Factory - Ошибка при вычисленияхНе хватает элементов в стеке
+12:59:07.149 DEBUG org.example.FactoryComand.Factory - Произведено вычисление
+12:59:07.151 DEBUG org.example.FactoryComand.iComand - Извлечение квадратного корня из отрицательного числа
+12:59:07.151 ERROR org.example.FactoryComand.Factory - Ошибка при вычисленияхотрицательное число
+12:59:07.153 DEBUG org.example.FactoryComand.iComand - Не достаточно элементов в стеке при извлечении квадратного корня
+12:59:07.153 ERROR org.example.FactoryComand.Factory - Ошибка при вычисленияхnull
+12:59:07.160 ERROR org.example.Parser.StreamParser - Поданы не корректные аргументы
+12:59:07.169 DEBUG org.example.Parser.StreamParser - Получен путь к файлу
+12:59:07.173 ERROR org.example.Parser.StreamParser - Не удалось считать файл
+12:59:07.175 ERROR org.example.Parser.StreamParser - Поданы не корректные аргументы
+12:59:07.186 DEBUG org.example.Parser.StreamParser - Получен путь к файлу
+12:59:07.187 DEBUG org.example.Parser.StreamParser - Файл считан
+12:59:07.190 DEBUG org.example.Parser.StreamParser - Считана строка
+12:59:07.190 DEBUG org.example.Parser.StreamParser - Получена строка с комментарием
+12:59:07.190 DEBUG org.example.Parser.StreamParser - Считана строка
+12:59:07.190 DEBUG org.example.Parser.StreamParser - Создан макрос
+12:59:07.190 DEBUG org.example.Parser.StreamParser - Считана строка
+12:59:07.190 ERROR org.example.Parser.StreamParser - Неверный формат ввода команды define
+12:59:07.190 DEBUG org.example.Parser.StreamParser - Считана строка
+12:59:07.190 DEBUG org.example.Parser.StreamParser - Считана строка
+12:59:07.190 ERROR org.example.Parser.StreamParser - Неверный формат ввода команды push
+12:59:07.191 DEBUG org.example.Parser.StreamParser - Считана строка
+12:59:07.191 ERROR org.example.Parser.StreamParser - Не верное значение аргументов(нет такого макроса)
+12:59:07.191 DEBUG org.example.Parser.StreamParser - Считана строка
+12:59:07.191 DEBUG org.example.Parser.StreamParser - Запушено значение
+12:59:07.191 DEBUG org.example.Parser.StreamParser - Считана строка
+12:59:07.191 DEBUG org.example.Parser.StreamParser - Запушено значение
+12:59:07.191 DEBUG org.example.Parser.StreamParser - Считана строка
+12:59:07.191 DEBUG org.example.Parser.StreamParser - pop выполнен
+12:59:07.191 DEBUG org.example.Parser.StreamParser - Считана строка
+12:59:07.191 DEBUG org.example.Parser.StreamParser - pop выполнен
+12:59:07.191 DEBUG org.example.Parser.StreamParser - Считана строка
+12:59:07.191 DEBUG org.example.Parser.StreamParser - Нет элементов в стеке pop
+12:59:07.192 DEBUG org.example.Parser.StreamParser - Считана строка
+12:59:07.192 DEBUG org.example.Parser.StreamParser - Нет элементов в стеке print
+12:59:07.192 DEBUG org.example.Parser.StreamParser - Считана строка
+12:59:07.192 DEBUG org.example.Parser.StreamParser - Запушено значение
+12:59:07.192 DEBUG org.example.Parser.StreamParser - Считана строка
+12:59:07.192 DEBUG org.example.Parser.StreamParser - print выполнен
+12:59:07.192 DEBUG org.example.Parser.StreamParser - Считана строка
+12:59:07.192 DEBUG org.example.Parser.StreamParser - Считана строка
+12:59:07.192 ERROR org.example.Parser.StreamParser - Файл закончен или произошла ошибка в чтении
+12:59:07.197 DEBUG org.example.Parser.StreamParser - Получен путь к файлу
+12:59:07.198 DEBUG org.example.Parser.StreamParser - Файл считан
