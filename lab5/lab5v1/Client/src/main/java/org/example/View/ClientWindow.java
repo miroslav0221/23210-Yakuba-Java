@@ -21,16 +21,14 @@ public class ClientWindow extends JFrame {
     public ClientWindow() {
         setTitle("Chat Client");
         setSize(700, 500);
-        setDefaultCloseOperation(DO_NOTHING_ON_CLOSE); // Не закрывать приложение автоматически
+        setDefaultCloseOperation(DO_NOTHING_ON_CLOSE); 
         setLocationRelativeTo(null);
 
-        // Сообщения
         messagePanel = new JPanel();
         messagePanel.setLayout(new BoxLayout(messagePanel, BoxLayout.Y_AXIS));
         JScrollPane scrollPane = new JScrollPane(messagePanel);
         scrollPane.setVerticalScrollBarPolicy(JScrollPane.VERTICAL_SCROLLBAR_ALWAYS);
 
-        // Ввод текста
         inputField = new JTextField();
         sendButton = new JButton("Send");
 
@@ -38,22 +36,18 @@ public class ClientWindow extends JFrame {
         inputPanel.add(inputField, BorderLayout.CENTER);
         inputPanel.add(sendButton, BorderLayout.EAST);
 
-        // Список пользователей
         userListPanel = new UserListPanel();
         userListPanel.setPreferredSize(new Dimension(200, 0));
 
-        // Разделение на чат и список пользователей
         JSplitPane splitPane = new JSplitPane(JSplitPane.HORIZONTAL_SPLIT, scrollPane, userListPanel);
         splitPane.setDividerLocation(500);
 
-        // Основной layout
         getContentPane().setLayout(new BorderLayout());
         getContentPane().add(splitPane, BorderLayout.CENTER);
         getContentPane().add(inputPanel, BorderLayout.SOUTH);
 
         setVisible(true);
 
-        // Слушатель кнопки отправки
         sendButton.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
@@ -68,24 +62,24 @@ public class ClientWindow extends JFrame {
             }
         });
 
-        // Обработчик закрытия окна
+
         addWindowListener(new WindowAdapter() {
             @Override
             public void windowClosing(WindowEvent e) {
                 if (listener != null) {
-                    listener.stopWorking(); // Завершаем работу при закрытии окна
+                    listener.stopWorking(); 
                 }
-                System.exit(0); // Закрытие программы
+                System.exit(0); 
             }
         });
     }
 
-    // Обработчик нажатия на кнопку или Enter
+ 
     private void handleSend() {
         String text = inputField.getText();
         if (!text.isEmpty() && listener != null) {
-            listener.sendMessage(text); // Отправляем сообщение через слушателя
-            inputField.setText(""); // Очищаем поле
+            listener.sendMessage(text);
+            inputField.setText(""); 
         }
     }
 
@@ -101,22 +95,18 @@ public class ClientWindow extends JFrame {
         messagePanel.revalidate();
         messagePanel.repaint();
 
-        // Автоскроллинг вниз
         JScrollBar vertical = ((JScrollPane) messagePanel.getParent().getParent()).getVerticalScrollBar();
         vertical.setValue(vertical.getMaximum());
     }
 
-    // Обновление списка пользователей
     public void updateUserList(List<String> users) {
         userListPanel.updateUsers(users);
     }
 
-    // Установка слушателя
     public void setListener(ClientWindowListener listener) {
         this.listener = listener;
     }
 
-    // Установка имени пользователя
     public void setCurrentUsername(String username) {
         userListPanel.setCurrentUsername(username);
     }
