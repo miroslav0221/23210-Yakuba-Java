@@ -7,7 +7,7 @@ import java.util.List;
 public class UserListPanel extends JPanel {
     private DefaultListModel<String> userListModel;
     private JList<String> userList;
-    private String currentUsername; // Хранить имя текущего пользователя
+    private String currentUsername; 
 
     public UserListPanel() {
         setLayout(new BorderLayout());
@@ -21,7 +21,6 @@ public class UserListPanel extends JPanel {
         add(scrollPane, BorderLayout.CENTER);
     }
 
-    // Обновление списка пользователей
     public void updateUsers(List<String> users) {
         userListModel.clear();
         for (String user : users) {
@@ -32,22 +31,19 @@ public class UserListPanel extends JPanel {
         highlightCurrentUser();
     }
 
-    // Установка текущего пользователя, которого нужно подсветить
     public void setCurrentUsername(String username) {
         this.currentUsername = username;
-        highlightCurrentUser(); // Подсветим сразу после установки
+        highlightCurrentUser(); 
     }
 
-    // Метод для подсветки текущего пользователя
     private void highlightCurrentUser() {
         if (currentUsername != null) {
-            // Проходим по всем пользователям и ищем текущего
             for (int i = 0; i < userListModel.getSize(); i++) {
                 String user = userListModel.getElementAt(i);
                 if (user.equals(currentUsername)) {
-                    userList.setSelectionBackground(new Color(180, 112, 111, 70)); // Цвет фона для выделения
-                    userList.setSelectionMode(ListSelectionModel.SINGLE_SELECTION); // Позволяем выделять одного пользователя
-                    userList.setSelectedIndex(i); // Подсвечиваем текущего пользователя
+                    userList.setSelectionBackground(new Color(180, 112, 111, 70)); 
+                    userList.setSelectionMode(ListSelectionModel.SINGLE_SELECTION);
+                    userList.setSelectedIndex(i);
                     break;
                 }
             }
