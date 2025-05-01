@@ -101,8 +101,8 @@ public class UserThread extends Thread {
     @Override
     public void run() {
         isWorking = true;
-        sendListMessages();
-        getNameUser();
+        sendListMessages(); //
+        getNameUser(); //
         Message message;
         try {
             while (isWorking) {
@@ -134,13 +134,14 @@ public class UserThread extends Thread {
     }
 
     private void sendUserList() throws IOException {
-
+        StringBuilder str = new StringBuilder();
         for (int i = 0; i < Server.usersList.size(); i++) {
             System.out.println(Server.usersList.get(i));
+            str.append(Server.usersList.get(i));
+            str.append("$");
         }
-
         out.writeObject("userlist");
-        out.writeObject(Server.usersList);
+        out.writeObject(str);
         out.flush();
         synchronized (Server.loger) {
             Server.loger.sendListUsers();
