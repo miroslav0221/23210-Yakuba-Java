@@ -22,7 +22,20 @@ public class ReaderThread extends Thread {
 
     private void getListNames() {
         try {
-            ArrayList<String> usernames = (ArrayList<String>)in.readObject();
+
+            ArrayList<String> usernames = new ArrayList<>();
+            StringBuilder str = (StringBuilder) in.readObject();
+            StringBuilder word = new StringBuilder();
+            for(int i = 0; i < str.length(); i++) {
+                Character elem = str.charAt(i);
+                if (elem.equals('$')) {
+                    usernames.add(word.toString());
+                    word.setLength(0);
+                }
+                else {
+                    word.append(elem);
+                }
+            }
             for (String username : usernames) {
                 System.out.println(username);
             }
