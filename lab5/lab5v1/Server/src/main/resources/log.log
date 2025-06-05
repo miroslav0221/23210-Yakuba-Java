@@ -1,0 +1,86 @@
+name connected
+Send list users
+28.04 19:35 :  get message
+28.04 19:35 :  send message
+28.04 19:35 : name get message
+28.04 19:35 : name send message
+name2 connected
+Send list users
+Send list users
+28.04 19:35 :  get message
+28.04 19:35 :  send message
+28.04 19:35 :  send message
+28.04 19:35 : name2 get message
+28.04 19:35 : name2 send message
+28.04 19:35 : name2 send message
+28.04 19:35 :  get message
+28.04 19:35 :  send message
+28.04 19:35 :  send message
+28.04 19:35 : System get message
+name2 deleted
+Send list users
+28.04 19:35 :  get message
+28.04 19:35 :  send message
+28.04 19:35 : System get message
+name deleted
+dasha connected
+Send list users
+28.04 20:05 :  get message
+28.04 20:05 :  send message
+28.04 20:05 : dasha get message
+28.04 20:05 : dasha send message
+miron connected
+Send list users
+Send list users
+28.04 20:06 :  get message
+28.04 20:06 :  send message
+28.04 20:06 :  send message
+28.04 20:06 : dasha get message
+28.04 20:06 : dasha send message
+28.04 20:06 : dasha send message
+28.04 20:06 : miron get message
+28.04 20:06 : miron send message
+28.04 20:06 : miron send message
+miron deleted
+Send list users
+dasha deleted
+name connected
+Send list users
+28.04 20:29 :  get message
+28.04 20:29 :  send message
+name2 connected
+Send list users
+Send list users
+28.04 20:29 :  get message
+28.04 20:29 :  send message
+28.04 20:29 :  send message
+28.04 20:29 :  get message
+28.04 20:29 :  send message
+28.04 20:29 :  send message
+28.04 20:29 : System get message
+name2 deleted
+Send list users
+28.04 20:29 :  get message
+28.04 20:29 :  send message
+28.04 20:29 : System get message
+name deleted
+name connected
+Send list users
+29.04 02:12 :  get message
+29.04 02:12 :  send message
+name2 connected
+Send list users
+Send list users
+29.04 02:12 :  get message
+29.04 02:12 :  send message
+29.04 02:12 :  send message
+29.04 02:12 :  get message
+29.04 02:12 :  send message
+29.04 02:12 :  send message
+29.04 02:12 : System get message
+name deleted
+Send list users
+29.04 02:12 :  get message
+29.04 02:12 :  send message
+29.04 02:12 : System get message
+name2 deleted
